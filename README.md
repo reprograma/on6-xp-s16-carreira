@@ -44,7 +44,7 @@ Nessa semana vamos olhar um pouquinho para nossa trajetória e preparar aquele c
 
 9. Agora apenas relaxe! 🧘🏾‍♀️
 
-## 📅 Até quando posse enviar o PR ?
+## 📅 Até quando posso enviar o PR ?
 
 O prazo para enviar o PR atualizado é até 23h do dia 27/11.
 
