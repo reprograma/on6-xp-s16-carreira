@@ -39,4 +39,13 @@ Nessa semana vamos olhar um pouquinho para nossa trajetória e preparar aquele c
   ![Fork](assets/pr1.png)
 
 8. Escreve uma mensagem no PR e clique em Create Pull Request (⚠️ não clique em merge, deixe que a equipe da reprograma vai fazer isso)
- [Fork](assets/pr2.png)
+
+ ![Fork](assets/pr2.png)
+
+9. Agora apenas relaxe! 🧘🏾‍♀️
+
+## 📅 Até quando posse enviar o PR ?
+
+O prazo para enviar o PR atualizado é até 23h do dia 27/11.
+
+Qualquer problema no envio comunique no chat e vamos te ajudar.
