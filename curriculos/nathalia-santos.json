@@ -1,80 +1,96 @@
 {
-  "nome_completo": "Seu Nome Completo",
-  "o_que_eu_quero": "Descrição resumida sobre o que você deseja para sua carreira",
+  "nome_completo": "Nathália Cristina dos Santos",
+  "o_que_eu_quero": "Iniciar na carreira de Desenvolvedora Back-End",
   "cidade_estado:": "São Paulo/SP",
-  "link_linkedin": "https://www.linkedin.com/in/seulinkedin/",
-  "link_github": "https://github.com/seugithub",
-  "email": "seuemail@gmail.com",
+  "link_linkedin": "https://www.linkedin.com/in/nathaliacs/",
+  "link_github": "https://github.com/nathaliacsan",
+  "email": "nathaliacsan@gmail.com",
   "um_pouco_sobre_mim": [
-    "Aqui é um parágrafo descrevendo um pouco sobre você",
-    "Aqui é outro parágrafo falando sobre sua trajetória",
-    "Nesse aqui você pode dizer o que você curte fazer",
-    "Fique a vontade, mas busque ser objetiva"
+    "Sou psicóloga de formação mas tive contato com a programação em 2007 no meu colegial técnico, trabalhei durante alguns anos como recrutadora e em 2020 decidi seguir a minha primeira opção de carreira escolhida aos 13 anos, desenvolvedora.",
+    "Assim como a psicologia, acredito que a tecnologia está presente para transformar o mundo em um lugar melhor. É ajudando grandes empresas a reprogramarem o mundo atual que desejo seguir minha trajetória profissional.",
+    "Nas minhas horas livres realizo trabalho voluntário para o público LGBTQI+, participo de uma ONG filiada a Organização das Nações Unidas(ONU) e gosto de praticar atividades físicas como jiu-jitsu e musculação."   
   ],
   "no_que_ja_trabalhei": [
     {
-      "cargo_funcao": "Design Gráfica",
-      "empresa": "Empresa XPTO",
-      "periodo": "Jan/2017 a Dez/2018",
-      "atividades_desenvolvidas": "Diagramação, posts para as redes sociais, gerenciamento do site; atendimento e venda de ingresso para eventos.",
-      "link": null
+      "cargo_funcao": "Tech Recruiter",
+      "empresa": "Omni Banco e Financeira",
+      "periodo": "Jan/2020 a Atual",
+      "atividades_desenvolvidas": "Além das atividades padrões do cargo que envolvem todo o processo de recrutamento e seleção, desenvolvi uma calculadora programada com HTML5, CSS3 e JavaScript que me ajuda diariamente.",
+      "link": "https://www.omni.com.br/"
     },
     {
-      "cargo_funcao": "Projeto Voluntário",
-      "empresa": "Reprograma - Cliente Fulano",
-      "periodo": "Jan/2017 a Dez/2018",
-      "atividades_desenvolvidas": "Diagramação, posts para as redes sociais, gerenciamento do site; atendimento e venda de ingresso para eventos.",
-      "link": "http://clientefulano.com.br"
+      "cargo_funcao": "Analista de Atração e Retenção",
+      "empresa": "Beblue - Fintech do grupo Omni Banco e Financeira",
+      "periodo": "Mai/2019 a Jan/2020",
+      "atividades_desenvolvidas": "Fui responsável pelo processo de recrutamento e seleção do time comercial do Beblue no âmbito nacional; Liderei ações de Clima e Cultura; Apresentei o onboarding de novos colaboradores.",
+      "link": "https://www.beblue.com.br/"
+    },
+    {
+      "cargo_funcao": "Tech Recruiter",
+      "empresa": "GSN Consultoria / Alocada na Everis",
+      "periodo": "Mai/2018 a Abr/2019",
+      "atividades_desenvolvidas": "Na GSN realizei processo de recrutamento e seleção para startup's e tive a oportunidade de ficar alocada na Everis, consultoria multinacional de tecnologia. Foi nessa empresa que conheci sobre back-end, front-end, banco de dados e tive também a oportunidade de conversar com gestores de tecnologia que me ensinaram mais sobre a área de desenvolvimento.",
+      "link": "https://www.everis.com/brazil/pt-br/home-br"
     }
   ],
   "o_que_ja_estudei": [
     {
-      "curso": "Design Gráfico",
-      "instituicao": "Escola Tal",
-      "periodo": "Jan/2016 a Dez/2018",
-      "resumo_conhecimentos_aprendidos": "Criação, planejamento, edição de mídias e conteúdos"
+      "curso": "Gestão Estratégica de Pessoas",
+      "instituicao": "Fundação Escola de Comércio Álvares Penteado",
+      "periodo": "2017 a 2018",
+      "resumo_conhecimentos_aprendidos": null
     },
     {
-      "curso": "Curso de Web Design",
-      "instituicao": "Escola Tal",
-      "periodo": "Jan/2015 a Dez/2015",
-      "resumo_conhecimentos_aprendidos": "Criação, planejamento, edição de mídias e conteúdos"
+      "curso": "Psicologia",
+      "instituicao": "Universidade Anhembi Morumbi",
+      "periodo": "2011 a 2015",
+      "resumo_conhecimentos_aprendidos": null
+    },
+    {
+      "curso": "Informática",
+      "instituicao": "Colégio Radial",
+      "periodo": "2007 a 2009",
+      "resumo_conhecimentos_aprendidos": null
     }
   ],
   "meus_outros_aprendizados_e_interesses": [
+    
     {
-      "interesse_evento_curso": "Curso online de Javascript",
-      "instituicao": "Udemy",
-      "resumo_conhecimentos_interesses": "Entendimento sobre a sintaxe básica do javascript"
+      "interesse_evento_curso": "Curso online de Javascript - 40 horas.",
+      "instituicao": "Alura",
+      "resumo_conhecimentos_interesses": "Primeiros passos com a linguagem, Programando na linguagem web e Programando a Orientação a Objetos."
     },
     {
-      "interesse_evento_curso": "Curso ES6",
+      "interesse_evento_curso": "HTML5 e CSS3 - 32 horas",
+      "instituicao": "Alura",
+      "resumo_conhecimentos_interesses": "Posicionamento, listas, navegação, formulários e tabelas."
+    },
+    {
+      "interesse_evento_curso": "Fundamentos da programação - 12 horas",
       "instituicao": "Udemy",
-      "resumo_conhecimentos_interesses": "Entendimento sobre a sintaxe moderna do javascript"
+      "resumo_conhecimentos_interesses": "Algoritmos com Fluxograma, Portugol / Pseudocódigo e Linguagem C."
+    },
+    {
+      "interesse_evento_curso": "Voluntária",
+      "instituicao": "TODXS",
+      "resumo_conhecimentos_interesses": "Fui selecionada através de um processo nacional para participar do programa Todxs Embaixadorxs que envolve desde workshops e palestras até a criação de um projeto inovador para a comunidade LGBTI+.; A TODXS é uma organização sem fins lucrativos que promove a inclusão de pessoas LGBTI+ na sociedade com iniciativas de formação de lideranças, pesquisa, conscientização e segurança."
+    },
+    {
+      "interesse_evento_curso": "Voluntária",
+      "instituicao": "Brasil Soka Gakkai Internacional",
+      "resumo_conhecimentos_interesses": "Responsável pela organização de evento mensal, incluindo atividades como elaboração de conteúdo e apresentação de palestras.; A missão da BSGI é contribuir para a construção de uma sociedade pacífica baseada no Humanismo, por meio da promoção de ações conscientes que desenvolvam o potencial inerente de todo ser humano."
     }
   ],
   "no_que_me_destaco": [
-    { "habilidade_ferramenta": "HTML", "pontuacao": 9 },
-    { "habilidade_ferramenta": "CSS", "pontuacao": 9 },
-    { "habilidade_ferramenta": "SASS", "pontuacao": 6 },
-    { "habilidade_ferramenta": "JAVASCRIPT", "pontuacao": 8 },
-    { "habilidade_ferramenta": "JQUERY", "pontuacao": 6 },
-    { "habilidade_ferramenta": "NODE", "pontuacao": 1 },
-    { "habilidade_ferramenta": "GIT/GITHUB", "pontuacao": 8 },
-    { "habilidade_ferramenta": "BOOTSTRAP", "pontuacao": 9 },
-    { "habilidade_ferramenta": "REACT", "pontuacao": 8 },
-    { "habilidade_ferramenta": "METODOLOGIAS ÁGEIS", "pontuacao": 5 },
-    { "habilidade_ferramenta": "RESPONSIVIDADE", "pontuacao": 9 },
-    { "habilidade_ferramenta": "UX DESIGN", "pontuacao": 6 },
-    { "habilidade_ferramenta": "TECNOLOGIA ASSISTIVAS", "pontuacao": 6 },
-    { "habilidade_ferramenta": "WORDPRESS", "pontuacao": 9 },
-    { "habilidade_ferramenta": "PHP", "pontuacao": 3 },
-    { "habilidade_ferramenta": "MySQL", "pontuacao": 3 },
-    { "habilidade_ferramenta": "HOSPEDAGEM DE SITE", "pontuacao": 8 },
-    { "habilidade_ferramenta": "FTP", "pontuacao": 5 },
-    { "habilidade_ferramenta": "CONFIGURAÇÃO DE DOMÍNIO", "pontuacao": 8 },
-    { "habilidade_ferramenta": "PHOTOSHOP", "pontuacao": 9 },
-    { "habilidade_ferramenta": "ILUSTRATOR", "pontuacao": 9 },
-    { "habilidade_ferramenta": "INDESIGN", "pontuacao": 9 }
+    { "habilidade_ferramenta": "NODE", "pontuacao": 10 },
+    { "habilidade_ferramenta": "JAVASCRIPT", "pontuacao": 10 },
+    { "habilidade_ferramenta": "GIT/GITHUB", "pontuacao": 10 },
+    { "habilidade_ferramenta": "POSTMAN", "pontuacao": 10 },
+    { "habilidade_ferramenta": "MONGODB", "pontuacao": 9 },
+    { "habilidade_ferramenta": "MVC", "pontuacao": 8 },
+    { "habilidade_ferramenta": "API REST", "pontuacao": 8 },
+    { "habilidade_ferramenta": "HTML5", "pontuacao": 7 },
+    { "habilidade_ferramenta": "PHOTOSHOP", "pontuacao": 6 },
+    { "habilidade_ferramenta": "CSS3", "pontuacao": 3 }
   ]
 }
