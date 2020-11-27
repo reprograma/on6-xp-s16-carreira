@@ -29,7 +29,7 @@
       "cargo_funcao": "Tech Recruiter",
       "empresa": "GSN Consultoria / Alocada na Everis",
       "periodo": "Mai/2018 a Abr/2019",
-      "atividades_desenvolvidas": "Na GSN realizei processo de recrutamento e seleção para startup's e tive a oportunidade de ficar alocada na Everis, consultoria multinacional de tecnologia. Foi nessa empresa que conheci sobre back-end, front-end, banco de dados e tive também a oportunidade de conversar com gestores de tecnologia que me ensinaram mais sobre a área de desenvolvimento.",
+      "atividades_desenvolvidas": "Na GSN realizei processo de recrutamento e seleção para diferentes startup's e por um período tive a oportunidade de ficar alocada na Everis, consultoria multinacional de tecnologia. Foi nessa empresa que conheci sobre back-end, front-end, banco de dados e tive também a oportunidade de conversar com gestores de tecnologia que me ensinaram mais sobre a área de desenvolvimento.",
       "link": "https://www.everis.com/brazil/pt-br/home-br"
     }
   ],
@@ -55,6 +55,11 @@
   ],
   "meus_outros_aprendizados_e_interesses": [
     
+    {
+      "interesse_evento_curso": "Bootcamp Back-End",
+      "instituicao": "Reprograma",
+      "resumo_conhecimentos_interesses": "No Bootcamp estudei e coloquei na prática Node.js, JavaScript, MongoDB, MVC, API REST, JWT, Postman, versionamento git, "
+    },
     {
       "interesse_evento_curso": "Curso online de Javascript - 40 horas.",
       "instituicao": "Alura",
@@ -82,15 +87,18 @@
     }
   ],
   "no_que_me_destaco": [
-    { "habilidade_ferramenta": "NODE", "pontuacao": 10 },
-    { "habilidade_ferramenta": "JAVASCRIPT", "pontuacao": 10 },
-    { "habilidade_ferramenta": "GIT/GITHUB", "pontuacao": 10 },
-    { "habilidade_ferramenta": "POSTMAN", "pontuacao": 10 },
-    { "habilidade_ferramenta": "MONGODB", "pontuacao": 9 },
+    { "habilidade_ferramenta": "NODE", "pontuacao": 9 },
+    { "habilidade_ferramenta": "JAVASCRIPT", "pontuacao": 9 },
+    { "habilidade_ferramenta": "GIT/GITHUB", "pontuacao": 9 },
+    { "habilidade_ferramenta": "POSTMAN", "pontuacao": 9 },
+    { "habilidade_ferramenta": "MONGODB", "pontuacao": 8 },
     { "habilidade_ferramenta": "MVC", "pontuacao": 8 },
+    { "habilidade_ferramenta": "NPM", "pontuacao": 8 },
+    { "habilidade_ferramenta": "INGLÊS", "pontuacao": 8 },
     { "habilidade_ferramenta": "API REST", "pontuacao": 8 },
+    { "habilidade_ferramenta": "JWT", "pontuacao": 7 },
     { "habilidade_ferramenta": "HTML5", "pontuacao": 7 },
     { "habilidade_ferramenta": "PHOTOSHOP", "pontuacao": 6 },
-    { "habilidade_ferramenta": "CSS3", "pontuacao": 3 }
+    { "habilidade_ferramenta": "CSS3", "pontuacao": 4 }
   ]
 }
