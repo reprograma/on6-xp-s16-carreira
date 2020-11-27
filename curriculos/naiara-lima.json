@@ -58,9 +58,19 @@
   ],
   "meus_outros_aprendizados_e_interesses": [
     {
+      "interesse_evento_curso": "Data Analytics",
+      "instituicao": "Digital House",
+      "resumo_conhecimentos_interesses": "Banco de dados, excel, powerBI, SQL."
+    },
+    {
       "interesse_evento_curso": "BootCamp BackEnd",
       "instituicao": "Reprograma",
-      "resumo_conhecimentos_interesses": "JavaScript, Nodejs , Api Rest e  Mongo DB."
+      "resumo_conhecimentos_interesses": "JavaScript, Nodejs, Api Rest e  Mongo DB."
+    },
+    {
+      "interesse_evento_curso": "MONGO DB",
+      "instituicao": "DaniAcademy",
+      "resumo_conhecimentos_interesses": "Formas normais, teorema de Cap , dataType, escabilidade e comandos MongoDb."
     },
     {
       "interesse_evento_curso": "FrontEnd",
@@ -89,22 +99,23 @@
     },
   ],
   "no_que_me_destaco": [
-    { "habilidade_ferramenta": "HTML", "pontuacao": 5 },
-    { "habilidade_ferramenta": "CSS", "pontuacao": 5 },
-    { "habilidade_ferramenta": "JAVASCRIPT", "pontuacao": 8 },
-    { "habilidade_ferramenta": "NODE", "pontuacao": 8 },
-    { "habilidade_ferramenta": "MONGO DB", "pontuacao": 7},
-    { "habilidade_ferramenta": "GIT/GITHUB", "pontuacao": 8 },
+    { "habilidade_ferramenta": "HTML", "pontuacao": 4 },
+    { "habilidade_ferramenta": "CSS", "pontuacao": 4 },
+    { "habilidade_ferramenta": "JAVASCRIPT", "pontuacao": 9 },
+    { "habilidade_ferramenta": "NODE", "pontuacao": 9 },
+    { "habilidade_ferramenta": "MONGO DB", "pontuacao": 10},
+    { "habilidade_ferramenta": "GIT/GITHUB", "pontuacao": 10},
     { "habilidade_ferramenta": "PHOTOSHOP", "pontuacao": 10 },
     { "habilidade_ferramenta": "ILUSTRATOR", "pontuacao": 7 },
     { "habilidade_ferramenta": "MAYA", "pontuacao": 6 },
     { "habilidade_ferramenta": "PREMIERE", "pontuacao": 8},
     { "habilidade_ferramenta": "GOOGLE SHEETS", "pontuacao": 7},
-    { "habilidade_ferramenta": "ADOBE XD", "pontuacao": 8},
+    { "habilidade_ferramenta": "ADOBE XD", "pontuacao": 9},
     { "habilidade_ferramenta": "MONDAY", "pontuacao": 8},
-    { "habilidade_ferramenta": "TRELLO", "pontuacao": 7},
+    { "habilidade_ferramenta": "TRELLO", "pontuacao": 8},
+    { "habilidade_ferramenta": "MIRO", "pontuacao": 9},
     { "habilidade_ferramenta": "POWERPOINT", "pontuacao": 8},
-    { "habilidade_ferramenta": "INGLÊS", "pontuacao":7}
-    
+    { "habilidade_ferramenta": "INGLÊS", "pontuacao":7},
+    { "habilidade_ferramenta": "POSTMAN", "pontuacao":10}
   ]
 }
