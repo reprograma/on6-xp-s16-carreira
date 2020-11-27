@@ -1,80 +1,106 @@
 {
-  "nome_completo": "Seu Nome Completo",
-  "o_que_eu_quero": "Descrição resumida sobre o que você deseja para sua carreira",
+  "nome_completo": "Lidiane Angelo Martins",
+  "o_que_eu_quero": "Unir minhas experiências de publicidade e tecnologia, com o objetivo de criar projetos, facilitar a vida das pessoas e trazer novas experiências.",
   "cidade_estado:": "São Paulo/SP",
-  "link_linkedin": "https://www.linkedin.com/in/seulinkedin/",
-  "link_github": "https://github.com/seugithub",
-  "email": "seuemail@gmail.com",
+  "link_linkedin": "https://www.linkedin.com/in/lidianeangelo/",
+  "link_github": "https://github.com/Lidianeangelo",
+  "email": "lidiane-angelo@hotmail.com",
   "um_pouco_sobre_mim": [
-    "Aqui é um parágrafo descrevendo um pouco sobre você",
-    "Aqui é outro parágrafo falando sobre sua trajetória",
-    "Nesse aqui você pode dizer o que você curte fazer",
-    "Fique a vontade, mas busque ser objetiva"
+    "Sou Publicitária e Programadora Jr. Acredito que Publicidade e Tecnologia se completam sim!",
+    "Despertei um grande interesse em tirar minhas ideias do papel. Por isso busquei estudar programação há um tempo.",
+    "Quero desenvolver projetos que facilitem a vida das pessoas. Que tragam novas experiências e perspectivas para as mesmas."
+    
   ],
   "no_que_ja_trabalhei": [
     {
-      "cargo_funcao": "Design Gráfica",
-      "empresa": "Empresa XPTO",
-      "periodo": "Jan/2017 a Dez/2018",
-      "atividades_desenvolvidas": "Diagramação, posts para as redes sociais, gerenciamento do site; atendimento e venda de ingresso para eventos.",
-      "link": null
+      "cargo_funcao": "Analista de Comunicação Digital",
+      "empresa": "Burger King Brasil",
+      "periodo": "Jun/2019 a Mar/2020",
+      "atividades_desenvolvidas": "Gerenciamento de campanhas (digitais ou offline) para lançamento ou promoção de produtos; Gestão das redes sociais da marca",
+      "link": "http://www.burgerking.com.br/"
     },
     {
-      "cargo_funcao": "Projeto Voluntário",
-      "empresa": "Reprograma - Cliente Fulano",
-      "periodo": "Jan/2017 a Dez/2018",
-      "atividades_desenvolvidas": "Diagramação, posts para as redes sociais, gerenciamento do site; atendimento e venda de ingresso para eventos.",
-      "link": "http://clientefulano.com.br"
+      "cargo_funcao": "Assistente de Planejamento",
+      "empresa": "AKQA Casa",
+      "periodo": "Set/2018 a Set/2019",
+      "atividades_desenvolvidas": "Assistência em planejamento, realizando entrevistas com consumidor, benchmarks, pesquisa de referências e colaborando no pensamento estratégico para chegar no insight direcionador para a criação; como Outputs, a criação desenvolve a campanha e Stunts.",
+      "link": "https://www.akqa.com/"
+    },
+    {
+      "cargo_funcao": "Estagiária de Comunicação",
+      "empresa": "Senac São Paulo",
+      "periodo": "Set/2014 a Set/2015",
+      "atividades_desenvolvidas": "Acompanhamento e auxílio nas campanhas de Graduação, Pós-graudação, Unidades, Atendimento Corporativo e Institucional, do planejamento até a implantação das peças publicitárias (aprovadas) à veiculação.",
+      "link": "https://www.sp.senac.br/"
     }
   ],
   "o_que_ja_estudei": [
     {
-      "curso": "Design Gráfico",
-      "instituicao": "Escola Tal",
-      "periodo": "Jan/2016 a Dez/2018",
-      "resumo_conhecimentos_aprendidos": "Criação, planejamento, edição de mídias e conteúdos"
+      "curso": "Publicidade e Propaganda",
+      "instituicao": "Centro Universitário Senac",
+      "periodo": "Jan/2012 a Dez/2015",
+      "resumo_conhecimentos_aprendidos": "Criação, planejamento, divulgação de campanhas publicitárias"
     },
     {
-      "curso": "Curso de Web Design",
-      "instituicao": "Escola Tal",
-      "periodo": "Jan/2015 a Dez/2015",
-      "resumo_conhecimentos_aprendidos": "Criação, planejamento, edição de mídias e conteúdos"
+      "curso": "Programador Web",
+      "instituicao": "Senac São Paulo",
+      "periodo": "Fev/2018 a Mai/2018",
+      "resumo_conhecimentos_aprendidos": "Criação de site (HTML, CSS e Bootstrap) e desenvolvimento WEB"
+    },
+    {
+      "curso": "Back-End XP Investimentos",
+      "instituicao": "Reprograma",
+      "periodo": "Ago/2020 a Dez/2020",
+      "resumo_conhecimentos_aprendidos": "Aprendizado em Linguagem Javascript; Criação de API e Banco de Dados"
     }
   ],
   "meus_outros_aprendizados_e_interesses": [
     {
-      "interesse_evento_curso": "Curso online de Javascript",
+      "interesse_evento_curso": "Git Completo: Do Básico ao Avançado",
       "instituicao": "Udemy",
-      "resumo_conhecimentos_interesses": "Entendimento sobre a sintaxe básica do javascript"
+      "resumo_conhecimentos_interesses": "Entendimento sobre o Github"
     },
     {
-      "interesse_evento_curso": "Curso ES6",
+      "interesse_evento_curso": "MongoDB Training",
       "instituicao": "Udemy",
-      "resumo_conhecimentos_interesses": "Entendimento sobre a sintaxe moderna do javascript"
+      "resumo_conhecimentos_interesses": "Entendimento sobre a arquitetura do banco de dados"
+    },
+    {
+      "interesse_evento_curso": "Curso Completo de Lógica de Programação e Algoritmos",
+      "instituicao": "Udemy",
+      "resumo_conhecimentos_interesses": "Descomplicar o entendimento sobre a lógica de programação"
+    },
+    {
+      "interesse_evento_curso": "Eu Programo",
+      "instituicao": "Programaria",
+      "resumo_conhecimentos_interesses": "Desenvolvimento de site em HTML e CSS"
     }
   ],
   "no_que_me_destaco": [
-    { "habilidade_ferramenta": "HTML", "pontuacao": 9 },
-    { "habilidade_ferramenta": "CSS", "pontuacao": 9 },
-    { "habilidade_ferramenta": "SASS", "pontuacao": 6 },
+    { "habilidade_ferramenta": "HTML", "pontuacao": 6 },
+    { "habilidade_ferramenta": "CSS", "pontuacao": 6 },
+    { "habilidade_ferramenta": "SASS", "pontuacao": 0 },
     { "habilidade_ferramenta": "JAVASCRIPT", "pontuacao": 8 },
-    { "habilidade_ferramenta": "JQUERY", "pontuacao": 6 },
-    { "habilidade_ferramenta": "NODE", "pontuacao": 1 },
-    { "habilidade_ferramenta": "GIT/GITHUB", "pontuacao": 8 },
-    { "habilidade_ferramenta": "BOOTSTRAP", "pontuacao": 9 },
-    { "habilidade_ferramenta": "REACT", "pontuacao": 8 },
-    { "habilidade_ferramenta": "METODOLOGIAS ÁGEIS", "pontuacao": 5 },
-    { "habilidade_ferramenta": "RESPONSIVIDADE", "pontuacao": 9 },
-    { "habilidade_ferramenta": "UX DESIGN", "pontuacao": 6 },
-    { "habilidade_ferramenta": "TECNOLOGIA ASSISTIVAS", "pontuacao": 6 },
-    { "habilidade_ferramenta": "WORDPRESS", "pontuacao": 9 },
-    { "habilidade_ferramenta": "PHP", "pontuacao": 3 },
-    { "habilidade_ferramenta": "MySQL", "pontuacao": 3 },
-    { "habilidade_ferramenta": "HOSPEDAGEM DE SITE", "pontuacao": 8 },
-    { "habilidade_ferramenta": "FTP", "pontuacao": 5 },
-    { "habilidade_ferramenta": "CONFIGURAÇÃO DE DOMÍNIO", "pontuacao": 8 },
+    { "habilidade_ferramenta": "ILUSTRATOR", "pontuacao": 9 },
+    { "habilidade_ferramenta": "PYTHON", "pontuacao": 5 },
+    { "habilidade_ferramenta": "JQUERY", "pontuacao": 4 },
+    { "habilidade_ferramenta": "NODE", "pontuacao": 8 },
+    { "habilidade_ferramenta": "GIT/GITHUB", "pontuacao": 7 },
+    { "habilidade_ferramenta": "BOOTSTRAP", "pontuacao": 7 },
+    { "habilidade_ferramenta": "REACT", "pontuacao": 4 },
+    { "habilidade_ferramenta": "METODOLOGIAS ÁGEIS", "pontuacao": 4 },
+    { "habilidade_ferramenta": "RESPONSIVIDADE", "pontuacao": 5 },
+    { "habilidade_ferramenta": "UX DESIGN", "pontuacao": 7 },
+    { "habilidade_ferramenta": "TECNOLOGIA ASSISTIVAS", "pontuacao": 1 },
+    { "habilidade_ferramenta": "WORDPRESS", "pontuacao": 1 },
+    { "habilidade_ferramenta": "PHP", "pontuacao": 6 },
+    { "habilidade_ferramenta": "MySQL", "pontuacao": 7 },
+    { "habilidade_ferramenta": "HOSPEDAGEM DE SITE", "pontuacao": 6 },
+    { "habilidade_ferramenta": "FTP", "pontuacao": 4 },
+    { "habilidade_ferramenta": "CONFIGURAÇÃO DE DOMÍNIO", "pontuacao": 5 },
     { "habilidade_ferramenta": "PHOTOSHOP", "pontuacao": 9 },
     { "habilidade_ferramenta": "ILUSTRATOR", "pontuacao": 9 },
     { "habilidade_ferramenta": "INDESIGN", "pontuacao": 9 }
+    
   ]
 }
