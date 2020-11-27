@@ -1,51 +1,76 @@
 {
-  "nome_completo": "Seu Nome Completo",
-  "o_que_eu_quero": "Descrição resumida sobre o que você deseja para sua carreira",
-  "cidade_estado:": "São Paulo/SP",
-  "link_linkedin": "https://www.linkedin.com/in/seulinkedin/",
-  "link_github": "https://github.com/seugithub",
-  "email": "seuemail@gmail.com",
+  "nome_completo": "Camila de Paula Bentes Pessôa",
+  "o_que_eu_quero": "Inicialmente almejo atuar na área de database e me especializar em Back-end. Tenho objetivo de desenvolver meus conhecimentos e auxiliar na transformação da vida de mais mulheres por meio do ensino de programação",
+  "cidade_estado:": "Belém/PA",
+  "link_linkedin": "www.linkedin.com/in/pessoacamila",
+  "link_github": "hhttps://github.com/camilapessoa",
+  "email": "camilabentespessoa@gmail.com",
   "um_pouco_sobre_mim": [
-    "Aqui é um parágrafo descrevendo um pouco sobre você",
-    "Aqui é outro parágrafo falando sobre sua trajetória",
-    "Nesse aqui você pode dizer o que você curte fazer",
-    "Fique a vontade, mas busque ser objetiva"
+    "Guiada pela necessidade de compreender o mundo ao meu redor, sempre estive envolvida na área de pesquisa e ensino, onde minha busca é relacionar o aprendizado a uma mudança social efetiva e verdadeira. Encontrei na tecnologia a possibilidade de concretizar meus objetivos a partir do desenvolvimento de soluções eficientes para pessoas. Além disso, sou mãe e os desafios são diários, por isso acredito que auxiliar mais mulheres é contribuir para a real mudança no mundo",
+
+    "Escolhi a área de educação por acreditar na transformação social e devido a minha curiosidade ingressei na robótica educacional. Foi através de minha atuação como professora de Robótica que tive o primeiro contato com a lógica de programação, e então percebi o poder que a tecnologia possui na vida das pessoas, assim como sua importância para a solução de problemas. Atualmente estou em processo de transição de carreira e fui selecionada para o curso de Back-end da iniciativa {Reprograma}. Durante o curso me vi cada vez mais envolvida com o trabalho em Back-end, o que também despertou um grande interesse em atuar com database.",
+
+    "Pretendo utilizar minha experiência em educação para conseguir aproximar a tecnologia de mais pessoas, tornando algo acessível para todos. Além disso, possuo grande paixão por fotografia, música, cinema e desenho, características que me ajudam a enxergar e sentir o mundo por diferentes perspectivas"
   ],
   "no_que_ja_trabalhei": [
     {
-      "cargo_funcao": "Design Gráfica",
-      "empresa": "Empresa XPTO",
-      "periodo": "Jan/2017 a Dez/2018",
-      "atividades_desenvolvidas": "Diagramação, posts para as redes sociais, gerenciamento do site; atendimento e venda de ingresso para eventos.",
-      "link": null
+      "cargo_funcao": "Professora de robótica educional",
+      "empresa": "Zoom, education for Life - Pará",
+      "periodo": "Mar/2016 - atual",
+      "atividades_desenvolvidas": "Professora de robótica educacional e lógica de programação para crianças e adolescentes entre 5 a 14 anos, suporte e orientação pedagógica para escolas com a utilização de metodologia Zoom, orientação para competição em torneios de robótica",
+      "link":"https://zoom.education/"
     },
     {
-      "cargo_funcao": "Projeto Voluntário",
-      "empresa": "Reprograma - Cliente Fulano",
-      "periodo": "Jan/2017 a Dez/2018",
-      "atividades_desenvolvidas": "Diagramação, posts para as redes sociais, gerenciamento do site; atendimento e venda de ingresso para eventos.",
-      "link": "http://clientefulano.com.br"
+      "cargo_funcao": "Estágio em Suporte",
+      "empresa": "Empresa Brasileira de Destribuição - Grupo EBD",
+      "periodo": "2018",
+      "atividades_desenvolvidas": "Atendimento ao usuário, Manutenção de Computadores, Suporte e manutenção de softwares, Administração de redes, Suporte e administração de Windows Server",
+      "link": "https://www.ebdgrupo.com.br/"
+    },
+    {
+      "cargo_funcao": "Professora de História",
+      "empresa": "Cursinho popular Emancipa - Paulo Fonteles",
+      "periodo": "Jan/2017 a Dez/2017",
+      "atividades_desenvolvidas": "Professora voluntária de História, preparação de material didático e aulas com conteúdo direcionado ao ENEM",
+      "link": "https://redeemancipa.org.br/rede-emancipa/isa-cunha-belem-pa/"
+    },
+    {
+      "cargo_funcao": "Agente cultural",
+      "empresa": "Cinema Olympia - Fumbel",
+      "periodo": "2014 a 2015",
+      "atividades_desenvolvidas": "Guia turística nos prédios históricos do Cinema Olympia e Palacete Bolonha, suporte às atividades culturais e projetos como A escola vai ao cinema e Cinema Itinerante, desenvolvimento de artes gráficas para divulgação de filmes",
+      "link": "null"
     }
   ],
   "o_que_ja_estudei": [
     {
-      "curso": "Design Gráfico",
-      "instituicao": "Escola Tal",
-      "periodo": "Jan/2016 a Dez/2018",
-      "resumo_conhecimentos_aprendidos": "Criação, planejamento, edição de mídias e conteúdos"
+      "curso": "BACK-END",
+      "instituicao": "{Reprograma}",
+      "periodo": "2020",
+      "resumo_conhecimentos_aprendidos": "JavaScript, banco de dados NoSQL com MongoDB, Criação de APIs, Métodos HTTP e aplicação de token JWT."
     },
     {
-      "curso": "Curso de Web Design",
-      "instituicao": "Escola Tal",
-      "periodo": "Jan/2015 a Dez/2015",
-      "resumo_conhecimentos_aprendidos": "Criação, planejamento, edição de mídias e conteúdos"
+      "curso": "Bacharelado e Licenciatura em História",
+      "instituicao": "Universidade Federal do Pará",
+      "periodo": "conclusão em 2016",
+      "resumo_conhecimentos_aprendidos": "Criação, planejamento, e aplicação de aulas da disciplina História e pesquisa científica"
     }
   ],
   "meus_outros_aprendizados_e_interesses": [
     {
-      "interesse_evento_curso": "Curso online de Javascript",
+      "interesse_evento_curso": "Programação física com Arduino",
+      "instituicao": "CodeIOT",
+      "resumo_conhecimentos_interesses": "Criação de projetos utilizando microcontroladores capazes de interpretar informações do ambiente e de executar ações no mundo físico, proporcionando sua integração através da programação com circuitos eletrônicos."
+    },
+    {
+      "interesse_evento_curso": "Introdução a Programação,",
+      "instituicao": "Estação Hack",
+      "resumo_conhecimentos_interesses": "Criação de um Front-end, o Foodgram  para usuários compartilharem fotos, com sistema de login"
+    },
+    {
+      "interesse_evento_curso": "JavaScript do básico ao avançado",
       "instituicao": "Udemy",
-      "resumo_conhecimentos_interesses": "Entendimento sobre a sintaxe básica do javascript"
+      "resumo_conhecimentos_interesses": "Entendimento sobre a sintaxe básica do javascript, lógica de programação"
     },
     {
       "interesse_evento_curso": "Curso ES6",
@@ -54,27 +79,21 @@
     }
   ],
   "no_que_me_destaco": [
-    { "habilidade_ferramenta": "HTML", "pontuacao": 9 },
-    { "habilidade_ferramenta": "CSS", "pontuacao": 9 },
-    { "habilidade_ferramenta": "SASS", "pontuacao": 6 },
+    
     { "habilidade_ferramenta": "JAVASCRIPT", "pontuacao": 8 },
-    { "habilidade_ferramenta": "JQUERY", "pontuacao": 6 },
-    { "habilidade_ferramenta": "NODE", "pontuacao": 1 },
+    { "habilidade_ferramenta": "NODE", "pontuacao": 8 },
     { "habilidade_ferramenta": "GIT/GITHUB", "pontuacao": 8 },
-    { "habilidade_ferramenta": "BOOTSTRAP", "pontuacao": 9 },
-    { "habilidade_ferramenta": "REACT", "pontuacao": 8 },
-    { "habilidade_ferramenta": "METODOLOGIAS ÁGEIS", "pontuacao": 5 },
-    { "habilidade_ferramenta": "RESPONSIVIDADE", "pontuacao": 9 },
-    { "habilidade_ferramenta": "UX DESIGN", "pontuacao": 6 },
-    { "habilidade_ferramenta": "TECNOLOGIA ASSISTIVAS", "pontuacao": 6 },
-    { "habilidade_ferramenta": "WORDPRESS", "pontuacao": 9 },
-    { "habilidade_ferramenta": "PHP", "pontuacao": 3 },
-    { "habilidade_ferramenta": "MySQL", "pontuacao": 3 },
-    { "habilidade_ferramenta": "HOSPEDAGEM DE SITE", "pontuacao": 8 },
-    { "habilidade_ferramenta": "FTP", "pontuacao": 5 },
-    { "habilidade_ferramenta": "CONFIGURAÇÃO DE DOMÍNIO", "pontuacao": 8 },
-    { "habilidade_ferramenta": "PHOTOSHOP", "pontuacao": 9 },
-    { "habilidade_ferramenta": "ILUSTRATOR", "pontuacao": 9 },
-    { "habilidade_ferramenta": "INDESIGN", "pontuacao": 9 }
+    { "habilidade_ferramenta": "MongoDB","pontuacao": 8 },
+    { "habilidade_ferramenta": "APIs","pontuacao": 8 },
+    { "habilidade_ferramenta": "METODOLOGIAS ATIVAS", "pontuacao": 9 },
+    { "habilidade_ferramenta": "RESPONSIVIDADE", "pontuacao": 5},
+    { "habilidade_ferramenta": "UX DESIGN", "pontuacao": 5 },
+    { "habilidade_ferramenta": "MANUTENÇÃO DE COMPUTADORES", "pontuacao": 8 },
+    { "habilidade_ferramenta": "HTML5", "pontuacao": 5 },
+    { "habilidade_ferramenta": "CSS3","pontuacao": 5  },
+    { "habilidade_ferramenta": "LIGHTROOM","pontuacao": 10},
+    { "habilidade_ferramenta": "PHOTOSHOP", "pontuacao": 8 },
+    { "habilidade_ferramenta": "ILUSTRATOR", "pontuacao": 8 },
+    { "habilidade_ferramenta": "PREMIERE", "pontuacao": 7 }
   ]
 }
