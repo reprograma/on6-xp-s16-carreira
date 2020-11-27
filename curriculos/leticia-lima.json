@@ -1,80 +1,73 @@
 {
-  "nome_completo": "Seu Nome Completo",
-  "o_que_eu_quero": "Descrição resumida sobre o que você deseja para sua carreira",
-  "cidade_estado:": "São Paulo/SP",
-  "link_linkedin": "https://www.linkedin.com/in/seulinkedin/",
-  "link_github": "https://github.com/seugithub",
-  "email": "seuemail@gmail.com",
+  "nome_completo": "Letícia Ferreira Lima",
+  "o_que_eu_quero": "Ser Desenvolvedora Back-End",
+  "cidade_estado:": "Brasília/DF",
+  "link_linkedin": "https://www.linkedin.com/in/leticia-flima/",
+  "link_github": "https://github.com/Letiiciia",
+  "email": "leticialimaferreira2@gmail.com",
   "um_pouco_sobre_mim": [
-    "Aqui é um parágrafo descrevendo um pouco sobre você",
-    "Aqui é outro parágrafo falando sobre sua trajetória",
-    "Nesse aqui você pode dizer o que você curte fazer",
-    "Fique a vontade, mas busque ser objetiva"
+    "Sou uma pessoa curiosa e autoditada, penso constantemente em como agilizar processos e estou sempre a procura de desafios que me auxiliem na minha carreira.",
+    "Meu primeiro emprego foi como assistente em uma ouvidoria, consegui fazer o teste de excel para a vaga, porém meu conhecimento era básico. Minha chefe estava de férias no meu primeiro mês, então eu contratei um curso e aprendi a fazer planilhas interativas em praticamente um mês.",
+    "Eu amo estudar idiomas com filmes, vídeos no youtube, músicas e falhas tentativas de cantar rs. Adoro superar minhas dificuldades e depois da reprograma descobri que uma rede de apoio faz toda diferença <3 "
   ],
   "no_que_ja_trabalhei": [
     {
-      "cargo_funcao": "Design Gráfica",
-      "empresa": "Empresa XPTO",
-      "periodo": "Jan/2017 a Dez/2018",
-      "atividades_desenvolvidas": "Diagramação, posts para as redes sociais, gerenciamento do site; atendimento e venda de ingresso para eventos.",
+      "cargo_funcao": "Assistente",
+      "empresa": "Bancorbrás",
+      "periodo": "Jul/2019 até o momento",
+      "atividades_desenvolvidas": "Extração de relatórios pela ferramenta CRMSuites, análise de dados (registros de manifestações dos clientes), construção de painéis/ Dashboard para as análises e elaboração de relatórios para a fiscalização dos dirigentes e de instituições financeiras (Banco Central).",
       "link": null
     },
     {
-      "cargo_funcao": "Projeto Voluntário",
-      "empresa": "Reprograma - Cliente Fulano",
-      "periodo": "Jan/2017 a Dez/2018",
-      "atividades_desenvolvidas": "Diagramação, posts para as redes sociais, gerenciamento do site; atendimento e venda de ingresso para eventos.",
-      "link": "http://clientefulano.com.br"
+      "cargo_funcao": "Recepcionista - Estágio",
+      "empresa": "Bancorbrás",
+      "periodo": "Fev/2018 a Jul/2019",
+      "atividades_desenvolvidas": "Recepção de clientes e associados e atendimento telefônico.",
+      "link": null
     }
   ],
   "o_que_ja_estudei": [
     {
-      "curso": "Design Gráfico",
-      "instituicao": "Escola Tal",
-      "periodo": "Jan/2016 a Dez/2018",
-      "resumo_conhecimentos_aprendidos": "Criação, planejamento, edição de mídias e conteúdos"
-    },
-    {
-      "curso": "Curso de Web Design",
-      "instituicao": "Escola Tal",
-      "periodo": "Jan/2015 a Dez/2015",
-      "resumo_conhecimentos_aprendidos": "Criação, planejamento, edição de mídias e conteúdos"
+      "curso": "Secretariado Executivo",
+      "instituicao": "Universidade Paulista",
+      "periodo": "Jan/2017 a Dez/2019",
+      "resumo_conhecimentos_aprendidos": "Assessorar executivos e participar de decisões da rotina da empresa, atender clientes e fornecedores, organizar arquivos, redigir documentos. Gerenciar processos administrativos, de controle de qualidade, informações, equipes e comunicações internas e externas da área. "
     }
   ],
   "meus_outros_aprendizados_e_interesses": [
     {
-      "interesse_evento_curso": "Curso online de Javascript",
+      "interesse_evento_curso": "Curso de Lógica de Programação usando node.js e javascript",
       "instituicao": "Udemy",
-      "resumo_conhecimentos_interesses": "Entendimento sobre a sintaxe básica do javascript"
+      "resumo_conhecimentos_interesses": "Entendimento sobre a lógica de programação com javascript"
     },
     {
-      "interesse_evento_curso": "Curso ES6",
-      "instituicao": "Udemy",
-      "resumo_conhecimentos_interesses": "Entendimento sobre a sintaxe moderna do javascript"
+      "interesse_evento_curso": "Lógica de Programação Essencial",
+      "instituicao": "Digital Innovation one",
+      "resumo_conhecimentos_interesses": "Entendimento sobre a lógica de programação e portugol"
     }
   ],
   "no_que_me_destaco": [
-    { "habilidade_ferramenta": "HTML", "pontuacao": 9 },
-    { "habilidade_ferramenta": "CSS", "pontuacao": 9 },
-    { "habilidade_ferramenta": "SASS", "pontuacao": 6 },
+    { "habilidade_ferramenta": "API", "pontuacao": 7 },
+    { "habilidade_ferramenta": "ESPANHOL", "pontuacao": 9 },
+    { "habilidade_ferramenta": "EXCEL", "pontuacao": 8 },
+    { "habilidade_ferramenta": "EXPRESS", "pontuacao": 7 },
+    { "habilidade_ferramenta": "GIT/GUTHUB", "pontuacao": 8 },
+    { "habilidade_ferramenta": "INGLÊS", "pontuacao": 7 },
     { "habilidade_ferramenta": "JAVASCRIPT", "pontuacao": 8 },
-    { "habilidade_ferramenta": "JQUERY", "pontuacao": 6 },
-    { "habilidade_ferramenta": "NODE", "pontuacao": 1 },
-    { "habilidade_ferramenta": "GIT/GITHUB", "pontuacao": 8 },
-    { "habilidade_ferramenta": "BOOTSTRAP", "pontuacao": 9 },
-    { "habilidade_ferramenta": "REACT", "pontuacao": 8 },
+    { "habilidade_ferramenta": "MONGODB", "pontuacao": 8 },
+    { "habilidade_ferramenta": "MONGOOSE", "pontuacao": 7 },
     { "habilidade_ferramenta": "METODOLOGIAS ÁGEIS", "pontuacao": 5 },
-    { "habilidade_ferramenta": "RESPONSIVIDADE", "pontuacao": 9 },
-    { "habilidade_ferramenta": "UX DESIGN", "pontuacao": 6 },
-    { "habilidade_ferramenta": "TECNOLOGIA ASSISTIVAS", "pontuacao": 6 },
-    { "habilidade_ferramenta": "WORDPRESS", "pontuacao": 9 },
-    { "habilidade_ferramenta": "PHP", "pontuacao": 3 },
-    { "habilidade_ferramenta": "MySQL", "pontuacao": 3 },
-    { "habilidade_ferramenta": "HOSPEDAGEM DE SITE", "pontuacao": 8 },
-    { "habilidade_ferramenta": "FTP", "pontuacao": 5 },
-    { "habilidade_ferramenta": "CONFIGURAÇÃO DE DOMÍNIO", "pontuacao": 8 },
-    { "habilidade_ferramenta": "PHOTOSHOP", "pontuacao": 9 },
-    { "habilidade_ferramenta": "ILUSTRATOR", "pontuacao": 9 },
-    { "habilidade_ferramenta": "INDESIGN", "pontuacao": 9 }
+    { "habilidade_ferramenta": "NODE", "pontuacao": 8 },
+    { "habilidade_ferramenta": "NPM", "pontuacao": 8 },
+    { "habilidade_ferramenta": "MVC", "pontuacao": 9 },
+    { "habilidade_ferramenta": "VBA", "pontuacao": 6 },
+    { "habilidade_ferramenta": "PHP", "pontuacao": 0 },
+    { "habilidade_ferramenta": "MySQL", "pontuacao": 2 },
+    { "habilidade_ferramenta": "HOSPEDAGEM DE SITE", "pontuacao": 0 },
+    { "habilidade_ferramenta": "FTP", "pontuacao": 0 },
+    { "habilidade_ferramenta": "CONFIGURAÇÃO DE DOMÍNIO", "pontuacao": 0 },
+    { "habilidade_ferramenta": "PHOTOSHOP", "pontuacao": 0 },
+    { "habilidade_ferramenta": "ILUSTRATOR", "pontuacao": 0 },
+    { "habilidade_ferramenta": "INDESIGN", "pontuacao": 0 }
   ]
 }
