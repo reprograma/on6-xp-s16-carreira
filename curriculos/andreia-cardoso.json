@@ -7,8 +7,8 @@
   "email": "andreia.netsys@gmail.com",
   "um_pouco_sobre_mim": [
     "Sou uma mulher de 37 anos, realizada familiar, porém buscando minha realização profissional.",
-    "Formada em Análise e Desenvolvimento de Sistema, consegui um grau máximo como Analista de Suporte. Com o curso técnologo, pude dar continuidade ao estudos, sendo assim, fiz uma pós em desenvolvimento web e mobile.Porém, sempre na área de suporte. Atualmente, buscando um sonho de estar numa equipe de desenvolvimento, sendo deenvolvedora, para aprender a criar, projetar, analisar e resolver diversos problemas. ",
-    "Sou apaixonada por futebol desde pequena, atualmente me aventurando no ciclismo, mas amante de xadrez e games"
+    "Formada em Análise e Desenvolvimento de Sistema, consegui um grau máximo como Analista de Suporte. Com o curso técnologo, pude dar continuidade aos estudos, sendo assim, fiz uma pós em desenvolvimento web e mobile.Porém, sempre na área de suporte. Atualmente, buscando um sonho de estar numa equipe de desenvolvimento, sendo deenvolvedora, para aprender a criar, projetar, analisar e resolver diversos problemas. ",
+    "Sou apaixonada por futebol desde pequena, atualmente me aventurando no ciclismo, mas amante de xadrez e games."
     
   ],
   "no_que_ja_trabalhei": [
@@ -86,15 +86,12 @@
     { "habilidade_ferramenta": "HTML", "pontuacao": 8 },
     { "habilidade_ferramenta": "CSS", "pontuacao": 6 },
     { "habilidade_ferramenta": "SASS", "pontuacao": 5 },
-    { "habilidade_ferramenta": "JAVASCRIPT", "pontuacao": 8 },
-    { "habilidade_ferramenta": "JQUERY", "pontuacao": 0 },
+    { "habilidade_ferramenta": "JAVASCRIPT", "pontuacao": 8 },    
     { "habilidade_ferramenta": "NODE", "pontuacao": 9 },
-    { "habilidade_ferramenta": "GIT/GITHUB", "pontuacao": 8 },
-    { "habilidade_ferramenta": "BOOTSTRAP", "pontuacao": 0 },
+    { "habilidade_ferramenta": "GIT/GITHUB", "pontuacao": 8 },    
     { "habilidade_ferramenta": "REACT", "pontuacao": 5 },
     { "habilidade_ferramenta": "METODOLOGIAS ÁGEIS", "pontuacao": 6 },
-    { "habilidade_ferramenta": "RESPONSIVIDADE", "pontuacao": 5 },
-    { "habilidade_ferramenta": "UX DESIGN", "pontuacao": 0 },
+    { "habilidade_ferramenta": "RESPONSIVIDADE", "pontuacao": 5 },    
     { "habilidade_ferramenta": "TECNOLOGIA ASSISTIVAS", "pontuacao": 5 },
     { "habilidade_ferramenta": "WORDPRESS", "pontuacao": 0 },
     { "habilidade_ferramenta": "POWERBI", "pontuacao": 6 },
@@ -109,9 +106,7 @@
     { "habilidade_ferramenta": ".Net", "pontuacao": 5 },
     { "habilidade_ferramenta": "HOSPEDAGEM DE SITE", "pontuacao": 5 },
     { "habilidade_ferramenta": "FTP", "pontuacao": 5 },
-    { "habilidade_ferramenta": "CONFIGURAÇÃO DE DOMÍNIO", "pontuacao": 5 },
-    { "habilidade_ferramenta": "PHOTOSHOP", "pontuacao": 0 },
-    { "habilidade_ferramenta": "ILUSTRATOR", "pontuacao": 0 },
-    { "habilidade_ferramenta": "INDESIGN", "pontuacao": 0 }
+    { "habilidade_ferramenta": "CONFIGURAÇÃO DE DOMÍNIO", "pontuacao": 5 }
+    
   ]
 }
