@@ -1,80 +1,89 @@
 {
-  "nome_completo": "Seu Nome Completo",
-  "o_que_eu_quero": "Descrição resumida sobre o que você deseja para sua carreira",
-  "cidade_estado:": "São Paulo/SP",
-  "link_linkedin": "https://www.linkedin.com/in/seulinkedin/",
-  "link_github": "https://github.com/seugithub",
-  "email": "seuemail@gmail.com",
-  "um_pouco_sobre_mim": [
-    "Aqui é um parágrafo descrevendo um pouco sobre você",
-    "Aqui é outro parágrafo falando sobre sua trajetória",
-    "Nesse aqui você pode dizer o que você curte fazer",
-    "Fique a vontade, mas busque ser objetiva"
-  ],
-  "no_que_ja_trabalhei": [
-    {
-      "cargo_funcao": "Design Gráfica",
-      "empresa": "Empresa XPTO",
-      "periodo": "Jan/2017 a Dez/2018",
-      "atividades_desenvolvidas": "Diagramação, posts para as redes sociais, gerenciamento do site; atendimento e venda de ingresso para eventos.",
-      "link": null
-    },
-    {
-      "cargo_funcao": "Projeto Voluntário",
-      "empresa": "Reprograma - Cliente Fulano",
-      "periodo": "Jan/2017 a Dez/2018",
-      "atividades_desenvolvidas": "Diagramação, posts para as redes sociais, gerenciamento do site; atendimento e venda de ingresso para eventos.",
-      "link": "http://clientefulano.com.br"
-    }
-  ],
-  "o_que_ja_estudei": [
-    {
-      "curso": "Design Gráfico",
-      "instituicao": "Escola Tal",
-      "periodo": "Jan/2016 a Dez/2018",
-      "resumo_conhecimentos_aprendidos": "Criação, planejamento, edição de mídias e conteúdos"
-    },
-    {
-      "curso": "Curso de Web Design",
-      "instituicao": "Escola Tal",
-      "periodo": "Jan/2015 a Dez/2015",
-      "resumo_conhecimentos_aprendidos": "Criação, planejamento, edição de mídias e conteúdos"
-    }
-  ],
-  "meus_outros_aprendizados_e_interesses": [
-    {
-      "interesse_evento_curso": "Curso online de Javascript",
-      "instituicao": "Udemy",
-      "resumo_conhecimentos_interesses": "Entendimento sobre a sintaxe básica do javascript"
-    },
-    {
-      "interesse_evento_curso": "Curso ES6",
-      "instituicao": "Udemy",
-      "resumo_conhecimentos_interesses": "Entendimento sobre a sintaxe moderna do javascript"
-    }
-  ],
-  "no_que_me_destaco": [
-    { "habilidade_ferramenta": "HTML", "pontuacao": 9 },
-    { "habilidade_ferramenta": "CSS", "pontuacao": 9 },
-    { "habilidade_ferramenta": "SASS", "pontuacao": 6 },
-    { "habilidade_ferramenta": "JAVASCRIPT", "pontuacao": 8 },
-    { "habilidade_ferramenta": "JQUERY", "pontuacao": 6 },
-    { "habilidade_ferramenta": "NODE", "pontuacao": 1 },
-    { "habilidade_ferramenta": "GIT/GITHUB", "pontuacao": 8 },
-    { "habilidade_ferramenta": "BOOTSTRAP", "pontuacao": 9 },
-    { "habilidade_ferramenta": "REACT", "pontuacao": 8 },
-    { "habilidade_ferramenta": "METODOLOGIAS ÁGEIS", "pontuacao": 5 },
-    { "habilidade_ferramenta": "RESPONSIVIDADE", "pontuacao": 9 },
-    { "habilidade_ferramenta": "UX DESIGN", "pontuacao": 6 },
-    { "habilidade_ferramenta": "TECNOLOGIA ASSISTIVAS", "pontuacao": 6 },
-    { "habilidade_ferramenta": "WORDPRESS", "pontuacao": 9 },
-    { "habilidade_ferramenta": "PHP", "pontuacao": 3 },
-    { "habilidade_ferramenta": "MySQL", "pontuacao": 3 },
-    { "habilidade_ferramenta": "HOSPEDAGEM DE SITE", "pontuacao": 8 },
-    { "habilidade_ferramenta": "FTP", "pontuacao": 5 },
-    { "habilidade_ferramenta": "CONFIGURAÇÃO DE DOMÍNIO", "pontuacao": 8 },
-    { "habilidade_ferramenta": "PHOTOSHOP", "pontuacao": 9 },
-    { "habilidade_ferramenta": "ILUSTRATOR", "pontuacao": 9 },
-    { "habilidade_ferramenta": "INDESIGN", "pontuacao": 9 }
-  ]
+    "nome_completo": "Graciela Lopes Nonato",
+    "o_que_eu_quero": "Atuar na área de tecnologia e desenvolvimento back-end, com soluções limpas e criativas",
+    "cidade_estado:": "São Paulo/SP",
+    "link_linkedin": "https://www.linkedin.com/in/gracielalopes/",
+    "link_github": "https://github.com/GraciLopes",
+    "email": "lopesnonatograciela@hotmail.com",
+    "um_pouco_sobre_mim": [
+        "Sou a Graciela, tenho 29 anos, estou em transição de carreira e sempre estive ligada a novos projetos em todas as empresas em que eu atuei até hoje, justamente por ter um perfil mais comunicativo.",
+        "Atuei na área comercial do Turismo durante 7 anos, onde pude me destacar em alguns departamentos, passando pelo atendimento a clientes, sendo executiva de contas e gerenciando acordos comerciais e novos projetos de tecnologia entre as cias aéreas e a empresa em que trabalhei.",
+        "Tenho várias paixões que fazem parte de mim, gosto muito de fazer caminhadas ao ar livre, andar de patins, meditar, cantar, dançar, viajar e me aventurar em esportes radicais, tudo que envolve movimento e expressão tem a minha atenção."
+    ],
+    "no_que_ja_trabalhei": [{
+            "cargo_funcao": "Analista comercial",
+            "empresa": "Grupo Flytour",
+            "periodo": "Ago/2018 a Nov/2020",
+            "atividades_desenvolvidas": "Suporte ao time de tecnologia, cadastro de condições no sistema CMS:incentivos, parcelamento, acordos e tour codes de desconto da cias aéreas. Participação em comitês de tecnologia para a definição de melhorias sistêmicas. Suporte as áreas da empresa no controle e acompanhamento das atividades dos projetos após aprovação. Realização de testes em ambiente de homologação e em produção, acompanhamento dos erros sistêmicos. Atuação no controle, estudo e elaboração de projetos, controlando prazos de entregas, acompanhamento e alinhamento das atividades a serem desenvolvidas, sempre priorizando por nível de importância para o negócio.",
+            "link": null
+        },
+        {
+            "cargo_funcao": "Executiva de Contas",
+            "empresa": "Grupo CVC",
+            "periodo": "Out/2017 a Ago/2018",
+            "atividades_desenvolvidas": "Gerenciamento da carteira de clientes da empresa incluindo prospecção, reativação e manutenção de clientes. Elaboração de propostas comerciais, negociação. Análise inicial de documentos para a liberação de crédito junto a área financeira. Tratativa e solução de problemas sistêmicos e financeiros dos clientes. Follow-up. Organização de treinamentos internos para os clientes. Desenvolvimento em conjunto com a gerência de práticas de retenção de carteira.",
+            "link": null
+        },
+        {
+            "cargo_funcao": "Analista comercial",
+            "empresa": "Tyller Passagens e Turismo",
+            "periodo": "Jan/2017 a Dez/2018",
+            "atividades_desenvolvidas": "Gerenciamento geral da equipe comercial de vendas, criação de relatórios gerenciais mensais, semanais e diários no Excel. Assistência ao coordenador e ao diretor comercial, prestando suporte em toda a organização de campanhas para os clientes internos e auxiliando na elaboração de estratégias para alavancar as vendas da empresa.Acompanhamento e auxílio quanto a definição de metas de vendas do negócio. Suporte aos clientes quanto à orientações de embarque e desembarque, bem como, solicitações de serviços especiais de embarque por meio das ferramentas GDS: Sabre e Amadeus. ",
+            "link": ""
+        }
+    ],
+    "o_que_ja_estudei": [{
+            "curso": "Gestão de Recursos Humanos",
+            "instituicao": "Universidade Cruzeiro do Sul",
+            "periodo": "Fev/2018 à Dez/2020",
+            "resumo_conhecimentos_aprendidos": "Treinamento e desenvolvimento de pessoas, gestão de desempenho, gestão de beneficios e atividades de disciplina, recrutamento e seleção de pessoas, gestão de departamento pessoal."
+        },
+        {
+            "curso": "Impacto da TI nos negócios",
+            "instituicao": "Fundação Getúlio Vargas",
+            "periodo": "Jan/2020",
+            "resumo_conhecimentos_aprendidos": "Analise do impacto da tecnologia nos modelos tradicionais de competitividade."
+        },
+        {
+            "curso": "Fundamentos em transformação digital",
+            "instituicao": "IGTI",
+            "periodo": "Jul/2020",
+            "resumo_conhecimentos_aprendidos": "Fazer o uso de um mindset digital para compreender o uso da tecnologia como um diferencial competitivo, exploração das inúmeras oportunidades decorrentes da digitalização."
+        },
+        {
+            "curso": "Fundamentos da computação em nuvem",
+            "instituicao": "Digital Innovation One",
+            "periodo": "Jul/2020",
+            "resumo_conhecimentos_aprendidos": "Conhecimento das principais ferramentas de computação em nuvem da Microsoft e os principais serviços do Azure."
+        }
+    ],
+    "meus_outros_aprendizados_e_interesses": [{
+            "interesse_evento_curso": "Design Thinking",
+            "instituicao": "Grupo Flytour",
+            "resumo_conhecimentos_interesses": "Inovação na prática, e plano de soluções para problemas de empresas e seus clientes."
+        },
+        {
+            "interesse_evento_curso": "Inteligência Emocional",
+            "instituicao": "Escola Conquer",
+            "resumo_conhecimentos_interesses": "Adaptabilidade, auto conhecimento e auto gestão, liderança em tempos de icerteza."
+        },
+        {
+            "interesse_evento_curso": "Estratégia de negócios",
+            "instituicao": "Fundação Bradesco",
+            "resumo_conhecimentos_interesses": "Apresentação dos pontos essenciais da importância da estratégia para o mundo dos negócios."
+        }
+    ],
+    "no_que_me_destaco": [
+        { "habilidade_ferramenta": "HTML", "pontuacao": 5 },
+        { "habilidade_ferramenta": "CSS", "pontuacao": 5 },
+        { "habilidade_ferramenta": "JAVASCRIPT", "pontuacao": 6 },
+        { "habilidade_ferramenta": "JQUERY", "pontuacao": 6 },
+        { "habilidade_ferramenta": "NODE", "pontuacao": 8 },
+        { "habilidade_ferramenta": "GIT/GITHUB", "pontuacao": 8 },
+        { "habilidade_ferramenta": "MONGODB", "pontuacao": 9 },
+        { "habilidade_ferramenta": "METODOLOGIAS ÁGEIS", "pontuacao": 7 },
+        { "habilidade_ferramenta": "RESPONSIVIDADE", "pontuacao": 9 },
+        { "habilidade_ferramenta": "MySQL", "pontuacao": 7 },
+        { "habilidade_ferramenta": "POSTMAN", "pontuacao": 7 }
+    ]
 }
