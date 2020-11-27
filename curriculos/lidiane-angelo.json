@@ -95,6 +95,7 @@
     { "habilidade_ferramenta": "WORDPRESS", "pontuacao": 1 },
     { "habilidade_ferramenta": "PHP", "pontuacao": 6 },
     { "habilidade_ferramenta": "MySQL", "pontuacao": 7 },
+    { "habilidade_ferramenta": "MongoDB", "pontuacao": 8 },
     { "habilidade_ferramenta": "HOSPEDAGEM DE SITE", "pontuacao": 6 },
     { "habilidade_ferramenta": "FTP", "pontuacao": 4 },
     { "habilidade_ferramenta": "CONFIGURAÇÃO DE DOMÍNIO", "pontuacao": 5 },
