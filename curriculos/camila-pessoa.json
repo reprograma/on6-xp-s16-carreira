@@ -63,6 +63,12 @@
       "resumo_conhecimentos_interesses": "Criação de projetos utilizando microcontroladores capazes de interpretar informações do ambiente e de executar ações no mundo físico, proporcionando sua integração através da programação com circuitos eletrônicos."
     },
     {
+      "interesse_evento_curso": "Curso Online Eu ProgrAmo | 3ª Turma",
+      "instituicao": "PrograMaria",
+      "resumo_conhecimentos_interesses": "Conceitos Básicos de JavaScript, Conceitos Básicos de CSS, Conceito básicos de HTML, Dicas de Carreira em Tecnologia"
+    },
+
+    {
       "interesse_evento_curso": "Introdução a Programação,",
       "instituicao": "Estação Hack",
       "resumo_conhecimentos_interesses": "Criação de um Front-end, o Foodgram  para usuários compartilharem fotos, com sistema de login"
