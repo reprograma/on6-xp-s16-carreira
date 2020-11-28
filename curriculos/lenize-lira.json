@@ -1,80 +1,88 @@
 {
-  "nome_completo": "Seu Nome Completo",
-  "o_que_eu_quero": "Descrição resumida sobre o que você deseja para sua carreira",
-  "cidade_estado:": "São Paulo/SP",
-  "link_linkedin": "https://www.linkedin.com/in/seulinkedin/",
-  "link_github": "https://github.com/seugithub",
-  "email": "seuemail@gmail.com",
+  "nome_completo": "Lenize Barbosa de Lira",
+  "o_que_eu_quero": "Estou aberta a oportunidades na área de tecnologia e desenvolvimento back-end, alinhadas ao processo de transformação digital e que tenha um impacto positivo na vida de pessoas reais.",
+  "cidade_estado:": "Belo Horizonte/MG",
+  "link_linkedin": "https://www.linkedin.com/in/lenizelira/",
+  "link_github": "https://github.com/lenizelira",
+  "email": "lenizelira@gmail.com",
   "um_pouco_sobre_mim": [
-    "Aqui é um parágrafo descrevendo um pouco sobre você",
-    "Aqui é outro parágrafo falando sobre sua trajetória",
-    "Nesse aqui você pode dizer o que você curte fazer",
-    "Fique a vontade, mas busque ser objetiva"
+    "Sou uma amazonense que mora em Minas Gerais, mas adoro viajar e conhecer novos lugares e sua cultura. Aprender é meu gás, busco sempre extrair aprendizado por onde passo e me conectar com as pessoas.",
+    "Comecei minha trajetória como vendedora, falar com as pessoas e faze-las conhecer e entender sobre o produto era maravilhoso, quando não estava com clientes, estava estudando o produto para oferecer sempre uma experiência melhor a eles. Quando tive meu primeiro contato com tecnologia, eu vi que aquilo me acompanharia por toda a vida porque era algo realmente incrível. Após ter passado 2 anos na faculdade de Ciência da Computação, ganhei uma bolsa 100% ProUni para Design Gráfico, tive que escolher em qual ficar, porque já estava sendo aluna também 100% Fies e não poderia ficar com duas bolsas. Optei por Design Gráfico e foi incrível, simplismente me apaixonei pelo mundo da comunicação. No ano em que formei, mudei de estado, vim para Belo Horizonte sem conhecer nada nem ninguém desbravar essa nova etapa. Hoje vejo que foi uma das melhores decisões da minha vida. Minha vida como designer gráfico sempre esteve conectada ao mundo dos códigos, mas somente em 2020 que resolvi estudar realmente esse mundo que sempre me chamou atenção, me inscrevi no bootcamp de Back-End da Reprograma e concorri com mais de 2 mil inscritas, quando recebi o e-mail de que havia passado foi um alegria sem tamanho. Estudo a cada dia buscando aprimorar e desvendar novas habilidades nesse mundo incrível.",
+    "Além disso quero compartilhar esse conhecimento com outros e no futuro quero ensinar crianças a também se conectarem a esse mundo gigante e cheio de surpresas.",
   ],
   "no_que_ja_trabalhei": [
     {
-      "cargo_funcao": "Design Gráfica",
-      "empresa": "Empresa XPTO",
-      "periodo": "Jan/2017 a Dez/2018",
-      "atividades_desenvolvidas": "Diagramação, posts para as redes sociais, gerenciamento do site; atendimento e venda de ingresso para eventos.",
-      "link": null
+      "cargo_funcao": "Designer Gráfico",
+      "empresa": "Nexfarma",
+      "periodo": "Out/2017 a Ab/2019",
+      "atividades_desenvolvidas": "Produção de peças para mídias sociais, edição e animação de vídeos, arte para flyers, apresentação PPT, diagramação básica de apostila e afins.",
+      "link": "http://nexfarma.com.br/"
     },
     {
-      "cargo_funcao": "Projeto Voluntário",
-      "empresa": "Reprograma - Cliente Fulano",
-      "periodo": "Jan/2017 a Dez/2018",
-      "atividades_desenvolvidas": "Diagramação, posts para as redes sociais, gerenciamento do site; atendimento e venda de ingresso para eventos.",
-      "link": "http://clientefulano.com.br"
+      "cargo_funcao": "Vendedora",
+      "empresa": "Livraria MVT",
+      "periodo": "Dez/2012 a Jun/2014",
+      "atividades_desenvolvidas": "Atendimento ao cliente, telemarketing e vendas de listas escolares.",
+      "link": "https://www.mvtlivraria.com.br/"
     }
   ],
   "o_que_ja_estudei": [
     {
-      "curso": "Design Gráfico",
-      "instituicao": "Escola Tal",
-      "periodo": "Jan/2016 a Dez/2018",
-      "resumo_conhecimentos_aprendidos": "Criação, planejamento, edição de mídias e conteúdos"
+      "curso": "Tecnólogo em Design Gráfico",
+      "instituicao": "Fametro - Faculdade Metropolitana de Manaus",
+      "periodo": "Fev/2014 a Mar/2016",
+      "resumo_conhecimentos_aprendidos": "O curso me preparou profissionalmente para entrar no mercado de trabalho, proporcionando uma visão geral dos processos que envolvem o desenvolvimento e peças e construção de identidades. Além de dar uma visão geral sobre as técnicas inerentes ao Design."
     },
     {
-      "curso": "Curso de Web Design",
-      "instituicao": "Escola Tal",
-      "periodo": "Jan/2015 a Dez/2015",
-      "resumo_conhecimentos_aprendidos": "Criação, planejamento, edição de mídias e conteúdos"
+      "curso": "Ciência da Computação (Trancado)",
+      "instituicao": "Ciesa - Centro Universário de Ensino Superior do Amazonas",
+      "periodo": "Jan/2011 a Dez/2013",
+      "resumo_conhecimentos_aprendidos": "Nesses dois anos de graduação aprendemos sobre algorítmos, lógica, cálculos e iniciação a sistemas. Pretendo retornar e finalizar essa jornada."
     }
   ],
   "meus_outros_aprendizados_e_interesses": [
     {
-      "interesse_evento_curso": "Curso online de Javascript",
-      "instituicao": "Udemy",
-      "resumo_conhecimentos_interesses": "Entendimento sobre a sintaxe básica do javascript"
+      "interesse_evento_curso": "Desenvolvedora Back-end",
+      "instituicao": "Reprograma",
+      "periodo": "Ago/2020 a Dez/2020",
+      "resumo_conhecimentos_interesses": "Iniciativa social de ensino de programação para mulheres visando a diminuição no gap de gênero no mundo da tecnologia, nele aprendemos: Conceitos básicos de Git e Github, versionamento de código, lógica de programação, operadores e condicionais, lógica aplicada, arrays, objetos, loops, função, conceitos de API em Node.js, HTTP, banco de dados com MongoDB, conceitos de CRUD e integração API e Banco de Dados."
     },
     {
-      "interesse_evento_curso": "Curso ES6",
-      "instituicao": "Udemy",
-      "resumo_conhecimentos_interesses": "Entendimento sobre a sintaxe moderna do javascript"
+      "interesse_evento_curso": "HTML E CSS NA
+      PRÁTICA,",
+      "instituicao": "Fundação Bradesco",
+      "resumo_conhecimentos_interesses": "Introdução ao conceitos básicos de html e css"
+    },
+    {
+      "interesse_evento_curso": "Programação Web - Programando Sonhos Delas",
+      "instituicao": "CQTI – Centro de Qualificação em Tecnologia da Informação - PRODABEL e do Projeto Computadores para Inclusão do Ministério da Ciência, Tecnologia, Inovações e Comunicações.",
+      "resumo_conhecimentos_interesses": "Projeto social desenvolvido pela a prefeitura de Belo Horizonte visando ensinar mulheres a aprenderem sobre tecnologia, dando os primeiros conceitos sobre programação. Aprendemos sobre a sintaxe básica em html, css, javascript, php e banco de dados."
     }
   ],
   "no_que_me_destaco": [
-    { "habilidade_ferramenta": "HTML", "pontuacao": 9 },
-    { "habilidade_ferramenta": "CSS", "pontuacao": 9 },
-    { "habilidade_ferramenta": "SASS", "pontuacao": 6 },
+    { "habilidade_ferramenta": "HTML", "pontuacao": 7 },
+    { "habilidade_ferramenta": "CSS", "pontuacao": 6 },
+    { "habilidade_ferramenta": "SASS", "pontuacao": 2 },
     { "habilidade_ferramenta": "JAVASCRIPT", "pontuacao": 8 },
-    { "habilidade_ferramenta": "JQUERY", "pontuacao": 6 },
-    { "habilidade_ferramenta": "NODE", "pontuacao": 1 },
-    { "habilidade_ferramenta": "GIT/GITHUB", "pontuacao": 8 },
-    { "habilidade_ferramenta": "BOOTSTRAP", "pontuacao": 9 },
-    { "habilidade_ferramenta": "REACT", "pontuacao": 8 },
-    { "habilidade_ferramenta": "METODOLOGIAS ÁGEIS", "pontuacao": 5 },
+    { "habilidade_ferramenta": "JQUERY", "pontuacao": 5 },
+    { "habilidade_ferramenta": "NODE", "pontuacao": 6 },
+    { "habilidade_ferramenta": "GIT/GITHUB", "pontuacao": 5 },
+    { "habilidade_ferramenta": "BOOTSTRAP", "pontuacao": 4 },
+    { "habilidade_ferramenta": "REACT", "pontuacao": 2 },
+    { "habilidade_ferramenta": "METODOLOGIAS ÁGEIS", "pontuacao": 2 },
     { "habilidade_ferramenta": "RESPONSIVIDADE", "pontuacao": 9 },
-    { "habilidade_ferramenta": "UX DESIGN", "pontuacao": 6 },
-    { "habilidade_ferramenta": "TECNOLOGIA ASSISTIVAS", "pontuacao": 6 },
-    { "habilidade_ferramenta": "WORDPRESS", "pontuacao": 9 },
+    { "habilidade_ferramenta": "UX DESIGN", "pontuacao": 8 },
+    { "habilidade_ferramenta": "TECNOLOGIA ASSISTIVAS", "pontuacao": 2 },
+    { "habilidade_ferramenta": "WORDPRESS", "pontuacao": 8 },
     { "habilidade_ferramenta": "PHP", "pontuacao": 3 },
-    { "habilidade_ferramenta": "MySQL", "pontuacao": 3 },
-    { "habilidade_ferramenta": "HOSPEDAGEM DE SITE", "pontuacao": 8 },
-    { "habilidade_ferramenta": "FTP", "pontuacao": 5 },
-    { "habilidade_ferramenta": "CONFIGURAÇÃO DE DOMÍNIO", "pontuacao": 8 },
+    { "habilidade_ferramenta": "MySQL", "pontuacao": 2 },
+    { "habilidade_ferramenta": "HOSPEDAGEM DE SITE", "pontuacao": 5 },
+    { "habilidade_ferramenta": "FTP", "pontuacao": 1 },
+    { "habilidade_ferramenta": "CONFIGURAÇÃO DE DOMÍNIO", "pontuacao": 5 },
     { "habilidade_ferramenta": "PHOTOSHOP", "pontuacao": 9 },
     { "habilidade_ferramenta": "ILUSTRATOR", "pontuacao": 9 },
-    { "habilidade_ferramenta": "INDESIGN", "pontuacao": 9 }
+    { "habilidade_ferramenta": "AFTER EFFECTS", "pontuacao": 9 },
+    { "habilidade_ferramenta": "INGLÊS", "pontuacao": 3 },
+    { "habilidade_ferramenta": "ESPANHOL", "pontuacao": 2 },
   ]
 }
