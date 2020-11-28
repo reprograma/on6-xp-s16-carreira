@@ -39,6 +39,18 @@
             "resumo_conhecimentos_aprendidos": "Treinamento e desenvolvimento de pessoas, gestão de desempenho, gestão de beneficios e atividades de disciplina, recrutamento e seleção de pessoas, gestão de departamento pessoal."
         },
         {
+            "curso": "Análise e desenvolvimento de sistemas",
+            "instituicao": "Universidade Cruzeiro do Sul",
+            "periodo": "Fev/2020 à Dez/2021",
+            "resumo_conhecimentos_aprendidos": "Aplicações para internet, organização e arquitetura de computadores, sistemas operacionais, programação de computadores, modelagem de negocios e requisitos, modelagem de dados, tecnicas de desenvolvimento de algoritmos, programação web, programação orientada a objetos."
+        },
+        {
+            "curso": "Bootcamp back-end",
+            "instituicao": "Reprograma",
+            "periodo": "Ago/2020 à Dez/2020",
+            "resumo_conhecimentos_aprendidos": "Lógica de programação, Git&GitHub, JavaScript , NodeJS, API REST, MongoDB."
+        },
+        {
             "curso": "Impacto da TI nos negócios",
             "instituicao": "Fundação Getúlio Vargas",
             "periodo": "Jan/2020",
