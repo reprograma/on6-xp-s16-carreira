@@ -1,10 +1,10 @@
 {
-  "nome_completo": "Seu Nome Completo",
+  "nome_completo": "Lilian Gomes Castro",
   "o_que_eu_quero": "Descrição resumida sobre o que você deseja para sua carreira",
-  "cidade_estado:": "São Paulo/SP",
-  "link_linkedin": "https://www.linkedin.com/in/seulinkedin/",
-  "link_github": "https://github.com/seugithub",
-  "email": "seuemail@gmail.com",
+  "cidade_estado:": "Fortaleza/CE",
+  "link_linkedin": "https://www.linkedin.com/in/stormlilian/",
+  "link_github": "https://github.com/stormlilian",
+  "email": "liliancast.dev@gmail.com",
   "um_pouco_sobre_mim": [
     "Aqui é um parágrafo descrevendo um pouco sobre você",
     "Aqui é outro parágrafo falando sobre sua trajetória",
@@ -13,68 +13,58 @@
   ],
   "no_que_ja_trabalhei": [
     {
-      "cargo_funcao": "Design Gráfica",
-      "empresa": "Empresa XPTO",
-      "periodo": "Jan/2017 a Dez/2018",
-      "atividades_desenvolvidas": "Diagramação, posts para as redes sociais, gerenciamento do site; atendimento e venda de ingresso para eventos.",
-      "link": null
+      "cargo_funcao": "Operadora de Produção",
+      "empresa": "Companhia Siderúrgica do Pecém",
+      "periodo": "Out/2015 a Nov/2018",
+      "atividades_desenvolvidas": "Operação de área e sala de controle, gerenciando dados de recebimento, distribuição e produção , acompanhando a rotina de fiscalização  usando o sistema CRM (criação coreana POSCO E&C), com integração de CFTV e sistema SAP.",
+      "link": "https://www.cspecem.com/pt-br/"
     },
     {
-      "cargo_funcao": "Projeto Voluntário",
-      "empresa": "Reprograma - Cliente Fulano",
-      "periodo": "Jan/2017 a Dez/2018",
-      "atividades_desenvolvidas": "Diagramação, posts para as redes sociais, gerenciamento do site; atendimento e venda de ingresso para eventos.",
-      "link": "http://clientefulano.com.br"
+      "cargo_funcao": "Jovem Aprendiz",
+      "empresa": "Pena Indústria a Comércio",
+      "periodo": "Set/2013 a Jun/2014",
+      "atividades_desenvolvidas": "Apoio nas áreas comercial,  administrativa e operacional, mantendo a organização de arquivos,  pastas, dossiês e documentos em geral, controle de estoque no almoxarifado e operação de máquinas na produção.",
+      "link": "https://www.pena.com.br/"
     }
   ],
   "o_que_ja_estudei": [
     {
-      "curso": "Design Gráfico",
-      "instituicao": "Escola Tal",
-      "periodo": "Jan/2016 a Dez/2018",
-      "resumo_conhecimentos_aprendidos": "Criação, planejamento, edição de mídias e conteúdos"
+      "curso": "Engenharia da Computação",
+      "instituicao": "IFCE",
+      "periodo": "Jul/2018 a Jul/2023",
+      "resumo_conhecimentos_aprendidos": "Desenvolvimento e planejamento de softwares e hardwares, criação e gerenciamento sistemas, desenvolvimento de novas tecnologias, instalação, operação e manutenção da rede de computadores, transmissão de dados e sistemas de automação comercial e industrial."
     },
     {
-      "curso": "Curso de Web Design",
-      "instituicao": "Escola Tal",
-      "periodo": "Jan/2015 a Dez/2015",
-      "resumo_conhecimentos_aprendidos": "Criação, planejamento, edição de mídias e conteúdos"
+      "curso": "Bootcamp Back-End",
+      "instituicao": "Reprograma",
+      "periodo": "Ago/2020 a Dez/2020",
+      "resumo_conhecimentos_aprendidos": "Versionamento de codigo com GIT, logica de programação com a linguagem JavaScript, APIrest com Node.Js, integração com banco de dados MongoDB e autenticação com JWT."
     }
   ],
   "meus_outros_aprendizados_e_interesses": [
     {
-      "interesse_evento_curso": "Curso online de Javascript",
-      "instituicao": "Udemy",
-      "resumo_conhecimentos_interesses": "Entendimento sobre a sintaxe básica do javascript"
+      "interesse_evento_curso": "Decola Dev",
+      "instituicao": "Digital Innovation one",
+      "resumo_conhecimentos_interesses": "Logica de programação basica, desde os primeiros passos à orientação a objeto e criação de aplicações com .Net e c#, com implementação com testes de unidade integrados."
     },
     {
-      "interesse_evento_curso": "Curso ES6",
-      "instituicao": "Udemy",
-      "resumo_conhecimentos_interesses": "Entendimento sobre a sintaxe moderna do javascript"
+      "interesse_evento_curso": "Trilha de Automatização de Testes",
+      "instituicao": "LinkedIn Learning",
+      "resumo_conhecimentos_interesses": "Entendimento dos fundamentos de testes, testes no contexto ágil e automatização de testes com Selenium"
     }
   ],
   "no_que_me_destaco": [
-    { "habilidade_ferramenta": "HTML", "pontuacao": 9 },
-    { "habilidade_ferramenta": "CSS", "pontuacao": 9 },
-    { "habilidade_ferramenta": "SASS", "pontuacao": 6 },
-    { "habilidade_ferramenta": "JAVASCRIPT", "pontuacao": 8 },
-    { "habilidade_ferramenta": "JQUERY", "pontuacao": 6 },
-    { "habilidade_ferramenta": "NODE", "pontuacao": 1 },
-    { "habilidade_ferramenta": "GIT/GITHUB", "pontuacao": 8 },
-    { "habilidade_ferramenta": "BOOTSTRAP", "pontuacao": 9 },
-    { "habilidade_ferramenta": "REACT", "pontuacao": 8 },
-    { "habilidade_ferramenta": "METODOLOGIAS ÁGEIS", "pontuacao": 5 },
-    { "habilidade_ferramenta": "RESPONSIVIDADE", "pontuacao": 9 },
+    { "habilidade_ferramenta": "JAVASCRIPT", "pontuacao": 9 },
+    { "habilidade_ferramenta": "NODE", "pontuacao": 8 },
+    { "habilidade_ferramenta": "MONGODB", "pontuacao": 8 },
+    { "habilidade_ferramenta": "GIT/GITHUB", "pontuacao": 9 },
+    { "habilidade_ferramenta": "METODOLOGIAS ÁGEIS", "pontuacao": 8 },
+    { "habilidade_ferramenta": "RESPONSIVIDADE", "pontuacao": 7 },
     { "habilidade_ferramenta": "UX DESIGN", "pontuacao": 6 },
-    { "habilidade_ferramenta": "TECNOLOGIA ASSISTIVAS", "pontuacao": 6 },
-    { "habilidade_ferramenta": "WORDPRESS", "pontuacao": 9 },
-    { "habilidade_ferramenta": "PHP", "pontuacao": 3 },
-    { "habilidade_ferramenta": "MySQL", "pontuacao": 3 },
+    { "habilidade_ferramenta": "MySQL", "pontuacao": 8 },
     { "habilidade_ferramenta": "HOSPEDAGEM DE SITE", "pontuacao": 8 },
-    { "habilidade_ferramenta": "FTP", "pontuacao": 5 },
-    { "habilidade_ferramenta": "CONFIGURAÇÃO DE DOMÍNIO", "pontuacao": 8 },
-    { "habilidade_ferramenta": "PHOTOSHOP", "pontuacao": 9 },
-    { "habilidade_ferramenta": "ILUSTRATOR", "pontuacao": 9 },
-    { "habilidade_ferramenta": "INDESIGN", "pontuacao": 9 }
+    { "habilidade_ferramenta": "FTP", "pontuacao": 7 },
+    { "habilidade_ferramenta": "CONFIGURAÇÃO DE DOMÍNIO", "pontuacao": 7 },
+    { "habilidade_ferramenta": "ARQUITETURA DE SOFTWARE", "pontuacao": 6 }
   ]
 }
