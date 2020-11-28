@@ -1,80 +1,113 @@
 {
-  "nome_completo": "Seu Nome Completo",
-  "o_que_eu_quero": "Descrição resumida sobre o que você deseja para sua carreira",
+  "nome_completo": "Tassila da Silva Bomfim",
+  "o_que_eu_quero": "Atualmente busco uma oportunidade como desenvolvedora back-end.",
   "cidade_estado:": "São Paulo/SP",
-  "link_linkedin": "https://www.linkedin.com/in/seulinkedin/",
-  "link_github": "https://github.com/seugithub",
-  "email": "seuemail@gmail.com",
+  "link_linkedin": "https://www.linkedin.com/in/tassilabomfim/",
+  "link_github": "https://github.com/tassilabomfim",
+  "email": "eng.tassilabomfim@gmail.com",
   "um_pouco_sobre_mim": [
-    "Aqui é um parágrafo descrevendo um pouco sobre você",
-    "Aqui é outro parágrafo falando sobre sua trajetória",
-    "Nesse aqui você pode dizer o que você curte fazer",
-    "Fique a vontade, mas busque ser objetiva"
+    "Sou baiana, tenho 30 anos e sou uma profissional multipotencial.",
+    "Ao longo da minha trajetória já atuei nas áreas: financeira(bancos) marketing digital, eventos, engenharia civil e desing.",
+    "Amo tecnologia e todo meu repertório me levou a uma migração para área. "
   ],
   "no_que_ja_trabalhei": [
     {
-      "cargo_funcao": "Design Gráfica",
-      "empresa": "Empresa XPTO",
-      "periodo": "Jan/2017 a Dez/2018",
-      "atividades_desenvolvidas": "Diagramação, posts para as redes sociais, gerenciamento do site; atendimento e venda de ingresso para eventos.",
+      "cargo_funcao": "Empreendedora - Assessora de Comunicação",
+      "empresa": "Autônoma",
+      "periodo": "Jan/2018 - Mai/2020",
+      "atividades_desenvolvidas": "Assessoria de Comunicação Digital. Elaboração do plano de comunicação com escolha de canais, criação de briefing de campanhas e contratação de fornecedores (design, programador e conteúdo).Monitoramento de redes sociais e resultados das campanhas",
       "link": null
     },
     {
-      "cargo_funcao": "Projeto Voluntário",
-      "empresa": "Reprograma - Cliente Fulano",
-      "periodo": "Jan/2017 a Dez/2018",
-      "atividades_desenvolvidas": "Diagramação, posts para as redes sociais, gerenciamento do site; atendimento e venda de ingresso para eventos.",
-      "link": "http://clientefulano.com.br"
+      "cargo_funcao": "Empreendedora - Orçamentista",
+      "empresa": "Prime Startup",
+      "periodo": "Jan/2014 a Dez/2016",
+      "atividades_desenvolvidas": "Elaboração de orçamento de obras, com levantamento de projetos, quantitativo de materiais e cotação de preços no mercado e tabelas (SINAPI, SCO, EMOP, PINI).",
+      "link": null
+    },
+    {
+      "cargo_funcao": "Supervisora",
+      "empresa": "Ceman Soluções",
+      "periodo": "Jan/2013 a Mai/2013",
+      "atividades_desenvolvidas": "Gerenciamento e Planejamento de obras - Qualidade e Produção. Participação da analise dos orçamentos das licitações públicas.",
+      "link": null
+    },
+    {
+      "cargo_funcao": "Estagiaria",
+      "empresa": "Araujo Terraplanagem",
+      "periodo": "Mai/2011 a Jul/2012",
+      "atividades_desenvolvidas": "Estágio de engenharia civil - Orçamento, planejamento, contratos e produção.",
+      "link": null
+    },
+    {
+      "cargo_funcao": "Assistente Comercial",
+      "empresa": "Milenium Consignado",
+      "periodo": "Out/2010 a Mai/2011",
+      "atividades_desenvolvidas": "Atendimento e suporte aos parceiros. Realização dos cadastros das propostas de Crédito Consignado nas plataformas dos Bancos Conveniados da Milenium.",
+      "link": "http://www.mileniumconsignado.com.br/"
+    },
+    {
+      "cargo_funcao": "Atendente - Assistente Comercial",
+      "empresa": "Mundo Cred",
+      "periodo": "Jun/2009 a Out/2010",
+      "atividades_desenvolvidas": "Atendimento ao cliente (vendas de Crédito Consignado) - escritório e telemarketing , Suporte aos parceiros promotores de vendas, Suporte operacional das propostas nos sistemas dos Bancos Parceiros.",
+      "link": null
     }
   ],
   "o_que_ja_estudei": [
     {
-      "curso": "Design Gráfico",
-      "instituicao": "Escola Tal",
-      "periodo": "Jan/2016 a Dez/2018",
-      "resumo_conhecimentos_aprendidos": "Criação, planejamento, edição de mídias e conteúdos"
+      "curso": "Programação Back-End",
+      "instituicao": "{Reprograma}",
+      "periodo": "Ago/2020 a Dez/2020",
+      "resumo_conhecimentos_aprendidos": "Desenvolvimento Back-end - principais tecnologias JavaScript, Git, Github, MongoDB, Node.js"
     },
     {
-      "curso": "Curso de Web Design",
-      "instituicao": "Escola Tal",
-      "periodo": "Jan/2015 a Dez/2015",
-      "resumo_conhecimentos_aprendidos": "Criação, planejamento, edição de mídias e conteúdos"
+      "curso": "Growth Hacking",
+      "instituicao": "Gama Academy",
+      "periodo": "Out/2019 a Nov/2019",
+      "resumo_conhecimentos_aprendidos": "Bootcamp baseado em problemas reais que desenvolvendo habilidades soft skills e hard Skills - Inbound/Outbound; Automação de marketing; SOE/SEM; Gestão de projetos."
+    },
+    {
+      "curso": "Engenharia Civil",
+      "instituicao": "Universidade Veiga de Almeida",
+      "periodo": "Jan/2011 a Dez/2016",
+      "resumo_conhecimentos_aprendidos": "Conteúdo da matriz curricular da graduação."
+    },
+    {
+      "curso": "Design Gráfico",
+      "instituicao": "Unifacs",
+      "periodo": "Jan/2009 a Dez/2010",
+      "resumo_conhecimentos_aprendidos": "Conteúdo da matriz curricular da graduação."
     }
   ],
   "meus_outros_aprendizados_e_interesses": [
     {
-      "interesse_evento_curso": "Curso online de Javascript",
-      "instituicao": "Udemy",
-      "resumo_conhecimentos_interesses": "Entendimento sobre a sintaxe básica do javascript"
+      "interesse_evento_curso": "Next Level Week",
+      "instituicao": "Rocketseat",
+      "resumo_conhecimentos_interesses": "Desafio de muito codigo e desenvolvimento Front-End"
     },
     {
-      "interesse_evento_curso": "Curso ES6",
-      "instituicao": "Udemy",
-      "resumo_conhecimentos_interesses": "Entendimento sobre a sintaxe moderna do javascript"
+      "interesse_evento_curso": "RD SUMMIT-2019",
+      "instituicao": "Resultados Digitais",
+      "resumo_conhecimentos_interesses": "Muito conhecimento técnico e networking no maior evento de marketing digital da America Latina."
     }
   ],
   "no_que_me_destaco": [
-    { "habilidade_ferramenta": "HTML", "pontuacao": 9 },
-    { "habilidade_ferramenta": "CSS", "pontuacao": 9 },
-    { "habilidade_ferramenta": "SASS", "pontuacao": 6 },
-    { "habilidade_ferramenta": "JAVASCRIPT", "pontuacao": 8 },
-    { "habilidade_ferramenta": "JQUERY", "pontuacao": 6 },
-    { "habilidade_ferramenta": "NODE", "pontuacao": 1 },
-    { "habilidade_ferramenta": "GIT/GITHUB", "pontuacao": 8 },
-    { "habilidade_ferramenta": "BOOTSTRAP", "pontuacao": 9 },
-    { "habilidade_ferramenta": "REACT", "pontuacao": 8 },
-    { "habilidade_ferramenta": "METODOLOGIAS ÁGEIS", "pontuacao": 5 },
-    { "habilidade_ferramenta": "RESPONSIVIDADE", "pontuacao": 9 },
-    { "habilidade_ferramenta": "UX DESIGN", "pontuacao": 6 },
-    { "habilidade_ferramenta": "TECNOLOGIA ASSISTIVAS", "pontuacao": 6 },
-    { "habilidade_ferramenta": "WORDPRESS", "pontuacao": 9 },
-    { "habilidade_ferramenta": "PHP", "pontuacao": 3 },
-    { "habilidade_ferramenta": "MySQL", "pontuacao": 3 },
-    { "habilidade_ferramenta": "HOSPEDAGEM DE SITE", "pontuacao": 8 },
-    { "habilidade_ferramenta": "FTP", "pontuacao": 5 },
-    { "habilidade_ferramenta": "CONFIGURAÇÃO DE DOMÍNIO", "pontuacao": 8 },
-    { "habilidade_ferramenta": "PHOTOSHOP", "pontuacao": 9 },
-    { "habilidade_ferramenta": "ILUSTRATOR", "pontuacao": 9 },
-    { "habilidade_ferramenta": "INDESIGN", "pontuacao": 9 }
+    { "habilidade_ferramenta": "HTML", "pontuacao": 5 },
+    { "habilidade_ferramenta": "CSS", "pontuacao": 4 },
+    { "habilidade_ferramenta": "JAVASCRIPT", "pontuacao": 9 },
+    { "habilidade_ferramenta": "MONGODB", "pontuacao": 7 },
+    { "habilidade_ferramenta": "NODEJS", "pontuacao": 9 },
+    { "habilidade_ferramenta": "GIT/GITHUB", "pontuacao": 9 },
+    { "habilidade_ferramenta": "REST, API, CRUD", "pontuacao": 8 },
+    { "habilidade_ferramenta": "PROTOCOLO HTTP", "pontuacao": 9 },
+    { "habilidade_ferramenta": "POSTMAN", "pontuacao": 9 },
+    { "habilidade_ferramenta": "METODOLOGIAS ÁGEIS", "pontuacao": 6 },
+    { "habilidade_ferramenta": "JWT", "pontuacao": 6 },
+    { "habilidade_ferramenta": "WORDPRESS", "pontuacao": 4 },
+    { "habilidade_ferramenta": "HOSPEDAGEM DE SITE", "pontuacao": 4 },
+    { "habilidade_ferramenta": "CONFIGURAÇÃO DE DOMÍNIO", "pontuacao": 6 },
+    { "habilidade_ferramenta": "PHOTOSHOP", "pontuacao": 6 },
+    { "habilidade_ferramenta": "COREL DRAW", "pontuacao": 9 }
   ]
 }
