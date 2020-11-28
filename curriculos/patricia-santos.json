@@ -1,80 +1,108 @@
 {
-  "nome_completo": "Seu Nome Completo",
-  "o_que_eu_quero": "Descrição resumida sobre o que você deseja para sua carreira",
-  "cidade_estado:": "São Paulo/SP",
-  "link_linkedin": "https://www.linkedin.com/in/seulinkedin/",
-  "link_github": "https://github.com/seugithub",
-  "email": "seuemail@gmail.com",
+  "nome_completo": "Patrícia de Souza dos Santos",
+  "o_que_eu_quero": "Busco oportunidade para atuar como desenvolvedora Back-End e colocar em prática os aprendizados que tive no decorrer das 18 semanas de bootcamp oferecidas pela reprograma. Estou aberta a novos aprendizados e oportunidades que desafiem o meu conhecimento, como forma de adquirir novas habilidades e assim aperfeiçoar minha trajetória profissional.",
+  "cidade_estado:": "Rio de Janeiro/RJ",
+  "link_linkedin": "https://www.linkedin.com/in/patriciasouzas/",
+  "link_github": "https://github.com/patriciasouzas",
+  "email": "patricia_souzas@live.com",
   "um_pouco_sobre_mim": [
-    "Aqui é um parágrafo descrevendo um pouco sobre você",
-    "Aqui é outro parágrafo falando sobre sua trajetória",
-    "Nesse aqui você pode dizer o que você curte fazer",
-    "Fique a vontade, mas busque ser objetiva"
-  ],
+    "Junto à área de tecnologia, minha vida também é movida por pensamento crítico para lidar com a realidade do meu dia-a-dia e dos desafios e resoluções de problemas que me cercam. Me fazendo enxergar boa parte dos acontecimentos ao meu redor com olhar humanizado - dentro do possível-, incluindo no ambiente de trabalho.",
+    "Tenho formação técnica em informática e depois de atuar há aproximadamente 10 anos na área com suporte técnico, resolvi que era o momento ideal para subir mais um degrau na vida profissional e comecei a me dedicar para mudar de área, ainda dentro do ramo da tecnologia. Atualmente curso Gestão de TI, que somado ao meu vasto conhecimento com suporte técnico, me possibilitam a experiência de encontrar soluções pros mais variados desafios que demandam conhecimento técnico e tratamento para lidar com o usuário.",
+    "Possuo forte relação com a cultura popular. Onde tenho a oportunidade de estar como coordenadora e percussionista de um grupo de Maracatu, o que já me possibilitou viagens para Recife e outros estados. Além disso, sou amante da natureza, atividades culturais e ao ar livre. E de ler livros, assistir séries e fazer social com as amigas.",
+ ],
   "no_que_ja_trabalhei": [
     {
-      "cargo_funcao": "Design Gráfica",
-      "empresa": "Empresa XPTO",
-      "periodo": "Jan/2017 a Dez/2018",
-      "atividades_desenvolvidas": "Diagramação, posts para as redes sociais, gerenciamento do site; atendimento e venda de ingresso para eventos.",
-      "link": null
+      "cargo_funcao": "Assistente Operacional de TI",
+      "empresa": "Senai CETIQT",
+      "periodo": "Jun/2018 - atual",
+      "atividades_desenvolvidas": "Reparos em ponto (RJ45) e cabo de rede; Instalação e configuração do Forticlient VPN para acesso à rede via home office; Criação de pré notas e anexo de documentos no sistema Protheus; Criação, alteração e exclusão de ramais na Central Telefônica PABX Alcatel-Lucent OmniPCX Enterprise; Formatação, montagem e manutenção de desktops e notebooks (limpeza interna, troca de peças, formatação, configuração); Instalação e manutenção de softwares; Manutenção, limpeza e troca de tonners em impressoras multifuncionais OKI e EPSON; Operação e suporte em equipamentos audiovisual. Projetores, mesa de som, caixa de som, microfones; Atendimentos realizados via acesso remoto e presencialmente; Acompanhamentos de chamados via OTRS; Acompanhamentos de SLA;",
+      "link": "https://senaicetiqt.com/"
     },
     {
-      "cargo_funcao": "Projeto Voluntário",
-      "empresa": "Reprograma - Cliente Fulano",
-      "periodo": "Jan/2017 a Dez/2018",
-      "atividades_desenvolvidas": "Diagramação, posts para as redes sociais, gerenciamento do site; atendimento e venda de ingresso para eventos.",
-      "link": "http://clientefulano.com.br"
+      "cargo_funcao": "Técnica de Suporte em TI",
+      "empresa": "TIVIT",
+      "periodo": "Fev/2014 a Nov/2015",
+      "atividades_desenvolvidas": "Receber ligações de funcionários Petrobras e realizar primeiro atendimento relacionados às variadas aplicações utilizadas pelos mesmos. Atendimentos realizados via acesso remoto. Em casos específicos como Lotus Notes, Telefonia Fixa e Móvel, SAP e outros atendimentos realizados por outra equipe através de redirecionamento de ligação e do chamado.",
+      "link": "https://tivit.com/"
+    },
+    {
+      "cargo_funcao": "Agente de Inclusão Escolar",
+      "empresa": "IBDD",
+      "periodo": "Set/2013 a Mar/2014",
+      "atividades_desenvolvidas": "Exercer atividades pedagógicas em escolas municipais com alunos dentro dos laboratórios de informática e deixá-los mais próximos da realidade virtual em que vivemos, ressaltando que a internet não necessariamente é utilizada somente para lazer, mas também aprendizado.",
+      "link": "http://www.ibdd.org.br/"
+    },
+    {
+      "cargo_funcao": "Técnica em Informática",
+      "empresa": "Primorum Informática",
+      "periodo": "Out/2011 a Mai/2013",
+      "atividades_desenvolvidas": "Atendimento de chamados via telefone, presencial e remoto; Backup de base de dados para correções e migração do sistema; Instalação de novos módulos do sistema oferecido pela empresa; Execução de scripts em base de dados SQL; Instalação do software e implantação da base de dados para teste e pós venda; Manutenção e reparo de pequenos erros no software.",
+      "link": null
     }
   ],
   "o_que_ja_estudei": [
     {
-      "curso": "Design Gráfico",
-      "instituicao": "Escola Tal",
-      "periodo": "Jan/2016 a Dez/2018",
-      "resumo_conhecimentos_aprendidos": "Criação, planejamento, edição de mídias e conteúdos"
+      "curso": "Desenvolvimento Back-End",
+      "instituicao": "{reprograma}",
+      "periodo": "Ago/2020 a Dez/2020",
+      "resumo_conhecimentos_aprendidos": "Lógica de Programação, Git, GitHub, Javascript, construção de API's, MongoDB, Node.js, projetos para prática do conhecimento adquirido ao longo do bootcamp, práticas desafiadoras e orientação profissional."
     },
     {
-      "curso": "Curso de Web Design",
-      "instituicao": "Escola Tal",
-      "periodo": "Jan/2015 a Dez/2015",
-      "resumo_conhecimentos_aprendidos": "Criação, planejamento, edição de mídias e conteúdos"
+      "curso": "Gestão de Tecnologia da Informação",
+      "instituicao": "Universidade Estácio de Sá",
+      "periodo": "Jan/2020 - atual",
+      "resumo_conhecimentos_aprendidos": "O curso visa habilitar o aluno a administrar, de maneira eficiente, os recursos de infraestrutura física e lógica dos ambientes climatizados. As aulas contam com o apoio de laboratórios de hardware e software para atividades práticas, como implementação de projetos e testes de ambientes informatizados."
+    },
+    {
+      "curso": "Bootcamp de Análise de Banco de Dados",
+      "instituicao": "IGTI",
+      "periodo": "Jul/2020 a Set/2020",
+      "resumo_conhecimentos_aprendidos": "Trabalhar com bancos de dados relacionais e não relacionais (NoSQL), realizar o gerenciamento dos dados, suas estruturas e segurança de acesso (usuários e permissões). Elaborar e implementar modelos de dados e consultas (queries) SQL e NoSQL do nível básico ao avançado, capacitando-se para a criação de códigos de alta performance. Curso com objetivo da aluna ser uma analista de banco de dados para atuação nas principais áreas da Tecnologia da Informação."
+    },
+    {
+      "curso": "Engenharia de Produção",
+      "instituicao": "Universidade Estácio de Sá",
+      "periodo": "Jul/2008 - Trancado Jul/2011",
+      "resumo_conhecimentos_aprendidos": "Gestão de Projetos, Gestão de Marketing, Logística, Gestão da Produção, Contabilidade e Custos Industriais, AutoCAD 2008, Introdução a C++"
+    },
+    {
+      "curso": "Técnica de Informática",
+      "instituicao": "FAETEC - ETESC",
+      "periodo": "Jan/2005 - Dez/2008",
+      "resumo_conhecimentos_aprendidos": "Lógica de Programação, Noção de Desenvolvimento Web, Montagem e Manutenção de Micros."
     }
   ],
   "meus_outros_aprendizados_e_interesses": [
     {
-      "interesse_evento_curso": "Curso online de Javascript",
-      "instituicao": "Udemy",
-      "resumo_conhecimentos_interesses": "Entendimento sobre a sintaxe básica do javascript"
+      "interesse_evento_curso": "Dev Summit",
+      "instituicao": "IGTI",
+      "resumo_conhecimentos_interesses": "Evento sobre Desenvolvimento Full Stack, Front-End, Mobile e Arquitetura de Software."
     },
     {
-      "interesse_evento_curso": "Curso ES6",
-      "instituicao": "Udemy",
-      "resumo_conhecimentos_interesses": "Entendimento sobre a sintaxe moderna do javascript"
+      "interesse_evento_curso": "Introdução a Redes de Computadores",
+      "instituicao": "Fundação Bradesco",
+      "resumo_conhecimentos_interesses": "O decorrer do curso envolveu aprendizados de conceitos importantes sobre como as redes funcionam. Para isso, foram abordados temas como tipos de redes, meios e formas de trasmissão de dados, cabeamento estruturado, arquitetura de redes, protocolo TCP/IP, entre outros."
+    },
+    {
+      "interesse_evento_curso": "Gestão de Projetos e Aplicativos de Impacto",
+      "instituicao": "Recode",
+      "resumo_conhecimentos_interesses": "Introdução a Gestão de Projetos e desenvolvimento de aplicativos que proporcionem melhorias para problemas do dia-a-dia."
+    },
+    {
+      "interesse_evento_curso": "Aprendendo a Programar",
+      "instituicao": "Recode",
+      "resumo_conhecimentos_interesses": "Introdução a Lógica de programação."
     }
   ],
   "no_que_me_destaco": [
-    { "habilidade_ferramenta": "HTML", "pontuacao": 9 },
-    { "habilidade_ferramenta": "CSS", "pontuacao": 9 },
-    { "habilidade_ferramenta": "SASS", "pontuacao": 6 },
-    { "habilidade_ferramenta": "JAVASCRIPT", "pontuacao": 8 },
-    { "habilidade_ferramenta": "JQUERY", "pontuacao": 6 },
-    { "habilidade_ferramenta": "NODE", "pontuacao": 1 },
+    { "habilidade_ferramenta": "JAVASCRIPT", "pontuacao": 7 },
+    { "habilidade_ferramenta": "NODE", "pontuacao": 7 },
     { "habilidade_ferramenta": "GIT/GITHUB", "pontuacao": 8 },
-    { "habilidade_ferramenta": "BOOTSTRAP", "pontuacao": 9 },
-    { "habilidade_ferramenta": "REACT", "pontuacao": 8 },
-    { "habilidade_ferramenta": "METODOLOGIAS ÁGEIS", "pontuacao": 5 },
-    { "habilidade_ferramenta": "RESPONSIVIDADE", "pontuacao": 9 },
-    { "habilidade_ferramenta": "UX DESIGN", "pontuacao": 6 },
-    { "habilidade_ferramenta": "TECNOLOGIA ASSISTIVAS", "pontuacao": 6 },
-    { "habilidade_ferramenta": "WORDPRESS", "pontuacao": 9 },
-    { "habilidade_ferramenta": "PHP", "pontuacao": 3 },
-    { "habilidade_ferramenta": "MySQL", "pontuacao": 3 },
-    { "habilidade_ferramenta": "HOSPEDAGEM DE SITE", "pontuacao": 8 },
-    { "habilidade_ferramenta": "FTP", "pontuacao": 5 },
+    { "habilidade_ferramenta": "METODOLOGIAS ÁGEIS", "pontuacao": 6 },
+    { "habilidade_ferramenta": "RESPONSIVIDADE", "pontuacao": 8 },
     { "habilidade_ferramenta": "CONFIGURAÇÃO DE DOMÍNIO", "pontuacao": 8 },
-    { "habilidade_ferramenta": "PHOTOSHOP", "pontuacao": 9 },
-    { "habilidade_ferramenta": "ILUSTRATOR", "pontuacao": 9 },
-    { "habilidade_ferramenta": "INDESIGN", "pontuacao": 9 }
+    { "habilidade_ferramenta": "HTML", "pontuacao": 5 },
+    { "habilidade_ferramenta": "INGLÊS", "pontuacao": 6 },
+    { "habilidade_ferramenta": "ESPANHOL", "pontuacao": 7 }
   ]
 }
