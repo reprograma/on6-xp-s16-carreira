@@ -51,7 +51,7 @@
   ],
   "no_que_me_destaco": [
     { "habilidade_ferramenta": "JAVASCRIPT", "pontuacao": 5 },
-    { "habilidade_ferramenta": "NODE", "pontuacao": 1 },
+    { "habilidade_ferramenta": "NODE", "pontuacao": 3 },
     { "habilidade_ferramenta": "GIT/GITHUB", "pontuacao": 8 },
     { "habilidade_ferramenta": "METODOLOGIAS ÁGEIS", "pontuacao": 9 },
     { "habilidade_ferramenta": "WORDPRESS", "pontuacao": 7 },
