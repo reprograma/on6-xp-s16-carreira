@@ -1,6 +1,6 @@
 {
   "nome_completo": "Lilian Gomes Castro",
-  "o_que_eu_quero": "Descrição resumida sobre o que você deseja para sua carreira",
+  "o_que_eu_quero": "Ser desenvolvedora Back-End",
   "cidade_estado:": "Fortaleza/CE",
   "link_linkedin": "https://www.linkedin.com/in/stormlilian/",
   "link_github": "https://github.com/stormlilian",
@@ -44,12 +44,12 @@
     {
       "interesse_evento_curso": "Decola Dev",
       "instituicao": "Digital Innovation one",
-      "resumo_conhecimentos_interesses": "Logica de programação basica, desde os primeiros passos à orientação a objeto e criação de aplicações com .Net e c#, com implementação com testes de unidade integrados."
+      "resumo_conhecimentos_interesses": "Logica de programação basica, desde os primeiros passos à orientação a objeto e criação de aplicações com .Net e c#, com implementação com testes de unidade e integrados."
     },
     {
       "interesse_evento_curso": "Trilha de Automatização de Testes",
       "instituicao": "LinkedIn Learning",
-      "resumo_conhecimentos_interesses": "Entendimento dos fundamentos de testes, testes no contexto ágil e automatização de testes com Selenium"
+      "resumo_conhecimentos_interesses": "Entendimento dos fundamentos de testes, testes no contexto ágil e automatização de testes com Selenium."
     }
   ],
   "no_que_me_destaco": [
