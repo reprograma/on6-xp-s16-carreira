@@ -1,80 +1,90 @@
 {
-  "nome_completo": "Seu Nome Completo",
-  "o_que_eu_quero": "Descrição resumida sobre o que você deseja para sua carreira",
-  "cidade_estado:": "São Paulo/SP",
-  "link_linkedin": "https://www.linkedin.com/in/seulinkedin/",
-  "link_github": "https://github.com/seugithub",
-  "email": "seuemail@gmail.com",
+  "nome_completo": "Camila Santos Bulcão",
+  "o_que_eu_quero": "Ingressar na área de TI como Desenvolvedora Back-end",
+  "cidade_estado:": "Salvador/BA",
+  "link_linkedin": "www.linkedin.com/in/camila-bulcão",
+  "link_github": "https://github.com/camilabulcao",
+  "email": "camilabulcao5@gmail.com",
   "um_pouco_sobre_mim": [
-    "Aqui é um parágrafo descrevendo um pouco sobre você",
-    "Aqui é outro parágrafo falando sobre sua trajetória",
-    "Nesse aqui você pode dizer o que você curte fazer",
-    "Fique a vontade, mas busque ser objetiva"
+    "Acredito fielmente que toda a transformação que desejamos no mundo parte do princípio da nossa própria transformação individual, para que desse modo possamos impactar o ambiente a nossa volta. Tendo essa premissa busco nos estudos a oportunidade de melhorar a minha vida e a das pessoas ao meu redor. Sou entusiasmada pelo mundo da tecnologia desde o curso técnico em informática, ingressei na área de engenharia de petróleo e gás e estou em transição de carreira por meio da oportunidade da Reprograma. ",
+    "Comecei trabalhando em uma Lan house; Já trabalhei como auxiliar de Caixa em uma loja de roupas;Possuo experiência de mais de 7 anos prestando serviço de atendimento ao cliente focado em empresas. Após defesa do meu Trabalho de Conclusão de Curso na Universidade tive a oportunidade de prestar serviço para uma empresa de petróleo na temática desenvolvida para conclusão da graduação. ",
+    "Sou apaixonada por leitura, meditação, inovação, gestão empresarial, pesquisas, chás, músicas, viagens e ajudar o próximo",
+    "Diante das transformações mundiais com o avanço tecnológico, acredito que com pequenas soluções voltadas para os problemas atuais da sociedade podemos melhorar a vida das pessoas, gerando assim impacto no mundo."
   ],
   "no_que_ja_trabalhei": [
     {
-      "cargo_funcao": "Design Gráfica",
-      "empresa": "Empresa XPTO",
-      "periodo": "Jan/2017 a Dez/2018",
-      "atividades_desenvolvidas": "Diagramação, posts para as redes sociais, gerenciamento do site; atendimento e venda de ingresso para eventos.",
-      "link": null
+      "cargo_funcao": "Atendimento ao cliente",
+      "empresa": "PC Service Tecnologia Ltda",
+      "periodo": "Jun/2013 a Dez/2020",
+      "atividades_desenvolvidas": "Orientação de gestão empresarial, abertura de empresa, planejamento, finanças, marketing; envio de relatórios.",
+      "link": "https://www.pcservice.com.br/"
     },
     {
-      "cargo_funcao": "Projeto Voluntário",
-      "empresa": "Reprograma - Cliente Fulano",
-      "periodo": "Jan/2017 a Dez/2018",
-      "atividades_desenvolvidas": "Diagramação, posts para as redes sociais, gerenciamento do site; atendimento e venda de ingresso para eventos.",
-      "link": "http://clientefulano.com.br"
+      "cargo_funcao": "Coordenadora de Comunicação e Marketing -Projeto Voluntário",
+      "empresa": "Society of Petroleum Engineers International - Sessão Bahia/Sergipe ",
+      "periodo": "Set/2016 a Dez/2017",
+      "atividades_desenvolvidas": "Produção de textos, posts para as redes sociais, atendimento; apoio na organização de eventos técnicos e/ou congresso.",
+      "link": null
     }
   ],
   "o_que_ja_estudei": [
+
     {
-      "curso": "Design Gráfico",
-      "instituicao": "Escola Tal",
-      "periodo": "Jan/2016 a Dez/2018",
-      "resumo_conhecimentos_aprendidos": "Criação, planejamento, edição de mídias e conteúdos"
+      "curso": "Bootcamp Back-end",
+      "instituicao": "{reprograma}",
+      "periodo": "Ago/2020 a Dez/2020",
+      "resumo_conhecimentos_aprendidos": "Versionamento de código e Github, Lógica de programação, Construção de API Rest, Banco de Dados (Mongo Db), Autenticação e autorização (JWT)"
     },
     {
-      "curso": "Curso de Web Design",
-      "instituicao": "Escola Tal",
-      "periodo": "Jan/2015 a Dez/2015",
-      "resumo_conhecimentos_aprendidos": "Criação, planejamento, edição de mídias e conteúdos"
+      "curso": "Inglês",
+      "instituicao": "Minds English School",
+      "periodo": " 18 meses - conclusão em Nov/2019",
+      "resumo_conhecimentos_aprendidos": "Do básico ao avançado dentro do período proposto no curso."
+    },
+    {
+      "curso": "Mestrado em Propriedade Intelectual e Transferência de Tecnologia para Inovação - Aluna Especial",
+      "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia da Bahia (IFBA) - Campos Salvador",
+      "periodo": "Jan/2019 a Maio/2019",
+      "resumo_conhecimentos_aprendidos": "Indicação Geográfica, marcas coletivas; Políticas Públicas em Ciência, Tecnologia e Inovação, transferência de tecnologia, ecossistemas de inovação"
+    },
+ 
+    {
+      "curso": "Engenharia de Petróleo e Gás",
+      "instituicao": "Centro Universitário Jorge Amado",
+      "periodo": "Ago/2012 a Ago/2018",
+      "resumo_conhecimentos_aprendidos": "Exploração e produção de petróleo e gás, reservatórios, refino e conteúdos."
+    },
+    {
+      "curso": "Técnico em Informática",
+      "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia da Bahia (IFBA) - Campos Santo Amaro",
+      "periodo": "Mar/2007 a Mar/2012",
+      "resumo_conhecimentos_aprendidos": "Redes, banco de dados, programação, manutenção; gestão de negócio e empreendedorismo na área de TI "
     }
   ],
   "meus_outros_aprendizados_e_interesses": [
     {
-      "interesse_evento_curso": "Curso online de Javascript",
-      "instituicao": "Udemy",
-      "resumo_conhecimentos_interesses": "Entendimento sobre a sintaxe básica do javascript"
+      "interesse_evento_curso": "Voluntário Social",
+      "instituicao": "Montreal Informática (A PC Service faz parte do grupo da Montreal)",
+      "resumo_conhecimentos_interesses": "Ajudar ao próximo."
     },
     {
-      "interesse_evento_curso": "Curso ES6",
-      "instituicao": "Udemy",
-      "resumo_conhecimentos_interesses": "Entendimento sobre a sintaxe moderna do javascript"
+      "interesse_evento_curso": "Inteligência Emocional",
+      "instituicao": "Conquer",
+      "resumo_conhecimentos_interesses": "Autoconhecimento, empatia, liderança em tempos de incertezas, autogestão, adaptabilidade em tempos de crise, gerenciamento de relacionamentos"
     }
   ],
   "no_que_me_destaco": [
-    { "habilidade_ferramenta": "HTML", "pontuacao": 9 },
-    { "habilidade_ferramenta": "CSS", "pontuacao": 9 },
-    { "habilidade_ferramenta": "SASS", "pontuacao": 6 },
-    { "habilidade_ferramenta": "JAVASCRIPT", "pontuacao": 8 },
-    { "habilidade_ferramenta": "JQUERY", "pontuacao": 6 },
-    { "habilidade_ferramenta": "NODE", "pontuacao": 1 },
-    { "habilidade_ferramenta": "GIT/GITHUB", "pontuacao": 8 },
-    { "habilidade_ferramenta": "BOOTSTRAP", "pontuacao": 9 },
-    { "habilidade_ferramenta": "REACT", "pontuacao": 8 },
-    { "habilidade_ferramenta": "METODOLOGIAS ÁGEIS", "pontuacao": 5 },
-    { "habilidade_ferramenta": "RESPONSIVIDADE", "pontuacao": 9 },
-    { "habilidade_ferramenta": "UX DESIGN", "pontuacao": 6 },
-    { "habilidade_ferramenta": "TECNOLOGIA ASSISTIVAS", "pontuacao": 6 },
-    { "habilidade_ferramenta": "WORDPRESS", "pontuacao": 9 },
-    { "habilidade_ferramenta": "PHP", "pontuacao": 3 },
-    { "habilidade_ferramenta": "MySQL", "pontuacao": 3 },
-    { "habilidade_ferramenta": "HOSPEDAGEM DE SITE", "pontuacao": 8 },
-    { "habilidade_ferramenta": "FTP", "pontuacao": 5 },
-    { "habilidade_ferramenta": "CONFIGURAÇÃO DE DOMÍNIO", "pontuacao": 8 },
-    { "habilidade_ferramenta": "PHOTOSHOP", "pontuacao": 9 },
-    { "habilidade_ferramenta": "ILUSTRATOR", "pontuacao": 9 },
-    { "habilidade_ferramenta": "INDESIGN", "pontuacao": 9 }
+    { "habilidade_ferramenta": "HTML", "pontuacao": 2 },
+    { "habilidade_ferramenta": "CSS", "pontuacao": 2 },
+    { "habilidade_ferramenta": "JAVASCRIPT", "pontuacao": 7 },
+    { "habilidade_ferramenta": "NODE", "pontuacao": 7},
+    { "habilidade_ferramenta": "GIT/GITHUB", "pontuacao": 6 },
+    { "habilidade_ferramenta": "PHP", "pontuacao": 2 },
+    { "habilidade_ferramenta": "MySQL", "pontuacao": 2 },
+    { "habilidade_ferramenta": "FTP", "pontuacao": 1 },
+    { "habilidade_ferramenta": "CONFIGURAÇÃO DE DOMÍNIO", "pontuacao": 1 },
+    { "habilidade_ferramenta": "MONGODB", "pontuacao": 6 },
+    { "habilidade_ferramenta": "APIs","pontuacao": 6 }
+
   ]
 }
