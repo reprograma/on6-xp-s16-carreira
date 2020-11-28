@@ -70,6 +70,7 @@
   ],
   "no_que_me_destaco": [
     { "habilidade_ferramenta": "JAVASCRIPT", "pontuacao": 9 },
+    { "habilidade_ferramenta": "PYTHON", "pontuacao": 7 }, 
     { "habilidade_ferramenta": "NODE.JS", "pontuacao": 9 },
     { "habilidade_ferramenta": "GIT/GITHUB", "pontuacao": 9 },
     { "habilidade_ferramenta": "POSTMAN", "pontuacao": 10 },
