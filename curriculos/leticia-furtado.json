@@ -1,80 +1,131 @@
 {
-  "nome_completo": "Seu Nome Completo",
-  "o_que_eu_quero": "Descrição resumida sobre o que você deseja para sua carreira",
+  "nome_completo": "Letícia Luzia da Silva Furtado",
+  "o_que_eu_quero": "Desenvolvedora Fullstack | Javascript, React e Node.js",
   "cidade_estado:": "São Paulo/SP",
-  "link_linkedin": "https://www.linkedin.com/in/seulinkedin/",
-  "link_github": "https://github.com/seugithub",
-  "email": "seuemail@gmail.com",
+  "link_linkedin": "https://www.linkedin.com/in/leticialuzia/",
+  "link_github": "https://github.com/luzialeticia",
+  "email": "leticialuzia89@gmail.com",
   "um_pouco_sobre_mim": [
-    "Aqui é um parágrafo descrevendo um pouco sobre você",
-    "Aqui é outro parágrafo falando sobre sua trajetória",
-    "Nesse aqui você pode dizer o que você curte fazer",
-    "Fique a vontade, mas busque ser objetiva"
+    "Sou estudante de Análise e Desenvolvimento de Sistemas e dedico, no mínimo, seis horas diárias ao estudo de desenvolvimento web.",
+    "Atualmente sou mentoranda no projeto Digitalization Portfolio by Women in Dev da SAP Labs Latin America, no qual participo de diversas trainings de programação como Java, Python e SQL e treinamentos de soft skills.",
+    "Também estou concluindo o bootcamp de Back-end da Reprograma e terminei recentemente, no Instituto de Gestão e Tecnologia da Informação (IGTI), os cursos de desenvolvimento Full Stack, com ênfase em ReactJS, Node.js, MongoDB, e de Front-end, com foco nos frameworks Angular, React e Vue.",
+    "Sou formada em Cinema e Audiovisual, trabalhei alguns anos na área, o que me proporcionou experiência em lidar com pessoas, desenvolvi criatividade para resolução de problemas sob pressão, habilidade em trabalhar com equipes e liderá-las, além de boa comunicação oral e escrita.",
+    "Possuo perfil auto-didata e me adapto facilmente a mudanças e estou disponível para trabalhar em qualquer lugar do Brasil."
   ],
   "no_que_ja_trabalhei": [
     {
-      "cargo_funcao": "Design Gráfica",
-      "empresa": "Empresa XPTO",
+      "cargo_funcao": "Produtora Multimídia",
+      "empresa": "Autônoma",
       "periodo": "Jan/2017 a Dez/2018",
-      "atividades_desenvolvidas": "Diagramação, posts para as redes sociais, gerenciamento do site; atendimento e venda de ingresso para eventos.",
+      "atividades_desenvolvidas": "Produção e edição de conteúdo audiovisual para internet. Negociação e comunicação direta com clientes.",
       "link": null
     },
     {
-      "cargo_funcao": "Projeto Voluntário",
-      "empresa": "Reprograma - Cliente Fulano",
-      "periodo": "Jan/2017 a Dez/2018",
-      "atividades_desenvolvidas": "Diagramação, posts para as redes sociais, gerenciamento do site; atendimento e venda de ingresso para eventos.",
-      "link": "http://clientefulano.com.br"
+      "cargo_funcao": "Continuísta",
+      "empresa": "Autônoma",
+      "periodo": "Ago/2018 a Dez/2019",
+      "atividades_desenvolvidas": "Continuísta para cinema e TV. Fazia a ponte de comunicação entre os diversos setores responsáveis pela produção das filmagens.",
+      "link": null
+    },
+    {
+      "cargo_funcao": "Editora de vídeo e cinegrafista",
+      "empresa": "Videobes",
+      "periodo": "Fev/2013 a Abr/2014",
+      "atividades_desenvolvidas": "Gravação de shows, peças teatrais, videoclipes, vídeos institucionais, entrevistas e edição de todo o material captado.",
+      "link": null
+    },
+    {
+      "cargo_funcao": "Estagiária",
+      "empresa": "Unitevê",
+      "periodo": "Set/2014 a Out/2015",
+      "atividades_desenvolvidas": "Trabalhava com filmagem e edição de eventos acadêmicos.",
+      "link": null
+    },
+    {
+      "cargo_funcao": "Assistente Administrativo",
+      "empresa": "Polícia Civil do Estado do Pará",
+      "periodo": "Mar/2009 a Nov/2012",
+      "atividades_desenvolvidas": "Trabalhava no RH da instituição, resolvendo problemas de férias, pagamentos e licenças dos funcionários.",
+      "link": null
     }
   ],
   "o_que_ja_estudei": [
     {
-      "curso": "Design Gráfico",
-      "instituicao": "Escola Tal",
-      "periodo": "Jan/2016 a Dez/2018",
-      "resumo_conhecimentos_aprendidos": "Criação, planejamento, edição de mídias e conteúdos"
+      "curso": "Tecnólogo em Análise e Desenvolvimento de Sistemas",
+      "instituicao": "Instituto Federal do Pará (IFPA)",
+      "periodo": "Abr/2020 a Dez/2022",
+      "resumo_conhecimentos_aprendidos": "Desenvolvimento de Sistemas, Banco de Dados, Redes."
     },
     {
-      "curso": "Curso de Web Design",
-      "instituicao": "Escola Tal",
-      "periodo": "Jan/2015 a Dez/2015",
-      "resumo_conhecimentos_aprendidos": "Criação, planejamento, edição de mídias e conteúdos"
+      "curso": "Desenvolvimento Back-end com Node.js e MongoDB",
+      "instituicao": "Reprograma",
+      "periodo": "Ago/2020 a Dez/2020",
+      "resumo_conhecimentos_aprendidos": "Desenvolvimento de APIS Rest."
+    },
+    {
+      "curso": "Desenvolvimento Front-end",
+      "instituicao": "Instituto de Gestão e Tecnologia da Informação (IGTI)",
+      "periodo": "Set/2020 a Nov/2020",
+      "resumo_conhecimentos_aprendidos": "Angular, React e Vue.js"
+    },
+    {
+      "curso": "Desenvolvimento Fullstack",
+      "instituicao": "Instituto de Gestão e Tecnologia da Informação (IGTI)",
+      "periodo": "Jul/2020 a Set/2020",
+      "resumo_conhecimentos_aprendidos": "Node.js, React e MongoDB"
+    },
+    {
+      "curso": "Cinema e Audiovisual",
+      "instituicao": "Universidade Federal do Pará (UFF)",
+      "periodo": "Nov/2012 a Jul/2018",
+      "resumo_conhecimentos_aprendidos": "Produção e direção de filmes."
     }
   ],
   "meus_outros_aprendizados_e_interesses": [
     {
-      "interesse_evento_curso": "Curso online de Javascript",
-      "instituicao": "Udemy",
-      "resumo_conhecimentos_interesses": "Entendimento sobre a sintaxe básica do javascript"
+      "interesse_evento_curso": "Curso de CSS para iniciantes",
+      "instituicao": "Node Studio Treinamentos",
+      "resumo_conhecimentos_interesses": "Seletores básicos, posicionamento e flexbox."
     },
     {
-      "interesse_evento_curso": "Curso ES6",
-      "instituicao": "Udemy",
-      "resumo_conhecimentos_interesses": "Entendimento sobre a sintaxe moderna do javascript"
-    }
+      "interesse_evento_curso": "Curso de Design Responsivo",
+      "instituicao": "Node Studio Treinamentos",
+      "resumo_conhecimentos_interesses": "Media queries e responsividade."
+    },
+    {
+      "interesse_evento_curso": "Javascript ES6 Essencial",
+      "instituicao": "Digital Innovation One",
+      "resumo_conhecimentos_interesses": "Sintaxe básica de Javascript moderno, let e const, template literals, desestruturação de arrays e objetos, métodos de arrays."
+    },
+    {
+      "interesse_evento_curso": "Programação para internet com Javascript",
+      "instituicao": "Digital Innovation One",
+      "resumo_conhecimentos_interesses": "Sintaxe básica de Javascript, variáveis, lógica e manipulação do DOM."
+    },
+    {
+      "interesse_evento_curso": "Projetos ágeis com SCRUM",
+      "instituicao": "Digital Innovation One",
+      "resumo_conhecimentos_interesses": "Metodologias ágeis, principais funções dentro da equipe e suas atribuições, funcionamento da gestão e desenvolvimento de projetos e kanban."
+    },
+    {
+      "interesse_evento_curso": "Construindo páginas para internet com Bootstrap",
+      "instituicao": "Digital Innovation One",
+      "resumo_conhecimentos_interesses": "Construção de uma página inteira apenas com bootstrap."
+    },
   ],
   "no_que_me_destaco": [
-    { "habilidade_ferramenta": "HTML", "pontuacao": 9 },
-    { "habilidade_ferramenta": "CSS", "pontuacao": 9 },
-    { "habilidade_ferramenta": "SASS", "pontuacao": 6 },
+    { "habilidade_ferramenta": "HTML", "pontuacao": 8 },
+    { "habilidade_ferramenta": "CSS", "pontuacao": 6 },
     { "habilidade_ferramenta": "JAVASCRIPT", "pontuacao": 8 },
-    { "habilidade_ferramenta": "JQUERY", "pontuacao": 6 },
-    { "habilidade_ferramenta": "NODE", "pontuacao": 1 },
+    { "habilidade_ferramenta": "NODE", "pontuacao": 8 },
     { "habilidade_ferramenta": "GIT/GITHUB", "pontuacao": 8 },
-    { "habilidade_ferramenta": "BOOTSTRAP", "pontuacao": 9 },
-    { "habilidade_ferramenta": "REACT", "pontuacao": 8 },
-    { "habilidade_ferramenta": "METODOLOGIAS ÁGEIS", "pontuacao": 5 },
-    { "habilidade_ferramenta": "RESPONSIVIDADE", "pontuacao": 9 },
-    { "habilidade_ferramenta": "UX DESIGN", "pontuacao": 6 },
-    { "habilidade_ferramenta": "TECNOLOGIA ASSISTIVAS", "pontuacao": 6 },
-    { "habilidade_ferramenta": "WORDPRESS", "pontuacao": 9 },
-    { "habilidade_ferramenta": "PHP", "pontuacao": 3 },
-    { "habilidade_ferramenta": "MySQL", "pontuacao": 3 },
+    { "habilidade_ferramenta": "BOOTSTRAP", "pontuacao": 7 },
+    { "habilidade_ferramenta": "REACT", "pontuacao": 5 },
+    { "habilidade_ferramenta": "METODOLOGIAS ÁGEIS", "pontuacao": 7 },
+    { "habilidade_ferramenta": "RESPONSIVIDADE", "pontuacao": 5 },
+    { "habilidade_ferramenta": "MySQL", "pontuacao": 6 },
     { "habilidade_ferramenta": "HOSPEDAGEM DE SITE", "pontuacao": 8 },
-    { "habilidade_ferramenta": "FTP", "pontuacao": 5 },
-    { "habilidade_ferramenta": "CONFIGURAÇÃO DE DOMÍNIO", "pontuacao": 8 },
-    { "habilidade_ferramenta": "PHOTOSHOP", "pontuacao": 9 },
-    { "habilidade_ferramenta": "ILUSTRATOR", "pontuacao": 9 },
-    { "habilidade_ferramenta": "INDESIGN", "pontuacao": 9 }
+    { "habilidade_ferramenta": "PHOTOSHOP", "pontuacao": 8 },
+    { "habilidade_ferramenta": "PREMIERE", "pontuacao": 8 }
   ]
 }
