@@ -1,80 +1,83 @@
 {
-  "nome_completo": "Seu Nome Completo",
-  "o_que_eu_quero": "Descrição resumida sobre o que você deseja para sua carreira",
-  "cidade_estado:": "São Paulo/SP",
-  "link_linkedin": "https://www.linkedin.com/in/seulinkedin/",
-  "link_github": "https://github.com/seugithub",
-  "email": "seuemail@gmail.com",
+  "nome_completo": "Phabliny Martins Silva Bomfim",
+  "o_que_eu_quero": "Estou interessada na área de desenvolvimento web e atualmente estou fazendo o curso online de backend da Reprograma.",
+  "cidade_estado:": "Uberlândia/MG",
+  "link_linkedin": "www.linkedin.com/in/phabliny",
+  "link_github": "https://github.com/Phabliny/",
+  "email": "phablinymartins@gmail.com",
   "um_pouco_sobre_mim": [
-    "Aqui é um parágrafo descrevendo um pouco sobre você",
-    "Aqui é outro parágrafo falando sobre sua trajetória",
-    "Nesse aqui você pode dizer o que você curte fazer",
-    "Fique a vontade, mas busque ser objetiva"
+      "Sou bacharel em ciências biológias e mestra em Ecologia e Conservação de Recursos Naturais. Foi só 2018, no final do meu mestrado, que tive meu primeiro contato com a programação, e depois disso busco cada vez mais aprender sobre essa área.",
+      "Atualmente pretendo migrar para a área de programação web e creio que minha trajetória na biologia me fez adquirir diversas habilidades que vão me ajudar nessa mudança de carreira.",
+      "Eu adoro novos desafios e desta forma eu sempre busco aprender coisas novas."
   ],
   "no_que_ja_trabalhei": [
     {
-      "cargo_funcao": "Design Gráfica",
-      "empresa": "Empresa XPTO",
-      "periodo": "Jan/2017 a Dez/2018",
-      "atividades_desenvolvidas": "Diagramação, posts para as redes sociais, gerenciamento do site; atendimento e venda de ingresso para eventos.",
+      "cargo_funcao": null,
+      "empresa": null,
+      "periodo": null,
+      "atividades_desenvolvidas": null,
       "link": null
     },
-    {
-      "cargo_funcao": "Projeto Voluntário",
-      "empresa": "Reprograma - Cliente Fulano",
-      "periodo": "Jan/2017 a Dez/2018",
-      "atividades_desenvolvidas": "Diagramação, posts para as redes sociais, gerenciamento do site; atendimento e venda de ingresso para eventos.",
-      "link": "http://clientefulano.com.br"
+    { 
+      "cargo_funcao": null,
+      "empresa": null,
+      "periodo": null,
+      "atividades_desenvolvidas": null,
+      "link": null
     }
   ],
   "o_que_ja_estudei": [
     {
-      "curso": "Design Gráfico",
-      "instituicao": "Escola Tal",
-      "periodo": "Jan/2016 a Dez/2018",
-      "resumo_conhecimentos_aprendidos": "Criação, planejamento, edição de mídias e conteúdos"
+      "curso": "Ciências Biológicas",
+      "instituicao": "Universidade Federal de Uberlândia",
+      "periodo": "2013 a 2017",
+      "resumo_conhecimentos_aprendidos": null
     },
     {
-      "curso": "Curso de Web Design",
-      "instituicao": "Escola Tal",
-      "periodo": "Jan/2015 a Dez/2015",
-      "resumo_conhecimentos_aprendidos": "Criação, planejamento, edição de mídias e conteúdos"
+      "curso": "Mestrado em Ecologia e Conservação de Recusos Naturais",
+      "instituicao": "Universidade Federal de Uberlândia",
+      "periodo": "2018 a 2020",
+      "resumo_conhecimentos_aprendidos": null
+    },
+    {
+      "curso": "Doutorado em Ecologia e Conservação de Recusos Naturais",
+      "instituicao": "Universidade Federal de Uberlândia",
+      "periodo": "2020 a - ",
+      "resumo_conhecimentos_aprendidos": null
     }
   ],
   "meus_outros_aprendizados_e_interesses": [
     {
-      "interesse_evento_curso": "Curso online de Javascript",
-      "instituicao": "Udemy",
-      "resumo_conhecimentos_interesses": "Entendimento sobre a sintaxe básica do javascript"
+      "interesse_evento_curso": "Especialidade Escoteira - Programação",
+      "instituicao": "União dos Escoteiro do Brasil (UEB)",
+      "resumo_conhecimentos_interesses": "Minicurso de 2 horas ministrado por mim, com o objetivo de auxiliar os seniors (escoteiros jovens com idades entre 15 e 18 anos) a obterem uma insignia de nível amarelo na especialidade de programação. A linguagem utilizada durante o minicurso foi o Python. Conteúdo: conceitos gerais de programação e conceitos básicos de Python, incluindo estruturas condicionais e laços de repetição."
     },
     {
-      "interesse_evento_curso": "Curso ES6",
+      "interesse_evento_curso": "Curso Online Eu ProgrAmo",
+      "instituicao": "PrograMaria",
+      "resumo_conhecimentos_interesses": "Conceitos Básicos de JavaScript, Conceitos Básicos de CSS, Conceito básicos de HTML e Dicas de Carreira em Tecnologia"
+    },
+    {
+      "interesse_evento_curso": "Introdução ao Python",
       "instituicao": "Udemy",
-      "resumo_conhecimentos_interesses": "Entendimento sobre a sintaxe moderna do javascript"
+      "resumo_conhecimentos_interesses": "Conceitos básicos de Python"
+    },
+    {
+      "interesse_evento_curso": "Introdução ao banco de dados MySQL",
+      "instituicao": "Udemy",
+      "resumo_conhecimentos_interesses": "Conceitos básicos do banco de dados MySQL"
     }
   ],
   "no_que_me_destaco": [
-    { "habilidade_ferramenta": "HTML", "pontuacao": 9 },
-    { "habilidade_ferramenta": "CSS", "pontuacao": 9 },
-    { "habilidade_ferramenta": "SASS", "pontuacao": 6 },
-    { "habilidade_ferramenta": "JAVASCRIPT", "pontuacao": 8 },
-    { "habilidade_ferramenta": "JQUERY", "pontuacao": 6 },
-    { "habilidade_ferramenta": "NODE", "pontuacao": 1 },
-    { "habilidade_ferramenta": "GIT/GITHUB", "pontuacao": 8 },
-    { "habilidade_ferramenta": "BOOTSTRAP", "pontuacao": 9 },
-    { "habilidade_ferramenta": "REACT", "pontuacao": 8 },
-    { "habilidade_ferramenta": "METODOLOGIAS ÁGEIS", "pontuacao": 5 },
-    { "habilidade_ferramenta": "RESPONSIVIDADE", "pontuacao": 9 },
-    { "habilidade_ferramenta": "UX DESIGN", "pontuacao": 6 },
-    { "habilidade_ferramenta": "TECNOLOGIA ASSISTIVAS", "pontuacao": 6 },
-    { "habilidade_ferramenta": "WORDPRESS", "pontuacao": 9 },
-    { "habilidade_ferramenta": "PHP", "pontuacao": 3 },
+    { "habilidade_ferramenta": "JAVASCRIPT", "pontuacao": 9 },
+    { "habilidade_ferramenta": "NODE.JS", "pontuacao": 9 },
+    { "habilidade_ferramenta": "GIT/GITHUB", "pontuacao": 9 },
+    { "habilidade_ferramenta": "POSTMAN", "pontuacao": 10 },
+    { "habilidade_ferramenta": "MONGODB", "pontuacao": 9 },
     { "habilidade_ferramenta": "MySQL", "pontuacao": 3 },
-    { "habilidade_ferramenta": "HOSPEDAGEM DE SITE", "pontuacao": 8 },
-    { "habilidade_ferramenta": "FTP", "pontuacao": 5 },
-    { "habilidade_ferramenta": "CONFIGURAÇÃO DE DOMÍNIO", "pontuacao": 8 },
-    { "habilidade_ferramenta": "PHOTOSHOP", "pontuacao": 9 },
-    { "habilidade_ferramenta": "ILUSTRATOR", "pontuacao": 9 },
-    { "habilidade_ferramenta": "INDESIGN", "pontuacao": 9 }
+    { "habilidade_ferramenta": "ARQUITETURA MVC", "pontuacao": 8 },
+    { "habilidade_ferramenta": "API REST", "pontuacao": 8 },
+    { "habilidade_ferramenta": "HTML5", "pontuacao": 5 },
+    { "habilidade_ferramenta": "CSS3", "pontuacao": 3 }
   ]
 }
