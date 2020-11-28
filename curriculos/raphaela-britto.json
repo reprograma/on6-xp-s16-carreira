@@ -1,80 +1,72 @@
 {
-  "nome_completo": "Seu Nome Completo",
-  "o_que_eu_quero": "Descrição resumida sobre o que você deseja para sua carreira",
+  "nome_completo": "Raphaela Cristina Oliveira Britto",
+  "o_que_eu_quero": "Ser Desenvolvedora",
   "cidade_estado:": "São Paulo/SP",
-  "link_linkedin": "https://www.linkedin.com/in/seulinkedin/",
-  "link_github": "https://github.com/seugithub",
-  "email": "seuemail@gmail.com",
+  "link_linkedin": "https://www.linkedin.com/in/raphaela-britto-267bb8105/",
+  "link_github": "https://github.com/RaphaelaCristina",
+  "email": "raphitasp@msn.com",
   "um_pouco_sobre_mim": [
-    "Aqui é um parágrafo descrevendo um pouco sobre você",
-    "Aqui é outro parágrafo falando sobre sua trajetória",
-    "Nesse aqui você pode dizer o que você curte fazer",
-    "Fique a vontade, mas busque ser objetiva"
+    "Sou Raphaela Cristina, tenho 23 anos e moro na Zona Leste de São Paulo.",
+    "Atualmente sou estudante de Análise e Desenvolvimento de Sistemas pela Fatec Zona Leste e estagiária DBA SQL Server no Itaú Unibanco."
+    
+    
   ],
   "no_que_ja_trabalhei": [
     {
-      "cargo_funcao": "Design Gráfica",
-      "empresa": "Empresa XPTO",
-      "periodo": "Jan/2017 a Dez/2018",
-      "atividades_desenvolvidas": "Diagramação, posts para as redes sociais, gerenciamento do site; atendimento e venda de ingresso para eventos.",
+      "cargo_funcao": "Estagiária DBA SQL Server",
+      "empresa": "Itaú Unibanco",
+      "periodo": "Março/2020 - até o momento",
+      "atividades_desenvolvidas": "Auxiliar e eliminar incidentes; Auxiliar no desenvolvimento de sistemas com foco em infraestrutura; Elaborar documentos técnicos; Desenvolver relatórios gerenciais; Realizar consultas; Elaborar planilhas de controle; etc.",
       "link": null
     },
     {
-      "cargo_funcao": "Projeto Voluntário",
-      "empresa": "Reprograma - Cliente Fulano",
-      "periodo": "Jan/2017 a Dez/2018",
-      "atividades_desenvolvidas": "Diagramação, posts para as redes sociais, gerenciamento do site; atendimento e venda de ingresso para eventos.",
+      "cargo_funcao": "Jovem Aprendiz Administrativo",
+      "empresa": "Técnica Esquadrias LTDA",
+      "periodo": "Agosto/2017 a Dezembro/2017",
+      "atividades_desenvolvidas": "Realização de tarefas administrativas diversas envolvendo elaboração e controle de arquivos, plainilhas, relatórios, etc. Bem como auxiliar no atendimento ao cliente/fornecedor.",
       "link": "http://clientefulano.com.br"
     }
   ],
   "o_que_ja_estudei": [
     {
-      "curso": "Design Gráfico",
-      "instituicao": "Escola Tal",
-      "periodo": "Jan/2016 a Dez/2018",
-      "resumo_conhecimentos_aprendidos": "Criação, planejamento, edição de mídias e conteúdos"
+      "curso": "Análise e Desenvolvimento de Sistemas",
+      "instituicao": "Fatec Zona Leste",
+      "periodo": "Agosto/2019 - Dezembro/2022"
+      
     },
     {
-      "curso": "Curso de Web Design",
-      "instituicao": "Escola Tal",
-      "periodo": "Jan/2015 a Dez/2015",
-      "resumo_conhecimentos_aprendidos": "Criação, planejamento, edição de mídias e conteúdos"
+      "curso": "Gestão Comercial",
+      "instituicao": "Universidade Cidade de São Paulo",
+      "periodo": "Conclusão Dezembro/2016"
     }
   ],
   "meus_outros_aprendizados_e_interesses": [
     {
-      "interesse_evento_curso": "Curso online de Javascript",
-      "instituicao": "Udemy",
-      "resumo_conhecimentos_interesses": "Entendimento sobre a sintaxe básica do javascript"
+      "interesse_evento_curso": "Curso de SQL com SQL Server",
+      "instituicao": "Bóson Treinamentos",
+      "resumo_conhecimentos_interesses": "Entendimento sobre a sintaxe básica T-SQL"
     },
     {
-      "interesse_evento_curso": "Curso ES6",
-      "instituicao": "Udemy",
-      "resumo_conhecimentos_interesses": "Entendimento sobre a sintaxe moderna do javascript"
+      "interesse_evento_curso": "Certificações AWS",
+      "instituicao": "AWS"
+    },
+    {
+      "interesse_evento_curso": "Trilha de Modernização - Itaú Unibanco",
+      "instituicao": "Alura"
     }
   ],
   "no_que_me_destaco": [
-    { "habilidade_ferramenta": "HTML", "pontuacao": 9 },
-    { "habilidade_ferramenta": "CSS", "pontuacao": 9 },
-    { "habilidade_ferramenta": "SASS", "pontuacao": 6 },
-    { "habilidade_ferramenta": "JAVASCRIPT", "pontuacao": 8 },
-    { "habilidade_ferramenta": "JQUERY", "pontuacao": 6 },
-    { "habilidade_ferramenta": "NODE", "pontuacao": 1 },
-    { "habilidade_ferramenta": "GIT/GITHUB", "pontuacao": 8 },
-    { "habilidade_ferramenta": "BOOTSTRAP", "pontuacao": 9 },
-    { "habilidade_ferramenta": "REACT", "pontuacao": 8 },
-    { "habilidade_ferramenta": "METODOLOGIAS ÁGEIS", "pontuacao": 5 },
-    { "habilidade_ferramenta": "RESPONSIVIDADE", "pontuacao": 9 },
-    { "habilidade_ferramenta": "UX DESIGN", "pontuacao": 6 },
-    { "habilidade_ferramenta": "TECNOLOGIA ASSISTIVAS", "pontuacao": 6 },
-    { "habilidade_ferramenta": "WORDPRESS", "pontuacao": 9 },
-    { "habilidade_ferramenta": "PHP", "pontuacao": 3 },
-    { "habilidade_ferramenta": "MySQL", "pontuacao": 3 },
-    { "habilidade_ferramenta": "HOSPEDAGEM DE SITE", "pontuacao": 8 },
-    { "habilidade_ferramenta": "FTP", "pontuacao": 5 },
-    { "habilidade_ferramenta": "CONFIGURAÇÃO DE DOMÍNIO", "pontuacao": 8 },
-    { "habilidade_ferramenta": "PHOTOSHOP", "pontuacao": 9 },
-    { "habilidade_ferramenta": "ILUSTRATOR", "pontuacao": 9 },
-    { "habilidade_ferramenta": "INDESIGN", "pontuacao": 9 }
+    { "habilidade_ferramenta": "HTML", "pontuacao": 4},
+    { "habilidade_ferramenta": "CSS", "pontuacao": 4 },
+    { "habilidade_ferramenta": "T-SQL", "pontuacao": 7 },
+    { "habilidade_ferramenta": "SQL Server", "pontuacao": 7 },
+    { "habilidade_ferramenta": "MongoDB", "pontuacao": 6 },
+    { "habilidade_ferramenta": "API", "pontuacao": 7 },
+    { "habilidade_ferramenta": "JAVASCRIPT", "pontuacao": 6 },
+    { "habilidade_ferramenta": "JAVA", "pontuacao": 6 },
+    { "habilidade_ferramenta": "NODE", "pontuacao": 6 },
+    { "habilidade_ferramenta": "GIT/GITHUB", "pontuacao": 6 },
+    { "habilidade_ferramenta": "METODOLOGIAS ÁGEIS/SCRUM", "pontuacao": 6 }
+   
   ]
 }
