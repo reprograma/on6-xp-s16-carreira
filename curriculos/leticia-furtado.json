@@ -120,10 +120,10 @@
     { "habilidade_ferramenta": "NODE", "pontuacao": 8 },
     { "habilidade_ferramenta": "GIT/GITHUB", "pontuacao": 8 },
     { "habilidade_ferramenta": "BOOTSTRAP", "pontuacao": 7 },
-    { "habilidade_ferramenta": "REACT", "pontuacao": 5 },
+    { "habilidade_ferramenta": "REACT", "pontuacao": 6 },
     { "habilidade_ferramenta": "METODOLOGIAS ÁGEIS", "pontuacao": 7 },
-    { "habilidade_ferramenta": "RESPONSIVIDADE", "pontuacao": 5 },
-    { "habilidade_ferramenta": "MySQL", "pontuacao": 6 },
+    { "habilidade_ferramenta": "RESPONSIVIDADE", "pontuacao": 6 },
+    { "habilidade_ferramenta": "MySQL", "pontuacao": 7 },
     { "habilidade_ferramenta": "HOSPEDAGEM DE SITE", "pontuacao": 8 },
     { "habilidade_ferramenta": "PHOTOSHOP", "pontuacao": 8 },
     { "habilidade_ferramenta": "PREMIERE", "pontuacao": 8 }
