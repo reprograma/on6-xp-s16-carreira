@@ -1,80 +1,67 @@
 {
-  "nome_completo": "Seu Nome Completo",
-  "o_que_eu_quero": "Descrição resumida sobre o que você deseja para sua carreira",
-  "cidade_estado:": "São Paulo/SP",
-  "link_linkedin": "https://www.linkedin.com/in/seulinkedin/",
-  "link_github": "https://github.com/seugithub",
-  "email": "seuemail@gmail.com",
+  "nome_completo": "Luana Letícia de Souza Silva",
+  "o_que_eu_quero": "Ser Desenvolvedora Backend",
+  "cidade_estado:": "Cabo de Santo Agostinho/PE",
+  "link_linkedin": "https://www.linkedin.com/in/luanaleticiasilva/",
+  "link_github": "https://github.com/Luana-Leticia",
+  "email": "luanaleticiasouza@hotmail.com",
   "um_pouco_sobre_mim": [
-    "Aqui é um parágrafo descrevendo um pouco sobre você",
-    "Aqui é outro parágrafo falando sobre sua trajetória",
-    "Nesse aqui você pode dizer o que você curte fazer",
-    "Fique a vontade, mas busque ser objetiva"
+    "Sou uma graduanda em busca de inserção no mercado de TI, que ama ciência e tecnologia e pretende dedicar sua vida a isso.",
+    "Conheci o mundo da programação na faculdade com redes neurais e processamento digital de imagens, e a partir disso busquei meios para poder agir profissionalmente com isso, foi então que conheci projetos colaborativos como o Women Who Code e Reprograma.",
+    "Amo me atualizar em conhecimentos na área de tecnologia."
   ],
   "no_que_ja_trabalhei": [
     {
-      "cargo_funcao": "Design Gráfica",
-      "empresa": "Empresa XPTO",
+      "cargo_funcao": "Monitoria de desenho técnico",
+      "empresa": "Instituto Federal de Pernambuco",
       "periodo": "Jan/2017 a Dez/2018",
-      "atividades_desenvolvidas": "Diagramação, posts para as redes sociais, gerenciamento do site; atendimento e venda de ingresso para eventos.",
+      "atividades_desenvolvidas": "Potencialização no aprendizado de pessoas.",
       "link": null
-    },
-    {
-      "cargo_funcao": "Projeto Voluntário",
-      "empresa": "Reprograma - Cliente Fulano",
-      "periodo": "Jan/2017 a Dez/2018",
-      "atividades_desenvolvidas": "Diagramação, posts para as redes sociais, gerenciamento do site; atendimento e venda de ingresso para eventos.",
-      "link": "http://clientefulano.com.br"
     }
   ],
   "o_que_ja_estudei": [
     {
-      "curso": "Design Gráfico",
-      "instituicao": "Escola Tal",
-      "periodo": "Jan/2016 a Dez/2018",
-      "resumo_conhecimentos_aprendidos": "Criação, planejamento, edição de mídias e conteúdos"
+      "curso": "Curso de Desenvolvimento Backend",
+      "instituicao": "Reprograma",
+      "periodo": "Ago/2020 a Dez/2020",
+      "resumo_conhecimentos_aprendidos": "Lógica de programação com Javascript, NodeJS, MongoDB e Autenticação com JWT"
     },
     {
-      "curso": "Curso de Web Design",
-      "instituicao": "Escola Tal",
-      "periodo": "Jan/2015 a Dez/2015",
-      "resumo_conhecimentos_aprendidos": "Criação, planejamento, edição de mídias e conteúdos"
+      "curso": "Curso de Desenvolvimento Frontend",
+      "instituicao": "Women Who Code",
+      "periodo": "Jun/2019 a Ago/2019",
+      "resumo_conhecimentos_aprendidos": "HTML, CSS, Javascript e Introdução ao React"
+    },
+    {
+      "curso": "Engenharia Biomédica",
+      "instituicao": "Universidade Federal de Pernambuco",
+      "periodo": "Jan/2017 - em andamento",
+      "resumo_conhecimentos_aprendidos": "Desenvolver habilidades para trabalhar com tecnologia aplicada em saúde."
     }
   ],
   "meus_outros_aprendizados_e_interesses": [
     {
-      "interesse_evento_curso": "Curso online de Javascript",
-      "instituicao": "Udemy",
-      "resumo_conhecimentos_interesses": "Entendimento sobre a sintaxe básica do javascript"
-    },
-    {
-      "interesse_evento_curso": "Curso ES6",
-      "instituicao": "Udemy",
-      "resumo_conhecimentos_interesses": "Entendimento sobre a sintaxe moderna do javascript"
+      "interesse_evento_curso": "Curso online de Python",
+      "instituicao": "DataCamp",
+      "resumo_conhecimentos_interesses": "Entendimento sobre a sintaxe básica do Python"
     }
   ],
   "no_que_me_destaco": [
-    { "habilidade_ferramenta": "HTML", "pontuacao": 9 },
-    { "habilidade_ferramenta": "CSS", "pontuacao": 9 },
-    { "habilidade_ferramenta": "SASS", "pontuacao": 6 },
+    { "habilidade_ferramenta": "NODE", "pontuacao": 7 },
     { "habilidade_ferramenta": "JAVASCRIPT", "pontuacao": 8 },
-    { "habilidade_ferramenta": "JQUERY", "pontuacao": 6 },
-    { "habilidade_ferramenta": "NODE", "pontuacao": 1 },
     { "habilidade_ferramenta": "GIT/GITHUB", "pontuacao": 8 },
-    { "habilidade_ferramenta": "BOOTSTRAP", "pontuacao": 9 },
-    { "habilidade_ferramenta": "REACT", "pontuacao": 8 },
-    { "habilidade_ferramenta": "METODOLOGIAS ÁGEIS", "pontuacao": 5 },
-    { "habilidade_ferramenta": "RESPONSIVIDADE", "pontuacao": 9 },
-    { "habilidade_ferramenta": "UX DESIGN", "pontuacao": 6 },
-    { "habilidade_ferramenta": "TECNOLOGIA ASSISTIVAS", "pontuacao": 6 },
-    { "habilidade_ferramenta": "WORDPRESS", "pontuacao": 9 },
-    { "habilidade_ferramenta": "PHP", "pontuacao": 3 },
-    { "habilidade_ferramenta": "MySQL", "pontuacao": 3 },
-    { "habilidade_ferramenta": "HOSPEDAGEM DE SITE", "pontuacao": 8 },
-    { "habilidade_ferramenta": "FTP", "pontuacao": 5 },
-    { "habilidade_ferramenta": "CONFIGURAÇÃO DE DOMÍNIO", "pontuacao": 8 },
-    { "habilidade_ferramenta": "PHOTOSHOP", "pontuacao": 9 },
-    { "habilidade_ferramenta": "ILUSTRATOR", "pontuacao": 9 },
-    { "habilidade_ferramenta": "INDESIGN", "pontuacao": 9 }
+    { "habilidade_ferramenta": "POSTMAN", "pontuacao": 8 },
+    { "habilidade_ferramenta": "MONGODB", "pontuacao": 8 },
+    { "habilidade_ferramenta": "MVC", "pontuacao": 9 },
+    { "habilidade_ferramenta": "NPM", "pontuacao": 9 },
+    { "habilidade_ferramenta": "INGLÊS", "pontuacao": 7 },
+    { "habilidade_ferramenta": "API REST", "pontuacao": 8 },
+    { "habilidade_ferramenta": "AUTENTICACAO", "pontuacao": 6 },
+    { "habilidade_ferramenta": "HTML5", "pontuacao": 8 },
+    { "habilidade_ferramenta": "CSS3", "pontuacao": 7 },
+    { "habilidade_ferramenta": "BOOTSTRAP", "pontuacao": 2 },
+    { "habilidade_ferramenta": "REACT", "pontuacao": 2 },
+    { "habilidade_ferramenta": "RESPONSIVIDADE", "pontuacao": 4 },
+    { "habilidade_ferramenta": "UX DESIGN", "pontuacao": 3 }
   ]
 }
