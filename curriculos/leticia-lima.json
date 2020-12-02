@@ -61,13 +61,7 @@
     { "habilidade_ferramenta": "NPM", "pontuacao": 8 },
     { "habilidade_ferramenta": "MVC", "pontuacao": 9 },
     { "habilidade_ferramenta": "VBA", "pontuacao": 6 },
-    { "habilidade_ferramenta": "PHP", "pontuacao": 0 },
     { "habilidade_ferramenta": "MySQL", "pontuacao": 2 },
-    { "habilidade_ferramenta": "HOSPEDAGEM DE SITE", "pontuacao": 0 },
-    { "habilidade_ferramenta": "FTP", "pontuacao": 0 },
-    { "habilidade_ferramenta": "CONFIGURAÇÃO DE DOMÍNIO", "pontuacao": 0 },
-    { "habilidade_ferramenta": "PHOTOSHOP", "pontuacao": 0 },
-    { "habilidade_ferramenta": "ILUSTRATOR", "pontuacao": 0 },
-    { "habilidade_ferramenta": "INDESIGN", "pontuacao": 0 }
+    { "habilidade_ferramenta": "REST", "pontuacao": 7 }
   ]
 }
