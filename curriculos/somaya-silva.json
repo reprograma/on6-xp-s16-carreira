@@ -1,80 +1,97 @@
 {
-  "nome_completo": "Seu Nome Completo",
-  "o_que_eu_quero": "Descrição resumida sobre o que você deseja para sua carreira",
-  "cidade_estado:": "São Paulo/SP",
-  "link_linkedin": "https://www.linkedin.com/in/seulinkedin/",
-  "link_github": "https://github.com/seugithub",
-  "email": "seuemail@gmail.com",
+  "nome_completo": "Deise Somaya Gomes da Silva",
+  "o_que_eu_quero": "Trabalhar com desenvolvimento Web no Front-End ou/e no Back-end",
+  "cidade_estado:": "Maceio/AL",
+  "link_linkedin": "https://www.linkedin.com/in/deisemaya/",
+  "link_github": "https://github.com/somayamaya",
+  "email": "somayagomes@gmail.com",
   "um_pouco_sobre_mim": [
-    "Aqui é um parágrafo descrevendo um pouco sobre você",
-    "Aqui é outro parágrafo falando sobre sua trajetória",
-    "Nesse aqui você pode dizer o que você curte fazer",
-    "Fique a vontade, mas busque ser objetiva"
+    "Bacharel em Química Industrial",
+     "Apaixanada por resolver problemas utilizando o pensamento analitico, e sempre movida pela cuiosidade. ",
+    " Minha trajetoria no mundo da programação iniciou durante meu projeto de conclusão de curso, quando para realizar cálculos químicos precisei utilizar varios softwares livres, a curiosidade pra entender o que estava acontecendo me fez querer aprender  programação, iniciei estudando Python, mas com o Reprograma veio a oportunidade de aprender JavaScript. ",
+    "Nas minhas horas vagas eu costumo ler, ir a praia  e fazer experimentos na cozinha "
+    
   ],
   "no_que_ja_trabalhei": [
+    
     {
-      "cargo_funcao": "Design Gráfica",
-      "empresa": "Empresa XPTO",
-      "periodo": "Jan/2017 a Dez/2018",
-      "atividades_desenvolvidas": "Diagramação, posts para as redes sociais, gerenciamento do site; atendimento e venda de ingresso para eventos.",
-      "link": null
-    },
-    {
-      "cargo_funcao": "Projeto Voluntário",
-      "empresa": "Reprograma - Cliente Fulano",
-      "periodo": "Jan/2017 a Dez/2018",
-      "atividades_desenvolvidas": "Diagramação, posts para as redes sociais, gerenciamento do site; atendimento e venda de ingresso para eventos.",
-      "link": "http://clientefulano.com.br"
+      "cargo_funcao": "Tecnica em Agropecuaria",
+      "empresa": "ZUMBI",
+      "periodo": "Julho/2011 a Dez/2012",
+      "atividades_desenvolvidas": "Assintencia tecnica para agricultura familiar, elaboração de projetos para obtenção de recursos junto ao Banco do Nordeste, e elaboraçao de projeto para obtenção de recursos em chamadas públicas.",
+      "link": "MST ALAGOAS"
     }
   ],
   "o_que_ja_estudei": [
     {
-      "curso": "Design Gráfico",
-      "instituicao": "Escola Tal",
-      "periodo": "Jan/2016 a Dez/2018",
-      "resumo_conhecimentos_aprendidos": "Criação, planejamento, edição de mídias e conteúdos"
+      "curso": "Back-End com Node.js ",
+      "instituicao": "Reprograma",
+      "periodo": "Agosto/2020 a Dez/2020",
+      "resumo_conhecimentos_aprendidos": "Lógica aplicada com JavaScript, Node.js,introdução e construção de APIS e Banco de Dados não relacional"
     },
     {
-      "curso": "Curso de Web Design",
-      "instituicao": "Escola Tal",
-      "periodo": "Jan/2015 a Dez/2015",
-      "resumo_conhecimentos_aprendidos": "Criação, planejamento, edição de mídias e conteúdos"
+      "curso": "Desenvolvimento Web com Javascript e Node.js ",
+      "instituicao": "Digital House",
+      "periodo": "Set/2020 a Fev/2021",
+      "resumo_conhecimentos_aprendidos": " Desenvolvimento Web com HTML, CSS, JavaScript, Banco de dados relacionais e Frameworks como: Sequelize, Express e React"
+    },
+    {
+      "curso": "Quimica Tecnologica e Industrial",
+      "instituicao": "Universidade Federal de Alagoas",
+      "periodo": "Jan/2014 a junho/2020",
+      "resumo_conhecimentos_aprendidos": ""
+    },
+    {
+      "curso": "Técnico em Agropecuaria ",
+      "instituicao": "Instituto Federal de Alagoas",
+      "periodo": "Marco/2002 a Dez/2004",
+      "resumo_conhecimentos_aprendidos": "implantar sistemas de produção agropecuária e agroextrativista e técnicas de sistemas orgânicos de produção. Realiza procedimentos de conservação do solo e da água. Organiza ações integradas de agricultura familiar."
     }
   ],
   "meus_outros_aprendizados_e_interesses": [
     {
-      "interesse_evento_curso": "Curso online de Javascript",
-      "instituicao": "Udemy",
-      "resumo_conhecimentos_interesses": "Entendimento sobre a sintaxe básica do javascript"
+      "interesse_evento_curso": "Curso online Lógica de Programação",
+      "instituicao": "Universidade Virtual do Estado de São Paulo. ",
+      
     },
     {
-      "interesse_evento_curso": "Curso ES6",
+      "interesse_evento_curso": "Curso online JavaScript Ninja",
       "instituicao": "Udemy",
-      "resumo_conhecimentos_interesses": "Entendimento sobre a sintaxe moderna do javascript"
+      "resumo_conhecimentos_interesses": "Sintaxe da linguagem Javascript e aprendizagem de como  deixar sites e aplicações web mais dinâmicas e interativas"
+    },
+    {
+      "interesse_evento_curso": "Curso de Alemão ",
+      "instituicao": "Volkshochschule in Heidelberg ",
+      "resumo_conhecimentos_interesses": "Conhecimentos na lingua alemã"
+
+      
+    },
+   
+    {
+      "interesse_evento_curso": "Google Cloud Foundations",
+      "instituicao": "Universidade Federal de Alagoas/ Google",
+      "resumo_conhecimentos_interesses": "Entendimento sobre os fundamentos do Google Cloud "
     }
   ],
   "no_que_me_destaco": [
-    { "habilidade_ferramenta": "HTML", "pontuacao": 9 },
-    { "habilidade_ferramenta": "CSS", "pontuacao": 9 },
-    { "habilidade_ferramenta": "SASS", "pontuacao": 6 },
+    { "habilidade_ferramenta": "HTML", "pontuacao": 8 },
+    { "habilidade_ferramenta": "CSS", "pontuacao": 7},
+    { "habilidade_ferramenta": "SASS", "pontuacao": 4 },
     { "habilidade_ferramenta": "JAVASCRIPT", "pontuacao": 8 },
     { "habilidade_ferramenta": "JQUERY", "pontuacao": 6 },
-    { "habilidade_ferramenta": "NODE", "pontuacao": 1 },
+    { "habilidade_ferramenta": "NODE", "pontuacao": 7},
     { "habilidade_ferramenta": "GIT/GITHUB", "pontuacao": 8 },
-    { "habilidade_ferramenta": "BOOTSTRAP", "pontuacao": 9 },
-    { "habilidade_ferramenta": "REACT", "pontuacao": 8 },
+    { "habilidade_ferramenta": "BOOTSTRAP", "pontuacao": 7 },
+    { "habilidade_ferramenta": "REACT", "pontuacao": 3 },
     { "habilidade_ferramenta": "METODOLOGIAS ÁGEIS", "pontuacao": 5 },
-    { "habilidade_ferramenta": "RESPONSIVIDADE", "pontuacao": 9 },
-    { "habilidade_ferramenta": "UX DESIGN", "pontuacao": 6 },
-    { "habilidade_ferramenta": "TECNOLOGIA ASSISTIVAS", "pontuacao": 6 },
-    { "habilidade_ferramenta": "WORDPRESS", "pontuacao": 9 },
-    { "habilidade_ferramenta": "PHP", "pontuacao": 3 },
-    { "habilidade_ferramenta": "MySQL", "pontuacao": 3 },
-    { "habilidade_ferramenta": "HOSPEDAGEM DE SITE", "pontuacao": 8 },
-    { "habilidade_ferramenta": "FTP", "pontuacao": 5 },
-    { "habilidade_ferramenta": "CONFIGURAÇÃO DE DOMÍNIO", "pontuacao": 8 },
-    { "habilidade_ferramenta": "PHOTOSHOP", "pontuacao": 9 },
-    { "habilidade_ferramenta": "ILUSTRATOR", "pontuacao": 9 },
-    { "habilidade_ferramenta": "INDESIGN", "pontuacao": 9 }
+    { "habilidade_ferramenta": "RESPONSIVIDADE", "pontuacao": 7 },
+    { "habilidade_ferramenta": "UX DESIGN", "pontuacao": 5 },
+    { "habilidade_ferramenta": "Python", "pontuacao": 5 },
+    { "habilidade_ferramenta": "MySQL", "pontuacao": 6 },
+    { "habilidade_ferramenta": "MongoDB", "pontuacao": 6 },
+    
+    
+    
+   
   ]
 }
