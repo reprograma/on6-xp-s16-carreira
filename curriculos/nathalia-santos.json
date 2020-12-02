@@ -65,9 +65,19 @@
       "resumo_conhecimentos_interesses": "Primeiros passos com a linguagem, Programando na linguagem web e Programando a Orientação a Objetos."
     },
     {
+      "interesse_evento_curso": "Git e Github - 6 horas.",
+      "instituicao": "Alura",
+      "resumo_conhecimentos_interesses": "Builds e Controle de versão."
+    },
+    {
       "interesse_evento_curso": "HTML5 e CSS3 - 32 horas",
       "instituicao": "Alura",
       "resumo_conhecimentos_interesses": "Posicionamento, listas, navegação, formulários e tabelas."
+    },
+    {
+      "interesse_evento_curso": "Lógica de programação com Javascript - 26 horas",
+      "instituicao": "Alura",
+      "resumo_conhecimentos_interesses": "Prática com Javascript, HTML, animações e jogo."
     },
     {
       "interesse_evento_curso": "Fundamentos da programação - 12 horas",
@@ -95,7 +105,7 @@
     { "habilidade_ferramenta": "NPM", "pontuacao": 8 },
     { "habilidade_ferramenta": "INGLÊS", "pontuacao": 8 },
     { "habilidade_ferramenta": "API REST", "pontuacao": 8 },
-    { "habilidade_ferramenta": "JWT", "pontuacao": 7 },
+    { "habilidade_ferramenta": "AUTENTICACAO", "pontuacao": 7 },
     { "habilidade_ferramenta": "HTML5", "pontuacao": 7 },
     { "habilidade_ferramenta": "PHOTOSHOP", "pontuacao": 6 },
     { "habilidade_ferramenta": "CSS3", "pontuacao": 4 }
