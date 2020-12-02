@@ -1,80 +1,97 @@
 {
-  "nome_completo": "Seu Nome Completo",
-  "o_que_eu_quero": "Descrição resumida sobre o que você deseja para sua carreira",
+  "nome_completo": "Laís Maaséias Lopes",
+  "o_que_eu_quero": "Estágio: Engenharia de Dados / Desenvolvimento de software.",
   "cidade_estado:": "São Paulo/SP",
-  "link_linkedin": "https://www.linkedin.com/in/seulinkedin/",
-  "link_github": "https://github.com/seugithub",
-  "email": "seuemail@gmail.com",
+  "link_linkedin": "https://www.linkedin.com/in/laismaas/",
+  "link_github": "https://github.com/LaisMaas",
+  "email": "lais.maasl@gmail.com",
   "um_pouco_sobre_mim": [
-    "Aqui é um parágrafo descrevendo um pouco sobre você",
-    "Aqui é outro parágrafo falando sobre sua trajetória",
-    "Nesse aqui você pode dizer o que você curte fazer",
-    "Fique a vontade, mas busque ser objetiva"
+    "Assim sou eu, aprendiz por natureza. Pensar soluções frente aos desafios é algo que me faz brilhar os olhos.  Gosto muito de participar de bootcamps e hackatons, a fim de trocar experiências  de aprendizagem e, refletir sobre potenciais soluções, voltadas ao mercado.",
+    "Já desenvolvi pequenos projetos em Node.js e C#, criando API’s com Entity Framework, SQL Server e MongoDB, bem como, já tive a oportunidade de desevolver projetos e aplicações front-end em React e, mobile com React Native.",
+    "No momento, estou focada em experienciar conhecimentos na área de dados e refinar os conhecimentos adquiridos em back-end."
+    
   ],
   "no_que_ja_trabalhei": [
     {
-      "cargo_funcao": "Design Gráfica",
-      "empresa": "Empresa XPTO",
-      "periodo": "Jan/2017 a Dez/2018",
-      "atividades_desenvolvidas": "Diagramação, posts para as redes sociais, gerenciamento do site; atendimento e venda de ingresso para eventos.",
+      "cargo_funcao": "Projeto Voluntário",
+      "empresa": "WoMakersCode",
+      "periodo": "Fev/2019 a Dez/2020",
+      "atividades_desenvolvidas": "Produção de conteúdo.",
+      "link": "https://womakerscode.org/"
+    },
+    {
+      "cargo_funcao": "Analista Técnico de Sinistro",
+      "empresa": "Liberty Seguros",
+      "periodo": "Ago/2014 a Jan/2019",
+      "atividades_desenvolvidas": "Atendimento e pré análises de sinistros automotivos e carga nos modais: aéreo, marítimo e terrestre; Tratativas de exceções e vistoria prévia de veículos.",
+      "link": "https://www.libertyseguros.com.br/"
+    },
+    {
+      "cargo_funcao": "Consultora Comercial",
+      "empresa": "Original Brasil Tecnologia e Serviços de Informática ",
+      "periodo": "Fev/2007 a Dez/2007",
+      "atividades_desenvolvidas": "Consultoria em terceirização de serviços de tecnologia em impressão (GED-Notas fiscais eletrônicas ); Vendas de Hardware.",
       "link": null
     },
     {
-      "cargo_funcao": "Projeto Voluntário",
-      "empresa": "Reprograma - Cliente Fulano",
-      "periodo": "Jan/2017 a Dez/2018",
-      "atividades_desenvolvidas": "Diagramação, posts para as redes sociais, gerenciamento do site; atendimento e venda de ingresso para eventos.",
-      "link": "http://clientefulano.com.br"
+      "cargo_funcao": "Supervisora de Processos",
+      "empresa": "Vivo Empresas Telecomunicações",
+      "periodo": "Ago/2001 a Dez/2005",
+      "atividades_desenvolvidas": "Gestão de serviços corporativos em telefonia móvel; Treinamento e desenvolvimento de pessoas; Gestão de processos.",
+      "link": "https://www.vivo.com.br/"
     }
   ],
   "o_que_ja_estudei": [
     {
-      "curso": "Design Gráfico",
-      "instituicao": "Escola Tal",
-      "periodo": "Jan/2016 a Dez/2018",
-      "resumo_conhecimentos_aprendidos": "Criação, planejamento, edição de mídias e conteúdos"
+      "curso": "Gestão e Desenvolvimento Humano",
+      "instituicao": "Universidade Claretiano",
+      "periodo": "Jan/2010 a Jul/2013",
+      "resumo_conhecimentos_aprendidos": "Desenvolvimento humano; Gestão de pessoas; Treinamento."
     },
     {
-      "curso": "Curso de Web Design",
-      "instituicao": "Escola Tal",
-      "periodo": "Jan/2015 a Dez/2015",
-      "resumo_conhecimentos_aprendidos": "Criação, planejamento, edição de mídias e conteúdos"
+      "curso": "Engenharia de Computação",
+      "instituicao": "Univesp",
+      "periodo": "Jul/2017 a Jul/2022",
+      "resumo_conhecimentos_aprendidos":  null
+    },
+    {
+      "curso": " Técnico em Análise e Desenvolvimento de Sistemas",
+      "instituicao": "Senai-SP",
+      "periodo": "Jul/2019 a Jul/2021",
+      "resumo_conhecimentos_aprendidos": "Git/GitHub, HTML, CSS, Java Script, MVC,  C#, JTW, React, React Native, Sql Server, MongoDB, Big Data e Metodologias Ágeis."
+    },
+    {
+      "curso": "Back-end com Node.js",
+      "instituicao": "{Reprograma}",
+      "periodo": "Jan/2015 a Jul/2021",
+      "resumo_conhecimentos_aprendidos": "Versionamento de código, Git/GitHub, Lógica de programação, JavaScript, Node.js, APIs."
     }
   ],
   "meus_outros_aprendizados_e_interesses": [
     {
-      "interesse_evento_curso": "Curso online de Javascript",
-      "instituicao": "Udemy",
-      "resumo_conhecimentos_interesses": "Entendimento sobre a sintaxe básica do javascript"
-    },
-    {
-      "interesse_evento_curso": "Curso ES6",
-      "instituicao": "Udemy",
-      "resumo_conhecimentos_interesses": "Entendimento sobre a sintaxe moderna do javascript"
+      "interesse_evento_curso": "Introdução à Engenharia de Dados e Cloud Computing",
+      "instituicao": "IGTI",
+      "resumo_conhecimentos_interesses": null
     }
+
   ],
   "no_que_me_destaco": [
-    { "habilidade_ferramenta": "HTML", "pontuacao": 9 },
-    { "habilidade_ferramenta": "CSS", "pontuacao": 9 },
-    { "habilidade_ferramenta": "SASS", "pontuacao": 6 },
-    { "habilidade_ferramenta": "JAVASCRIPT", "pontuacao": 8 },
-    { "habilidade_ferramenta": "JQUERY", "pontuacao": 6 },
-    { "habilidade_ferramenta": "NODE", "pontuacao": 1 },
-    { "habilidade_ferramenta": "GIT/GITHUB", "pontuacao": 8 },
-    { "habilidade_ferramenta": "BOOTSTRAP", "pontuacao": 9 },
-    { "habilidade_ferramenta": "REACT", "pontuacao": 8 },
-    { "habilidade_ferramenta": "METODOLOGIAS ÁGEIS", "pontuacao": 5 },
-    { "habilidade_ferramenta": "RESPONSIVIDADE", "pontuacao": 9 },
-    { "habilidade_ferramenta": "UX DESIGN", "pontuacao": 6 },
-    { "habilidade_ferramenta": "TECNOLOGIA ASSISTIVAS", "pontuacao": 6 },
-    { "habilidade_ferramenta": "WORDPRESS", "pontuacao": 9 },
-    { "habilidade_ferramenta": "PHP", "pontuacao": 3 },
-    { "habilidade_ferramenta": "MySQL", "pontuacao": 3 },
-    { "habilidade_ferramenta": "HOSPEDAGEM DE SITE", "pontuacao": 8 },
-    { "habilidade_ferramenta": "FTP", "pontuacao": 5 },
-    { "habilidade_ferramenta": "CONFIGURAÇÃO DE DOMÍNIO", "pontuacao": 8 },
-    { "habilidade_ferramenta": "PHOTOSHOP", "pontuacao": 9 },
-    { "habilidade_ferramenta": "ILUSTRATOR", "pontuacao": 9 },
-    { "habilidade_ferramenta": "INDESIGN", "pontuacao": 9 }
+    { "habilidade_ferramenta": "HTML", "pontuacao": 8 },
+    { "habilidade_ferramenta": "CSS", "pontuacao": 6 },
+    { "habilidade_ferramenta": "RESPONSIVIDADE", "pontuacao": 7 },
+    { "habilidade_ferramenta": "LÓGICA DE PROGRAMAÇÃO", "pontuacao": 7 },    
+    { "habilidade_ferramenta": "JAVASCRIPT", "pontuacao": 6 },
+    { "habilidade_ferramenta": "C#", "pontuacao": 6 },
+    { "habilidade_ferramenta": "PYTHON", "pontuacao": 5 },
+    { "habilidade_ferramenta": "BIG DATA", "pontuacao": 5 },
+    { "habilidade_ferramenta": "NODE.JS", "pontuacao": 6 },
+    { "habilidade_ferramenta": "SQL SERVER", "pontuacao": 8 },
+    { "habilidade_ferramenta": "NoSQL - MONGO_DB", "pontuacao": 5 },
+    { "habilidade_ferramenta": "GIT/GITHUB", "pontuacao": 5 },
+    { "habilidade_ferramenta": "BOOTSTRAP", "pontuacao": 6 },
+    { "habilidade_ferramenta": "REACT", "pontuacao": 7 },
+    { "habilidade_ferramenta": "REACT NATIVE", "pontuacao": 5 },
+    { "habilidade_ferramenta": "METODOLOGIAS ÁGEIS", "pontuacao": 6 },   
+    { "habilidade_ferramenta": "UX/UI DESIGN", "pontuacao": 5 } 
   ]
 }
