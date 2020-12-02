@@ -6,9 +6,8 @@
   "link_github": "https://github.com/nathaliacsan",
   "email": "nathaliacsan@gmail.com",
   "um_pouco_sobre_mim": [
-    "Sou psicóloga de formação mas tive contato com a programação em 2007 no meu colegial técnico, trabalhei durante alguns anos como recrutadora e em 2020 decidi seguir a minha primeira opção de carreira escolhida aos 13 anos, desenvolvedora.",
-    "Assim como a psicologia, acredito que a tecnologia está presente para transformar o mundo em um lugar melhor. É ajudando grandes empresas a reprogramarem o mundo atual que desejo seguir minha trajetória profissional.",
-    "Nas minhas horas livres realizo trabalho voluntário para o público LGBTQI+, participo de uma ONG filiada a Organização das Nações Unidas(ONU) e gosto de praticar atividades físicas como jiu-jitsu e musculação."   
+    "Sou psicóloga de formação mas tive contato com a programação em 2007 no meu colegial técnico, trabalhei durante alguns anos como recrutadora e em 2020 decidi seguir a minha primeira opção de carreira escolhida aos 13 anos, desenvolvedora. Assim como a psicologia, acredito que a tecnologia está presente para transformar o mundo em um lugar melhor",
+    "Nas minhas horas livres realizo trabalho voluntário para o público LGBTQI+, participo de uma ONG filiada a Organização das Nações Unidas(ONU) e gosto de praticar atividade física como jiu-jitsu."   
   ],
   "no_que_ja_trabalhei": [
     {
@@ -58,7 +57,7 @@
     {
       "interesse_evento_curso": "Bootcamp Back-End",
       "instituicao": "Reprograma",
-      "resumo_conhecimentos_interesses": "No Bootcamp estudei e coloquei na prática Node.js, JavaScript, MongoDB, MVC, API REST, JWT, Postman, versionamento git, "
+      "resumo_conhecimentos_interesses": "No Bootcamp estudei e coloquei na prática Node.js, JavaScript, Banco de dados MongoDB, Padrão MVC, API REST, Autenticação, Postman, versionamento git e github."
     },
     {
       "interesse_evento_curso": "Curso online de Javascript - 40 horas.",
@@ -73,7 +72,7 @@
     {
       "interesse_evento_curso": "Fundamentos da programação - 12 horas",
       "instituicao": "Udemy",
-      "resumo_conhecimentos_interesses": "Algoritmos com Fluxograma, Portugol / Pseudocódigo e Linguagem C."
+      "resumo_conhecimentos_interesses": "Algoritmos com Fluxograma, Portugol/Pseudocódigo e Linguagem C."
     },
     {
       "interesse_evento_curso": "Voluntária",
