@@ -87,7 +87,8 @@
 	{ "habilidade_ferramenta": "SPRING BOOT", "pontuacao": 9 },
     { "habilidade_ferramenta": "NODE.JS", "pontuacao": 8 },
     { "habilidade_ferramenta": "GIT/GITHUB", "pontuacao": 8 },
-	{ "habilidade_ferramenta": "SQL", "pontuacao": 6 },
-    { "habilidade_ferramenta": "MongoDB", "pontuacao": 6 }
+	{ "habilidade_ferramenta": "SQL", "pontuacao": 7 },
+    { "habilidade_ferramenta": "MongoDB", "pontuacao": 6 },
+	{ "habilidade_ferramenta": "SCRUM", "pontuacao": 6 }
   ]
 }
