@@ -1,80 +1,90 @@
 {
-  "nome_completo": "Seu Nome Completo",
-  "o_que_eu_quero": "Descrição resumida sobre o que você deseja para sua carreira",
-  "cidade_estado:": "São Paulo/SP",
-  "link_linkedin": "https://www.linkedin.com/in/seulinkedin/",
-  "link_github": "https://github.com/seugithub",
-  "email": "seuemail@gmail.com",
+  "nome_completo": "Edlaine Pontes",
+  "o_que_eu_quero": "Desenvolvimento FullStack",
+  "cidade_estado:": "Jundiai/SP",
+  "link_linkedin": "https://www.linkedin.com/in/edlaine-pontes/",
+  "link_github": "https://github.com/Edlaine-Pontes",
+  "email": "edlaine.psico@gmail.com",
   "um_pouco_sobre_mim": [
-    "Aqui é um parágrafo descrevendo um pouco sobre você",
-    "Aqui é outro parágrafo falando sobre sua trajetória",
-    "Nesse aqui você pode dizer o que você curte fazer",
-    "Fique a vontade, mas busque ser objetiva"
+    "Sou apaixonada por usar a tecnologia para criar soluções para as pessoas, muitas vezes soluções simples causam um impacto muito grande no trabalho de outras pessoas.",
+    "Atuei por 10 anos em Recursos Humanos e ao longo de minha trajetória profissional me tornei especialista em resolver problemas: gestão de conflitos, redução de turnover, desenvolvimento de líderes e otimização de processos. Me aproximei da tecnologia me tornando responsável por implantação e parametrização de sistemas de RH (ADP, Questor, Microsiga e SAP) , e após estudar passei a otimizar algumas tarefas rotineiras com Python e desenvolver aplicações web.",
+    "Atualmente sou Mentora Técnica na Cloud Girls (maior meetup de cloud do mundo), tenho formação de front-end pela Oracle One Alura e Rocketseat, sou aluna da turma de Back-End da Reprograma e estou envolvida em diversas atividades voluntarias atuando como desenvolvedora e arquiteta de soluções.",
+    
   ],
   "no_que_ja_trabalhei": [
     {
-      "cargo_funcao": "Design Gráfica",
-      "empresa": "Empresa XPTO",
-      "periodo": "Jan/2017 a Dez/2018",
-      "atividades_desenvolvidas": "Diagramação, posts para as redes sociais, gerenciamento do site; atendimento e venda de ingresso para eventos.",
-      "link": null
+      "cargo_funcao": "Desenvolvedora Fullstack Trainee",
+      "empresa": "AOOP Cloud Solutions",
+      "periodo": "Out/2020 atual",
+      "atividades_desenvolvidas": "Atuando na sustentação do Servicenow, desenvolvimento Fullstack",
+      "link": "https://www.aoop.com.br/"
     },
     {
-      "cargo_funcao": "Projeto Voluntário",
-      "empresa": "Reprograma - Cliente Fulano",
-      "periodo": "Jan/2017 a Dez/2018",
-      "atividades_desenvolvidas": "Diagramação, posts para as redes sociais, gerenciamento do site; atendimento e venda de ingresso para eventos.",
-      "link": "http://clientefulano.com.br"
+      "cargo_funcao": "Desenvolvedora Fullstack",
+      "empresa": "Rockë Software - Software House de Mulheres",
+      "periodo": "Jul/2020 atual",
+      "atividades_desenvolvidas": "desenvolvimento de um MVP em JavaScript e VUE.JS com Node.js hospedada na Oracle Cloud para gestão de equipamentos em obras de pequeno e médio porte",
+      "link": "http://www.rockesoftware.com.br/"
     }
   ],
   "o_que_ja_estudei": [
     {
-      "curso": "Design Gráfico",
-      "instituicao": "Escola Tal",
-      "periodo": "Jan/2016 a Dez/2018",
-      "resumo_conhecimentos_aprendidos": "Criação, planejamento, edição de mídias e conteúdos"
+      "curso": "Psicologia",
+      "instituicao": "UNIP",
+      "periodo": "Jan/2008 a Dez/2012",
+      "resumo_conhecimentos_aprendidos": "Psicologia Organizacional"
     },
     {
-      "curso": "Curso de Web Design",
-      "instituicao": "Escola Tal",
-      "periodo": "Jan/2015 a Dez/2015",
-      "resumo_conhecimentos_aprendidos": "Criação, planejamento, edição de mídias e conteúdos"
+      "curso": "ESPECIALIZAÇÃO EM MODELOS DE GESTÃO ESTRATÉGICAS DE PESSOAS",
+      "instituicao": "FIA",
+      "periodo": "Jan/2014 a Dez/2015",
+      "resumo_conhecimentos_aprendidos": "Gestao estratégica"
     }
   ],
   "meus_outros_aprendizados_e_interesses": [
     {
-      "interesse_evento_curso": "Curso online de Javascript",
-      "instituicao": "Udemy",
-      "resumo_conhecimentos_interesses": "Entendimento sobre a sintaxe básica do javascript"
+      "interesse_evento_curso": "Scrum foundations professional certificate ",
+      "instituicao": "CERFIPROF",
+      "resumo_conhecimentos_interesses": "Certificação Profissional em Scrum"
     },
     {
-      "interesse_evento_curso": "Curso ES6",
-      "instituicao": "Udemy",
-      "resumo_conhecimentos_interesses": "Entendimento sobre a sintaxe moderna do javascript"
+      "interesse_evento_curso": "Front-End",
+      "instituicao": "ROCKETSEAT",
+      "resumo_conhecimentos_interesses": "Javascript, Css, React, Node e Html"
+    },
+    {
+      "interesse_evento_curso": "Logica de Programação, Front-End e Back-End",
+      "instituicao": "Oracle One e Alura",
+      "resumo_conhecimentos_interesses": "Javascript, Css, Html, Jquery e Java"
+    },
+    {
+      "interesse_evento_curso": "ITSM ServiceNow Fundamentals and Implementation",
+      "instituicao": "ServiceNow",
+      "resumo_conhecimentos_interesses": "Implantementação e fundamentos de ITSM"
     }
   ],
   "no_que_me_destaco": [
-    { "habilidade_ferramenta": "HTML", "pontuacao": 9 },
-    { "habilidade_ferramenta": "CSS", "pontuacao": 9 },
-    { "habilidade_ferramenta": "SASS", "pontuacao": 6 },
-    { "habilidade_ferramenta": "JAVASCRIPT", "pontuacao": 8 },
-    { "habilidade_ferramenta": "JQUERY", "pontuacao": 6 },
-    { "habilidade_ferramenta": "NODE", "pontuacao": 1 },
+    { "habilidade_ferramenta": "HTML", "pontuacao": 8 },
+    { "habilidade_ferramenta": "CSS", "pontuacao": 7 },
+    { "habilidade_ferramenta": "SASS", "pontuacao": 1 },
+    { "habilidade_ferramenta": "JAVASCRIPT", "pontuacao": 7 },
+    { "habilidade_ferramenta": "JQUERY", "pontuacao": 5 },
+    { "habilidade_ferramenta": "NODE", "pontuacao": 6 },
     { "habilidade_ferramenta": "GIT/GITHUB", "pontuacao": 8 },
-    { "habilidade_ferramenta": "BOOTSTRAP", "pontuacao": 9 },
-    { "habilidade_ferramenta": "REACT", "pontuacao": 8 },
-    { "habilidade_ferramenta": "METODOLOGIAS ÁGEIS", "pontuacao": 5 },
-    { "habilidade_ferramenta": "RESPONSIVIDADE", "pontuacao": 9 },
-    { "habilidade_ferramenta": "UX DESIGN", "pontuacao": 6 },
-    { "habilidade_ferramenta": "TECNOLOGIA ASSISTIVAS", "pontuacao": 6 },
-    { "habilidade_ferramenta": "WORDPRESS", "pontuacao": 9 },
-    { "habilidade_ferramenta": "PHP", "pontuacao": 3 },
+    { "habilidade_ferramenta": "BOOTSTRAP", "pontuacao": 8 },
+    { "habilidade_ferramenta": "REACT", "pontuacao": 5 },
+    { "habilidade_ferramenta": "METODOLOGIAS ÁGEIS", "pontuacao": 7 },
+    { "habilidade_ferramenta": "RESPONSIVIDADE", "pontuacao": 5 },
+    { "habilidade_ferramenta": "VUE", "pontuacao": 5 },
+    { "habilidade_ferramenta": "PYTHON", "pontuacao": 4 },
+    { "habilidade_ferramenta": "JAVA", "pontuacao": 2 },
+    { "habilidade_ferramenta": "POSTGRESSQL", "pontuacao": 5 },
     { "habilidade_ferramenta": "MySQL", "pontuacao": 3 },
-    { "habilidade_ferramenta": "HOSPEDAGEM DE SITE", "pontuacao": 8 },
-    { "habilidade_ferramenta": "FTP", "pontuacao": 5 },
-    { "habilidade_ferramenta": "CONFIGURAÇÃO DE DOMÍNIO", "pontuacao": 8 },
-    { "habilidade_ferramenta": "PHOTOSHOP", "pontuacao": 9 },
-    { "habilidade_ferramenta": "ILUSTRATOR", "pontuacao": 9 },
-    { "habilidade_ferramenta": "INDESIGN", "pontuacao": 9 }
+    { "habilidade_ferramenta": "HOSPEDAGEM DE SITE", "pontuacao": 5 },
+    { "habilidade_ferramenta": "SQLITE", "pontuacao": 9 },
+    { "habilidade_ferramenta": "CONFIGURAÇÃO DE DOMÍNIO", "pontuacao": 3 },
+    { "habilidade_ferramenta": "MONGODB", "pontuacao": 5 },
+    { "habilidade_ferramenta": "AWS", "pontuacao": 4 },
+    { "habilidade_ferramenta": "GOOGLE CLOUD", "pontuacao": 6 }
   ]
 }
