@@ -1,80 +1,81 @@
 {
-  "nome_completo": "Seu Nome Completo",
-  "o_que_eu_quero": "Descrição resumida sobre o que você deseja para sua carreira",
-  "cidade_estado:": "São Paulo/SP",
-  "link_linkedin": "https://www.linkedin.com/in/seulinkedin/",
-  "link_github": "https://github.com/seugithub",
-  "email": "seuemail@gmail.com",
+  "nome_completo": "Fernanda Gabriela Lima Oliveira Bezerra",
+  "o_que_eu_quero": "Estou em busca de oportunidades na área de tecnologia e desenvolvimento back-end. ",
+  "cidade_estado:": "Recife/PE ",
+  "link_linkedin": "https://www.linkedin.com/in/fernandalimaoliveira/",
+  "link_github": "https://github.com/nanda-oliveira",
+  "email": "fernandaoliveiraufpe@gmail.com",
   "um_pouco_sobre_mim": [
-    "Aqui é um parágrafo descrevendo um pouco sobre você",
-    "Aqui é outro parágrafo falando sobre sua trajetória",
-    "Nesse aqui você pode dizer o que você curte fazer",
-    "Fique a vontade, mas busque ser objetiva"
+
+  "Movida pela curiosidade e inquietude, me tornei a primeira geração da minha família a ingressar em uma Universidade Pública.Escolhi psicologia porque acredito na importância de desenvolver pessoas e humanizar os espaços. Sendo assim, ampliei meus conhecimentos científicos realizando pesquisa na área de Neurociência Cognitiva.",
+
+ "No entanto, me conectei com a área de inovação e negócios participando como voluntária do Movimento de Empresa Júnior, AIESEC e Fundação Estudar. Durante a pandemia, participei de um projeto internacional promovido pelo Erasmus Mundus, e ao lado de um time multidisciplinar, criamos uma solução para combater a Fake News, chamado COVID-INFO. A solução se destacou, recebendo a premiação de primeiro lugar como melhor pitch, e segundo como melhor produto.",
+
+"Desde então, busquei me conectar com a área de tecnologia.Em agosto de 2020, fui selecionada dentre mais de 2 mil inscritas para participar do bootcamp de back-end da {reprograma} em parceria com a XP Investimentos. Hoje, eu busco unir meus conhecimentos em psicologia, negócios e inovação para uma prática na área de tecnologia pautada na ética e construindo soluções criativas para pessoas."
+
   ],
+
   "no_que_ja_trabalhei": [
     {
-      "cargo_funcao": "Design Gráfica",
-      "empresa": "Empresa XPTO",
-      "periodo": "Jan/2017 a Dez/2018",
-      "atividades_desenvolvidas": "Diagramação, posts para as redes sociais, gerenciamento do site; atendimento e venda de ingresso para eventos.",
-      "link": null
+      "cargo_funcao": "Mentora de Vendas",
+      "empresa": "Fundação Estudar",
+      "periodo": "Fev/2019 a Dez/2019",
+      "atividades_desenvolvidas": " Como mentora de dois time de vendas, fui responsável pela Gestão de Pessoas, Treinamento e Desenvolvimento do time, Acompanhamento de Performance dos voluntários, engajamento e liderança de equipe e negociação de parcerias.",
+      "link": "https://www.estudar.org.br"
     },
     {
-      "cargo_funcao": "Projeto Voluntário",
-      "empresa": "Reprograma - Cliente Fulano",
-      "periodo": "Jan/2017 a Dez/2018",
-      "atividades_desenvolvidas": "Diagramação, posts para as redes sociais, gerenciamento do site; atendimento e venda de ingresso para eventos.",
-      "link": "http://clientefulano.com.br"
+      "cargo_funcao": "Gerente de Gestão de Pessoas",
+      "empresa": "AIESEC RECIFE",
+      "periodo": "Jan/2018 a Ago/2018",
+      "atividades_desenvolvidas": "Como gerente de gestão de pessoas, realizei Recrutamento e Seleção de jovens voluntários, análise de performance e produtividade, elaboração de campanhas de incentivo e auditoria.",
+      "link": "https://aiesec.org/"
+    },
+    {
+      "cargo_funcao": "Gerente de Projetos",
+      "empresa": "Ethos Consultoria Jr.",
+      "periodo": "Dez/2016 a Jan/2018",
+      "atividades_desenvolvidas": "Gerenciei e executei serviços externos e internos na área de Gestão de Pessoas. Implementei o Manual de Diagnóstico Empresarial nos serviços de consultoria, um guia prático para levantar as necessidades organizacionais. Realizei prospecção de cliente, negociação e apresentação de proposta de serviço.",
+      "link": "https://www.linkedin.com/company/ethos-consultoria-jr-/about/"
     }
   ],
   "o_que_ja_estudei": [
     {
-      "curso": "Design Gráfico",
-      "instituicao": "Escola Tal",
-      "periodo": "Jan/2016 a Dez/2018",
-      "resumo_conhecimentos_aprendidos": "Criação, planejamento, edição de mídias e conteúdos"
+      "curso": "Bootcamp Back-end",
+      "instituicao": "{reprograma}",
+      "periodo": "Ago/2020 a Dez/2020",
+      "resumo_conhecimentos_aprendidos": "O conteúdo do bootcamp, focado na formação de mulheres back-end developers, inclui Git&Github, Lógica de Programação, JavaScript, Node.js, API e Banco de Dados."
     },
     {
-      "curso": "Curso de Web Design",
-      "instituicao": "Escola Tal",
-      "periodo": "Jan/2015 a Dez/2015",
-      "resumo_conhecimentos_aprendidos": "Criação, planejamento, edição de mídias e conteúdos"
+      "curso": "Psicologia",
+      "instituicao": " Universidade Federal de Pernambuco",
+      "periodo": "Ago/2015 a Dez/2020",
+      "resumo_conhecimentos_aprendidos": " Durante minha formação, desenvolvi um posicionamento crítico e reflexivo sobre a questões sociais e processos psicológicos envolvidos. Participei de atividades de extensão voltada para área da saúde, garantindo meu comprometimento com a transformação social e discernimento ético relativas a pessoas e à coletividade."
     }
   ],
   "meus_outros_aprendizados_e_interesses": [
     {
-      "interesse_evento_curso": "Curso online de Javascript",
-      "instituicao": "Udemy",
-      "resumo_conhecimentos_interesses": "Entendimento sobre a sintaxe básica do javascript"
+      "interesse_evento_curso": "Entrepreneurial Solutions in Innovate Global Networks",
+      "instituicao": "Listo Project - Erasmus Mundus",
+      "resumo_conhecimentos_interesses": "O projeto LISTO é um programa de cooperação internacional do Erasmus Mundus com foco em: relações universidade/empresa,educação empreendedora e inovação. Ao lado de um time multidisciplinar e multicultural, idealizamos uma solução para o combate de Fake News durante a pandemia de COVID-19. Ao final do projeto, ganhamos o primeiro lugar de melhor pitch e o segundo lugar de melhor produto."
     },
     {
-      "interesse_evento_curso": "Curso ES6",
-      "instituicao": "Udemy",
-      "resumo_conhecimentos_interesses": "Entendimento sobre a sintaxe moderna do javascript"
+      "interesse_evento_curso": "Intercâmbio Voluntário",
+      "instituicao": "AIESEC Argentina",
+      "resumo_conhecimentos_interesses": "Realizei trabalho voluntário na ONG Estudiando Juntos na Argentina com objetivo melhorar e desenvolver a educação de qualidade para crianças em situação de vulnerabilidade socioeconômica."
+    },{
+      "interesse_evento_curso": ". Programa Institucional de Bolsas de Iniciação Científica (Pibic/UFPE/CNPq)",
+      "instituicao": "Laboratório de Neurociência Cognitiva",
+      "resumo_conhecimentos_interesses": "Realizei duas pesquisas de iniciação científica intituladas: Avaliação da Capacidade de Resolução de Problemas em Mulheres com Câncer de Mama Submetidas à Quimioterapia (17/18) e  Efeito da Estimulação Transcraniana por Corrente Contínua Cerebelar na Memória de Trabalho Associado ao Treino Cognitivo em Idosos Saudáveis (18/19)"
     }
   ],
   "no_que_me_destaco": [
-    { "habilidade_ferramenta": "HTML", "pontuacao": 9 },
-    { "habilidade_ferramenta": "CSS", "pontuacao": 9 },
-    { "habilidade_ferramenta": "SASS", "pontuacao": 6 },
+   
     { "habilidade_ferramenta": "JAVASCRIPT", "pontuacao": 8 },
-    { "habilidade_ferramenta": "JQUERY", "pontuacao": 6 },
-    { "habilidade_ferramenta": "NODE", "pontuacao": 1 },
+    { "habilidade_ferramenta": "NODE", "pontuacao": 8 },
     { "habilidade_ferramenta": "GIT/GITHUB", "pontuacao": 8 },
-    { "habilidade_ferramenta": "BOOTSTRAP", "pontuacao": 9 },
-    { "habilidade_ferramenta": "REACT", "pontuacao": 8 },
-    { "habilidade_ferramenta": "METODOLOGIAS ÁGEIS", "pontuacao": 5 },
-    { "habilidade_ferramenta": "RESPONSIVIDADE", "pontuacao": 9 },
-    { "habilidade_ferramenta": "UX DESIGN", "pontuacao": 6 },
-    { "habilidade_ferramenta": "TECNOLOGIA ASSISTIVAS", "pontuacao": 6 },
-    { "habilidade_ferramenta": "WORDPRESS", "pontuacao": 9 },
-    { "habilidade_ferramenta": "PHP", "pontuacao": 3 },
-    { "habilidade_ferramenta": "MySQL", "pontuacao": 3 },
-    { "habilidade_ferramenta": "HOSPEDAGEM DE SITE", "pontuacao": 8 },
-    { "habilidade_ferramenta": "FTP", "pontuacao": 5 },
-    { "habilidade_ferramenta": "CONFIGURAÇÃO DE DOMÍNIO", "pontuacao": 8 },
-    { "habilidade_ferramenta": "PHOTOSHOP", "pontuacao": 9 },
-    { "habilidade_ferramenta": "ILUSTRATOR", "pontuacao": 9 },
-    { "habilidade_ferramenta": "INDESIGN", "pontuacao": 9 }
-  ]
+    { "habilidade_ferramenta": "MONGO DB", "pontuacao": 7 },
+    { "habilidade_ferramenta": "METODOLOGIAS ÁGEIS", "pontuacao": 9 }
+
+  ] 
 }
+
