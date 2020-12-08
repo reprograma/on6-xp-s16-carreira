@@ -1,80 +1,121 @@
 {
-  "nome_completo": "Seu Nome Completo",
-  "o_que_eu_quero": "Descrição resumida sobre o que você deseja para sua carreira",
+  "nome_completo": "Naiara Lima",
+  "o_que_eu_quero": "Busco oportunidades em tecnologia BackEnd, Banco de dados ou Data Analytics com BI, coletando, estruturando e analisando dados.",
   "cidade_estado:": "São Paulo/SP",
-  "link_linkedin": "https://www.linkedin.com/in/seulinkedin/",
-  "link_github": "https://github.com/seugithub",
-  "email": "seuemail@gmail.com",
+  "link_linkedin": "www.linkedin.com/in/naiara-lima-up",
+  "link_github": "https://github.com/NahLima",
+  "email": "naiarafx@gmail.com",
   "um_pouco_sobre_mim": [
-    "Aqui é um parágrafo descrevendo um pouco sobre você",
-    "Aqui é outro parágrafo falando sobre sua trajetória",
-    "Nesse aqui você pode dizer o que você curte fazer",
-    "Fique a vontade, mas busque ser objetiva"
+    "Sou especialista em gestão de projetos. Toda minha vida profissional girou em torno da comunicação,publicidade e artes.Trabalho há 15 anos com pós-produção de filmes e comerciais publicitários.",
+    "Minha vida sempre foi repleta de desafios. Isso me motiva a continuar, gosto de enxergar as coisas de múltiplas formas.",
+    "Apesar de minha carreira ter sido focada em comunicação e artes, eu despertei para o mundo da tecnologia, empreendedorismo e análise de dados.",
+    "Sou guiada por resultados. A curiosidade me fez seguir novos rumos e me dedicar à transição de carreira.", 
+    "Em agosto de 2020, fui selecionada para o BootCamp BackEnd {Reprograma}."
+    
   ],
   "no_que_ja_trabalhei": [
     {
-      "cargo_funcao": "Design Gráfica",
-      "empresa": "Empresa XPTO",
-      "periodo": "Jan/2017 a Dez/2018",
-      "atividades_desenvolvidas": "Diagramação, posts para as redes sociais, gerenciamento do site; atendimento e venda de ingresso para eventos.",
-      "link": null
+      "cargo_funcao": "Coordenadora de pós produção e assistente de projetos ",
+      "empresa": "Vetor Zero",
+      "periodo": "Desde março de 2011 ",
+      "atividades_desenvolvidas": "Coordeno uma  equipe de  25 pessoas, (edição, composição, cor e ingest) também cuido da relação com outras equipes (producers, atendimento e cliente).",
+      "link": "https://vetorzero.com.br/" 
     },
     {
-      "cargo_funcao": "Projeto Voluntário",
-      "empresa": "Reprograma - Cliente Fulano",
-      "periodo": "Jan/2017 a Dez/2018",
-      "atividades_desenvolvidas": "Diagramação, posts para as redes sociais, gerenciamento do site; atendimento e venda de ingresso para eventos.",
-      "link": "http://clientefulano.com.br"
+      "cargo_funcao": "Assistente de composição",
+      "empresa": "O2 Filmes",
+      "periodo": "Jul/2009 a Fev/2011",
+      "atividades_desenvolvidas": "Reconstrução de cenários, retoques de pele, recorte de pessoas e objetos e pré-composição de imagens.",
+      "link": "http://o2filmes.com/"
+    },
+    {
+      "cargo_funcao": "Editora de vídeo",
+      "empresa": "Academia de Filmes",
+      "periodo": "Jun/2007 a Jun/2009",
+      "atividades_desenvolvidas": "Edição de making off e teste de elenco.Reconstrução de cenários, retoques de pele, recorte de pessoas e objetos e pré-composição de imagens.",
+      "link": "http://academiadefilmes.com.br/"
     }
   ],
   "o_que_ja_estudei": [
     {
-      "curso": "Design Gráfico",
-      "instituicao": "Escola Tal",
-      "periodo": "Jan/2016 a Dez/2018",
-      "resumo_conhecimentos_aprendidos": "Criação, planejamento, edição de mídias e conteúdos"
+      "curso": "Pós-Graduação, Gestão de Projetos: fatores técnicos, humano e do contexto dos negócios",
+      "instituicao": "Fia Business School",
+      "periodo": "Maio/2020 a Nov/2021",
+      "resumo_conhecimentos_aprendidos": "Contabilidade e Avaliação Econômico-Financeira, Estratégia e Planejamento Estratégico,Ética e Responsabilidade Socioambiental,Ferramentas e Softwares para Gestão de Projetos,Gestão da Comunicação e Stakeholders do Projeto,Gestão das Aquisições e Suprimentos,Gestão de Custos e Recursos do Projeto,Gestão de Pessoas e Comportamento Humano,Gestão dos Prazos e Cronograma do Projeto,Gestão de Projetos: Visão de Conjunto e Gestão de Escopo do Projeto,Gestão de Riscos do Projeto,Inovação, Criatividade e Desing Thinking,Marketing: Fundamentos e Composto de Marketing,Macro Ambiente e Cenários Econômicos"
     },
     {
-      "curso": "Curso de Web Design",
-      "instituicao": "Escola Tal",
-      "periodo": "Jan/2015 a Dez/2015",
-      "resumo_conhecimentos_aprendidos": "Criação, planejamento, edição de mídias e conteúdos"
+      "curso": "Bacharelado em Fotografia",
+      "instituicao": "Centro Universitário Senac",
+      "periodo": "Jan/2016 a Dez/2019",
+      "resumo_conhecimentos_aprendidos": "Curadoria, Fotografia técnica,Publicidade e propaganda, Teoria da comunicação, História da fotografia, Photoshop,Edição de vídeo"
+    },
+    {
+      "curso": "Técnico em Direção cinematográfica - FilmWorks",
+      "instituicao": "Academia Internacional de Cinema",
+      "periodo": "Jan/2010 a Dez/2012",
+      "resumo_conhecimentos_aprendidos": "direção cinematográfica, roteiro,iluminação, direção de arte e pós produção"
     }
   ],
   "meus_outros_aprendizados_e_interesses": [
     {
-      "interesse_evento_curso": "Curso online de Javascript",
-      "instituicao": "Udemy",
-      "resumo_conhecimentos_interesses": "Entendimento sobre a sintaxe básica do javascript"
+      "interesse_evento_curso": "Data Analytics",
+      "instituicao": "Digital House",
+      "resumo_conhecimentos_interesses": "Banco de dados, excel, powerBI, SQL."
     },
     {
-      "interesse_evento_curso": "Curso ES6",
-      "instituicao": "Udemy",
-      "resumo_conhecimentos_interesses": "Entendimento sobre a sintaxe moderna do javascript"
-    }
+      "interesse_evento_curso": "BootCamp BackEnd",
+      "instituicao": "Reprograma",
+      "resumo_conhecimentos_interesses": "JavaScript, Nodejs, Api Rest e  Mongo DB."
+    },
+    {
+      "interesse_evento_curso": "MONGO DB",
+      "instituicao": "DaniAcademy",
+      "resumo_conhecimentos_interesses": "Formas normais, teorema de Cap , dataType, escabilidade e comandos MongoDb."
+    },
+    {
+      "interesse_evento_curso": "FrontEnd",
+      "instituicao": "Programaria",
+      "resumo_conhecimentos_interesses": "conceitos básicos de JavaScript, Html e  Css"
+    },
+    {
+      "interesse_evento_curso": "Clip - Conectando pessoas e idéias",
+      "instituicao": "Perestroika",
+      "resumo_conhecimentos_interesses": "Economia colaborativa, pensamento em rede e interdependência"
+    },
+    {
+      "interesse_evento_curso": "Força - Inteligência emocional",
+      "instituicao": "Escola Conquer",
+      "resumo_conhecimentos_interesses": "lidar com pressão e stress,autoconfiança e autoconhecimento, controle emocional,capacidade de adaptação rápida e trabalho em equipe."
+    },
+    {
+      "interesse_evento_curso": "Jornada da Desfudência",
+      "instituicao": "Me Poupe",
+      "resumo_conhecimentos_interesses": "Economia, inteligência financeira, mindset, matemática financeira e investimentos"
+    },
+    {
+      "interesse_evento_curso": "Efeitos visuais e composição de imagem",
+      "instituicao": "Meliés faculdade criativa",
+      "resumo_conhecimentos_interesses": "composição de imagem, tracking 3D"
+    },
   ],
   "no_que_me_destaco": [
-    { "habilidade_ferramenta": "HTML", "pontuacao": 9 },
-    { "habilidade_ferramenta": "CSS", "pontuacao": 9 },
-    { "habilidade_ferramenta": "SASS", "pontuacao": 6 },
-    { "habilidade_ferramenta": "JAVASCRIPT", "pontuacao": 8 },
-    { "habilidade_ferramenta": "JQUERY", "pontuacao": 6 },
-    { "habilidade_ferramenta": "NODE", "pontuacao": 1 },
-    { "habilidade_ferramenta": "GIT/GITHUB", "pontuacao": 8 },
-    { "habilidade_ferramenta": "BOOTSTRAP", "pontuacao": 9 },
-    { "habilidade_ferramenta": "REACT", "pontuacao": 8 },
-    { "habilidade_ferramenta": "METODOLOGIAS ÁGEIS", "pontuacao": 5 },
-    { "habilidade_ferramenta": "RESPONSIVIDADE", "pontuacao": 9 },
-    { "habilidade_ferramenta": "UX DESIGN", "pontuacao": 6 },
-    { "habilidade_ferramenta": "TECNOLOGIA ASSISTIVAS", "pontuacao": 6 },
-    { "habilidade_ferramenta": "WORDPRESS", "pontuacao": 9 },
-    { "habilidade_ferramenta": "PHP", "pontuacao": 3 },
-    { "habilidade_ferramenta": "MySQL", "pontuacao": 3 },
-    { "habilidade_ferramenta": "HOSPEDAGEM DE SITE", "pontuacao": 8 },
-    { "habilidade_ferramenta": "FTP", "pontuacao": 5 },
-    { "habilidade_ferramenta": "CONFIGURAÇÃO DE DOMÍNIO", "pontuacao": 8 },
-    { "habilidade_ferramenta": "PHOTOSHOP", "pontuacao": 9 },
-    { "habilidade_ferramenta": "ILUSTRATOR", "pontuacao": 9 },
-    { "habilidade_ferramenta": "INDESIGN", "pontuacao": 9 }
+    { "habilidade_ferramenta": "HTML", "pontuacao": 4 },
+    { "habilidade_ferramenta": "CSS", "pontuacao": 4 },
+    { "habilidade_ferramenta": "JAVASCRIPT", "pontuacao": 7 },
+    { "habilidade_ferramenta": "NODE", "pontuacao": 8 },
+    { "habilidade_ferramenta": "MONGO DB", "pontuacao": 8},
+    { "habilidade_ferramenta": "GIT/GITHUB", "pontuacao": 10},
+    { "habilidade_ferramenta": "PHOTOSHOP", "pontuacao": 10 },
+    { "habilidade_ferramenta": "ILUSTRATOR", "pontuacao": 7 },
+    { "habilidade_ferramenta": "MAYA", "pontuacao": 6 },
+    { "habilidade_ferramenta": "PREMIERE", "pontuacao": 8},
+    { "habilidade_ferramenta": "GOOGLE SHEETS", "pontuacao": 7},
+    { "habilidade_ferramenta": "ADOBE XD", "pontuacao": 9},
+    { "habilidade_ferramenta": "MONDAY", "pontuacao": 8},
+    { "habilidade_ferramenta": "TRELLO", "pontuacao": 8},
+    { "habilidade_ferramenta": "MIRO", "pontuacao": 9},
+    { "habilidade_ferramenta": "POWERPOINT", "pontuacao": 8},
+    { "habilidade_ferramenta": "INGLÊS", "pontuacao":7},
+    { "habilidade_ferramenta": "POSTMAN", "pontuacao":10}
   ]
 }
