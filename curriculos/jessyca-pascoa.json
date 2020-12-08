@@ -1,80 +1,97 @@
 {
-  "nome_completo": "Seu Nome Completo",
-  "o_que_eu_quero": "Descrição resumida sobre o que você deseja para sua carreira",
-  "cidade_estado:": "São Paulo/SP",
-  "link_linkedin": "https://www.linkedin.com/in/seulinkedin/",
-  "link_github": "https://github.com/seugithub",
-  "email": "seuemail@gmail.com",
+  "nome_completo": "Jessyca Maria Sousa Costa de Páscoa" ,
+  "o_que_eu_quero": "Desenvolvedora Fullstack",
+  "cidade_estado:": "Recife/Pe",
+  "link_linkedin": "https://www.linkedin.com/in/jessyca-m-pascoa/",
+  "link_github": "https://github.com/pascoa21",
+  "email": "jessyca_pascoa@hotmail.com",
   "um_pouco_sobre_mim": [
-    "Aqui é um parágrafo descrevendo um pouco sobre você",
-    "Aqui é outro parágrafo falando sobre sua trajetória",
-    "Nesse aqui você pode dizer o que você curte fazer",
-    "Fique a vontade, mas busque ser objetiva"
+    "Sou desenvolvedora mobile, e back-end formada pela {Reprograma}, Certificação Scrum Master pela CertiProf.",
+    "Estudante de Engenharia Eletrônica pela UPE(previsão de formatura 08/2021) e Análise e Desenvolvimento de Sistemas pela Estácio.",
+    "Atuei como técnica em Segurança do Trabalho, durante 8anos, e inicie o processo de transição de carreira em 2019.",
+    "Apaixonada por inovação tecnologica e pela possibilidade de fazer algo que mude o mundo.",
+    "Em constante desenvolvimento profissional, e pessoal porque evoluir é o real sentido da vida."
+    
   ],
   "no_que_ja_trabalhei": [
     {
-      "cargo_funcao": "Design Gráfica",
-      "empresa": "Empresa XPTO",
-      "periodo": "Jan/2017 a Dez/2018",
-      "atividades_desenvolvidas": "Diagramação, posts para as redes sociais, gerenciamento do site; atendimento e venda de ingresso para eventos.",
+      "cargo_funcao": "Analista de Desenvolvimento Pleno",
+      "empresa": "Accenture do Brasil",
+      "periodo": "Jul/2019 a atual",
+      "atividades_desenvolvidas": "Desenvolvimento de tecnologias mobile com framework Xamarin.Android, Android Kotlin e Ionic 3.  ",
       "link": null
     },
     {
-      "cargo_funcao": "Projeto Voluntário",
-      "empresa": "Reprograma - Cliente Fulano",
-      "periodo": "Jan/2017 a Dez/2018",
-      "atividades_desenvolvidas": "Diagramação, posts para as redes sociais, gerenciamento do site; atendimento e venda de ingresso para eventos.",
-      "link": "http://clientefulano.com.br"
+      "cargo_funcao": "Pesquisadora",
+      "empresa": "Instituto Avançado de Tecnologia e Inovação",
+      "periodo": "Ago/2019 a atual",
+      "atividades_desenvolvidas": "Desenvolvimento de soluções tecnologicas(protótipos, sistemas embarcados) para inovação do sistemas elétrico. ",
+      "link": "null"
     }
   ],
   "o_que_ja_estudei": [
     {
-      "curso": "Design Gráfico",
-      "instituicao": "Escola Tal",
-      "periodo": "Jan/2016 a Dez/2018",
-      "resumo_conhecimentos_aprendidos": "Criação, planejamento, edição de mídias e conteúdos"
+      "curso": "Engenharia Elétrica Eletrônica",
+      "instituicao": "Universidade de Pernambuco",
+      "periodo": "Cursando",
+      "resumo_conhecimentos_aprendidos": "Circuitos elétricos, desenvolvimento de sistemas com microcontroladores, Criptografia, C#, Redes de Computadores, Arquiteturas de Computadores."
     },
     {
-      "curso": "Curso de Web Design",
-      "instituicao": "Escola Tal",
-      "periodo": "Jan/2015 a Dez/2015",
-      "resumo_conhecimentos_aprendidos": "Criação, planejamento, edição de mídias e conteúdos"
+      "curso": "Análise e Desenvolvimento de Sistemas",
+      "instituicao": "Universidade Estácio de Sá",
+      "periodo": "Cursando",
+      "resumo_conhecimentos_aprendidos": "Redes de computadores, Arquiteturas de Computadores, Introdução a C++, Segurança da Informação"
     }
   ],
   "meus_outros_aprendizados_e_interesses": [
     {
-      "interesse_evento_curso": "Curso online de Javascript",
-      "instituicao": "Udemy",
-      "resumo_conhecimentos_interesses": "Entendimento sobre a sintaxe básica do javascript"
+      "interesse_evento_curso": "Certificação Scrum Master",
+      "instituicao": "CertiProf",
+      "Link": "https://www.youracclaim.com/badges/1c1e82fc-e435-4ae9-bfcf-bfdb7754559f?source=linked_in_profile"
     },
     {
-      "interesse_evento_curso": "Curso ES6",
+      "interesse_evento_curso": "Curso Completo de Kotlin para Desenvolvimento Android",
       "instituicao": "Udemy",
-      "resumo_conhecimentos_interesses": "Entendimento sobre a sintaxe moderna do javascript"
+      "resumo_conhecimentos_interesses": "Aprender a desenvolver aplicativos android nativos."
+    },
+    {
+      "interesse_evento_curso": "Introdução ao Java e Orientação a objetos",
+      "instituicao": "Udemy",
+      "resumo_conhecimentos_interesses": "Entendimento sobre a sintaxe do Java"
+    },
+    {
+      "interesse_evento_curso": "Curso Web Moderno Completo com JavaScript 2020 + Projetos",
+      "instituicao": "Udemy",
+      "resumo_conhecimentos_interesses": "Entendimento sobre a sintaxe do JavaScript e prática com projetos envolvendo linguagens de marcação (html e CSS)."
+    },
+    {
+      "interesse_evento_curso": "C# Completo 2020 Programação Orientada a Objeto",
+      "instituicao": "Udemy",
+      "resumo_conhecimentos_interesses": "Entendimento sobre a sintaxe do C#, e melhorar habilidades com Programação Orientada a Objetos."
     }
   ],
   "no_que_me_destaco": [
-    { "habilidade_ferramenta": "HTML", "pontuacao": 9 },
-    { "habilidade_ferramenta": "CSS", "pontuacao": 9 },
-    { "habilidade_ferramenta": "SASS", "pontuacao": 6 },
-    { "habilidade_ferramenta": "JAVASCRIPT", "pontuacao": 8 },
-    { "habilidade_ferramenta": "JQUERY", "pontuacao": 6 },
-    { "habilidade_ferramenta": "NODE", "pontuacao": 1 },
-    { "habilidade_ferramenta": "GIT/GITHUB", "pontuacao": 8 },
-    { "habilidade_ferramenta": "BOOTSTRAP", "pontuacao": 9 },
-    { "habilidade_ferramenta": "REACT", "pontuacao": 8 },
-    { "habilidade_ferramenta": "METODOLOGIAS ÁGEIS", "pontuacao": 5 },
-    { "habilidade_ferramenta": "RESPONSIVIDADE", "pontuacao": 9 },
-    { "habilidade_ferramenta": "UX DESIGN", "pontuacao": 6 },
-    { "habilidade_ferramenta": "TECNOLOGIA ASSISTIVAS", "pontuacao": 6 },
-    { "habilidade_ferramenta": "WORDPRESS", "pontuacao": 9 },
-    { "habilidade_ferramenta": "PHP", "pontuacao": 3 },
-    { "habilidade_ferramenta": "MySQL", "pontuacao": 3 },
-    { "habilidade_ferramenta": "HOSPEDAGEM DE SITE", "pontuacao": 8 },
-    { "habilidade_ferramenta": "FTP", "pontuacao": 5 },
-    { "habilidade_ferramenta": "CONFIGURAÇÃO DE DOMÍNIO", "pontuacao": 8 },
-    { "habilidade_ferramenta": "PHOTOSHOP", "pontuacao": 9 },
-    { "habilidade_ferramenta": "ILUSTRATOR", "pontuacao": 9 },
-    { "habilidade_ferramenta": "INDESIGN", "pontuacao": 9 }
+    { "habilidade_ferramenta": "HTML", "pontuacao": 4 },
+    { "habilidade_ferramenta": "CSS", "pontuacao": 4 },
+    { "habilidade_ferramenta": "SASS", "pontuacao": 1 },
+    { "habilidade_ferramenta": "JAVASCRIPT", "pontuacao": 6 },
+    { "habilidade_ferramenta": "JQUERY", "pontuacao": 2 },
+    { "habilidade_ferramenta": "NODE", "pontuacao": 6 },
+    { "habilidade_ferramenta": "GIT/GITHUB", "pontuacao": 7 },
+    { "habilidade_ferramenta": "BOOTSTRAP", "pontuacao": 1 },
+    { "habilidade_ferramenta": "REACT", "pontuacao": 4 },
+    { "habilidade_ferramenta": "METODOLOGIAS ÁGEIS", "pontuacao": 7 },
+    { "habilidade_ferramenta": "RESPONSIVIDADE", "pontuacao": 6 },
+    { "habilidade_ferramenta": "UX DESIGN", "pontuacao": 4 },
+    { "habilidade_ferramenta": "TECNOLOGIA ASSISTIVAS", "pontuacao": 1 },
+    { "habilidade_ferramenta": "WORDPRESS", "pontuacao": 1 },
+    { "habilidade_ferramenta": "PHP", "pontuacao": 0 },
+    { "habilidade_ferramenta": "MySQL", "pontuacao": 2 },
+    { "habilidade_ferramenta": "HOSPEDAGEM DE SITE", "pontuacao": 0 },
+    { "habilidade_ferramenta": "FTP", "pontuacao": 0 },
+    { "habilidade_ferramenta": "CONFIGURAÇÃO DE DOMÍNIO", "pontuacao": 0 },
+    { "habilidade_ferramenta": "PHOTOSHOP", "pontuacao": 0 },
+    { "habilidade_ferramenta": "ILUSTRATOR", "pontuacao": 0 },
+    { "habilidade_ferramenta": "INDESIGN", "pontuacao": 0 }
   ]
 }
