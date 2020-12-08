@@ -1,80 +1,94 @@
 {
-  "nome_completo": "Seu Nome Completo",
-  "o_que_eu_quero": "Descrição resumida sobre o que você deseja para sua carreira",
+  "nome_completo": "Renata Braga de Abreu",
+  "o_que_eu_quero": "Estou aberta a oportunidades na área desenvolvimento back-end.",
   "cidade_estado:": "São Paulo/SP",
-  "link_linkedin": "https://www.linkedin.com/in/seulinkedin/",
-  "link_github": "https://github.com/seugithub",
-  "email": "seuemail@gmail.com",
+  "link_linkedin": "https://www.linkedin.com/in/renata89abreu/",
+  "link_github": "https://github.com/rabreu",
+  "email": "renata89abreu@gmail.com",
   "um_pouco_sobre_mim": [
-    "Aqui é um parágrafo descrevendo um pouco sobre você",
-    "Aqui é outro parágrafo falando sobre sua trajetória",
-    "Nesse aqui você pode dizer o que você curte fazer",
-    "Fique a vontade, mas busque ser objetiva"
+    "Bacharelada em Sistemas de Informação, com 7 anos de experiência na área de suporte e atualmente iniciando como desenvolvedora Back-end.",
+	"Estes 7 anos na área de suporte foram importantes para melhorar minhas habilidades de comunicação e interpessoais, porém guiada pelo desejo de mudança, novos desafios e uma vontade antiga de trabalhar com programação, resolvi voltar a estudar, me reciclar e focar na mudança de carreira."
   ],
   "no_que_ja_trabalhei": [
     {
-      "cargo_funcao": "Design Gráfica",
-      "empresa": "Empresa XPTO",
-      "periodo": "Jan/2017 a Dez/2018",
-      "atividades_desenvolvidas": "Diagramação, posts para as redes sociais, gerenciamento do site; atendimento e venda de ingresso para eventos.",
-      "link": null
+      "cargo_funcao": "Analista de Desenvolvimento Pleno",
+      "empresa": "Accenture",
+      "periodo": "Nov/2020 a atualmente",
+      "atividades_desenvolvidas": "",
+      "link": "https://www.accenture.com/br-pt"
     },
     {
-      "cargo_funcao": "Projeto Voluntário",
-      "empresa": "Reprograma - Cliente Fulano",
-      "periodo": "Jan/2017 a Dez/2018",
-      "atividades_desenvolvidas": "Diagramação, posts para as redes sociais, gerenciamento do site; atendimento e venda de ingresso para eventos.",
-      "link": "http://clientefulano.com.br"
+      "cargo_funcao": "Analista de Suporte Bilingue",
+      "empresa": "BNP Paribas",
+      "periodo": "Jan/2015 a Set/2019",
+      "atividades_desenvolvidas": "Alocada no cliente BNP Paribas, executei tarefas de analise e resolução de problemas de primeiro nível relativos ao sistema operacional e aplicações internas, escalonamento funcional de incidentes e solicitações, tanto para equipes solucionadoras que se localizam no Brasil  quanto em outros países (EUA, França, Índia etc).",
+      "link": "https://www.bnpparibas.com.br/"
+    },
+    {
+      "cargo_funcao": "Técnica de Suporte",
+      "empresa": "Anglo-americano Escolas Integradas",
+      "periodo": "Jan/2012 a Dez/2014",
+      "atividades_desenvolvidas": "Responsável pela parte tecnológica da Unidade de Resende, tais como, manutenção dos computadores, suporte aos usuários da unidade, elaboração de tutoriais e capacitações para professores e funcionários administrativos. Responsável pela implementação do sistema de ensino UNO Internacional na Unidade de Resende, que disponibiliza um ambiente digital para os alunos e professores utilizando o material didático em iPads.",
+      "link": "https://www.angloamericano.edu.br/"
+    },
+	{
+      "cargo_funcao": "Estagiária",
+      "empresa": "Anglo-americano Escolas Integradas",
+      "periodo": "",
+      "atividades_desenvolvidas": "Acompanhamento da implementação do sistema TOTVS, módulo RM Classis Net (gestão escolar), manutenção de computadores e suporte técnico aos funcionários e professores.",
+      "link": "https://www.angloamericano.edu.br/"
     }
   ],
   "o_que_ja_estudei": [
     {
-      "curso": "Design Gráfico",
-      "instituicao": "Escola Tal",
-      "periodo": "Jan/2016 a Dez/2018",
-      "resumo_conhecimentos_aprendidos": "Criação, planejamento, edição de mídias e conteúdos"
+      "curso": "Node.js",
+      "instituicao": "reprograma",
+      "periodo": "Ago/2020 a Dez/2020",
+      "resumo_conhecimentos_aprendidos": "Bootcamp voltado para a formação de mulheres criação de APIs REST com Node.js / express / MongoDB."
+    },
+	{
+      "curso": "Java / Spring Boot",
+      "instituicao": "Accademia Accenture",
+      "periodo": "Out/2020 a Nov/2020",
+      "resumo_conhecimentos_aprendidos": "Academia para nivelamento de conhecimento para profissionais que foram aprovados no processo seletivo da Accenture. O conteúdo apresentado foi desde conceitos básicos da linguagem Java, estrutura de dados até frameworks mais modernas como Spring Boot."
     },
     {
-      "curso": "Curso de Web Design",
-      "instituicao": "Escola Tal",
-      "periodo": "Jan/2015 a Dez/2015",
-      "resumo_conhecimentos_aprendidos": "Criação, planejamento, edição de mídias e conteúdos"
+      "curso": "Java / Spring Boot",
+      "instituicao": "Codenation / Guiabolso / Projeto Transformar",
+      "periodo": "Jan/2020 a Abr/2020",
+      "resumo_conhecimentos_aprendidos": "Bootcamp voltado para a formação para mulheres cisgêneras e pessoas transgêneras que buscavam a primeira oportunidade na área de desenvolvimento. Durante o curso aprendemos a construir uma API REST em Java e Spring Boot, com desafios e entregas semanais."
+    },
+    {
+      "curso": "Sistemas de Informação",
+      "instituicao": "Associação Educacional Dom Bosco",
+      "periodo": "Fev/2008 a Dez/2011",
+      "resumo_conhecimentos_aprendidos": "Curso de bacharelado multidiciplinar voltado para a formação de profissionais de Tecnologia da Informação."
     }
   ],
   "meus_outros_aprendizados_e_interesses": [
     {
-      "interesse_evento_curso": "Curso online de Javascript",
-      "instituicao": "Udemy",
-      "resumo_conhecimentos_interesses": "Entendimento sobre a sintaxe básica do javascript"
+      "interesse_evento_curso": "Async Patterns in Node.js",
+      "instituicao": "Pluralsight",
+      "resumo_conhecimentos_interesses": "Entendimento de funções assíncronas em Node.js."
     },
     {
-      "interesse_evento_curso": "Curso ES6",
-      "instituicao": "Udemy",
-      "resumo_conhecimentos_interesses": "Entendimento sobre a sintaxe moderna do javascript"
+      "interesse_evento_curso": "Projetos ágeis com SCRUM",
+      "instituicao": "Digital Innovation One",
+      "resumo_conhecimentos_interesses": "Conceitos básicos de SCRUM."
+    },
+    {
+      "interesse_evento_curso": "Microsoft Power BI",
+      "instituicao": "Green",
+      "resumo_conhecimentos_interesses": "Conceítos básicos de Business Inteligence / Power BI."
     }
   ],
   "no_que_me_destaco": [
-    { "habilidade_ferramenta": "HTML", "pontuacao": 9 },
-    { "habilidade_ferramenta": "CSS", "pontuacao": 9 },
-    { "habilidade_ferramenta": "SASS", "pontuacao": 6 },
-    { "habilidade_ferramenta": "JAVASCRIPT", "pontuacao": 8 },
-    { "habilidade_ferramenta": "JQUERY", "pontuacao": 6 },
-    { "habilidade_ferramenta": "NODE", "pontuacao": 1 },
+    { "habilidade_ferramenta": "JAVA", "pontuacao": 9 },
+	{ "habilidade_ferramenta": "SPRING BOOT", "pontuacao": 9 },
+    { "habilidade_ferramenta": "NODE.JS", "pontuacao": 8 },
     { "habilidade_ferramenta": "GIT/GITHUB", "pontuacao": 8 },
-    { "habilidade_ferramenta": "BOOTSTRAP", "pontuacao": 9 },
-    { "habilidade_ferramenta": "REACT", "pontuacao": 8 },
-    { "habilidade_ferramenta": "METODOLOGIAS ÁGEIS", "pontuacao": 5 },
-    { "habilidade_ferramenta": "RESPONSIVIDADE", "pontuacao": 9 },
-    { "habilidade_ferramenta": "UX DESIGN", "pontuacao": 6 },
-    { "habilidade_ferramenta": "TECNOLOGIA ASSISTIVAS", "pontuacao": 6 },
-    { "habilidade_ferramenta": "WORDPRESS", "pontuacao": 9 },
-    { "habilidade_ferramenta": "PHP", "pontuacao": 3 },
-    { "habilidade_ferramenta": "MySQL", "pontuacao": 3 },
-    { "habilidade_ferramenta": "HOSPEDAGEM DE SITE", "pontuacao": 8 },
-    { "habilidade_ferramenta": "FTP", "pontuacao": 5 },
-    { "habilidade_ferramenta": "CONFIGURAÇÃO DE DOMÍNIO", "pontuacao": 8 },
-    { "habilidade_ferramenta": "PHOTOSHOP", "pontuacao": 9 },
-    { "habilidade_ferramenta": "ILUSTRATOR", "pontuacao": 9 },
-    { "habilidade_ferramenta": "INDESIGN", "pontuacao": 9 }
+	{ "habilidade_ferramenta": "SQL", "pontuacao": 7 },
+    { "habilidade_ferramenta": "MongoDB", "pontuacao": 6 },
+	{ "habilidade_ferramenta": "SCRUM", "pontuacao": 6 }
   ]
 }
