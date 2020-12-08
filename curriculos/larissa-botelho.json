@@ -1,80 +1,80 @@
 {
-  "nome_completo": "Seu Nome Completo",
-  "o_que_eu_quero": "Descrição resumida sobre o que você deseja para sua carreira",
-  "cidade_estado:": "São Paulo/SP",
-  "link_linkedin": "https://www.linkedin.com/in/seulinkedin/",
-  "link_github": "https://github.com/seugithub",
-  "email": "seuemail@gmail.com",
+  "nome_completo": "Larissa Botelho de Souza",
+  "o_que_eu_quero": "Estou aberta a oportunidades na área de tecnologia e desenvolvimento Web.",
+  "cidade_estado:": "Belo Horizonte/MG",
+  "link_linkedin": "https://www.linkedin.com/in/botelholarissa/",
+  "link_github": "https://github.com/botelholarissa",
+  "email": "larissabotelhosouza@gmail.com",
   "um_pouco_sobre_mim": [
-    "Aqui é um parágrafo descrevendo um pouco sobre você",
-    "Aqui é outro parágrafo falando sobre sua trajetória",
-    "Nesse aqui você pode dizer o que você curte fazer",
-    "Fique a vontade, mas busque ser objetiva"
+    "Sou uma pessoa analítica e curiosa. Tenho paixão por tecnologia e sou guiada pelo aprendizado constante. Me considero pouco tímida, mas não tenho medo de desafios. Estou disposta a sair da minha zona de conforto.",
+    "Durante a maior parte da minha trajetória profissional trabalhei com atendimento ao cliente, levo essas experiências para o desenvolvimento web pensando em quem irá consumir o que estou desenvolvendo e como posso contribuir para sua experiência. "
   ],
   "no_que_ja_trabalhei": [
     {
-      "cargo_funcao": "Design Gráfica",
-      "empresa": "Empresa XPTO",
-      "periodo": "Jan/2017 a Dez/2018",
-      "atividades_desenvolvidas": "Diagramação, posts para as redes sociais, gerenciamento do site; atendimento e venda de ingresso para eventos.",
-      "link": null
+      "cargo_funcao": "Customer Support",
+      "empresa": "Sympla",
+      "periodo": "Out/2020 - presente",
+      "atividades_desenvolvidas": "Suporte online ao participante dos eventos publicados na Sympla. Busco entender os desafios, a dor do cliente e trabalhar com resolução de problemas.",
+      "link": "https://beta.sympla.com.br/"
     },
     {
-      "cargo_funcao": "Projeto Voluntário",
-      "empresa": "Reprograma - Cliente Fulano",
-      "periodo": "Jan/2017 a Dez/2018",
-      "atividades_desenvolvidas": "Diagramação, posts para as redes sociais, gerenciamento do site; atendimento e venda de ingresso para eventos.",
-      "link": "http://clientefulano.com.br"
+      "cargo_funcao": "Assistente Financeiro",
+      "empresa": "Bume",
+      "periodo": "Fev/2020 a Mai/2020",
+      "atividades_desenvolvidas": "Rotinas financeiras de contas a pagar, contato com fornecedores, emissão, envio e cancelamento de notas fiscais. ",
+      "link": "https://bume.com/"
+    },
+    {
+      "cargo_funcao": "Assistente de Atendimento ao cliente",
+      "empresa": "Bume",
+      "periodo": "Mar/2019 a Fev/2020",
+      "atividades_desenvolvidas": "Atendimento ao cliente B2C e B2B, análise de resultados e orientação na gestão de redes sociais. Atendimento de clientes sensíveis, operações de reembolso e reestruturação de processos de atendimento financeiro. ",
+      "link": "https://www.bume.com"
     }
   ],
   "o_que_ja_estudei": [
     {
-      "curso": "Design Gráfico",
-      "instituicao": "Escola Tal",
-      "periodo": "Jan/2016 a Dez/2018",
-      "resumo_conhecimentos_aprendidos": "Criação, planejamento, edição de mídias e conteúdos"
+      "curso": "Bootcamp Desenvolvimento Back-End",
+      "instituicao": "Reprograma",
+      "periodo": "Ago/2020 a Dez/2020",
+      "resumo_conhecimentos_aprendidos": "Programação back-end (lógica de programação, Javascript, API Rest, MongoDB e NodeJS), conhecimentos básicos de criptografia, orientação e mentoria profissonal."
     },
     {
-      "curso": "Curso de Web Design",
-      "instituicao": "Escola Tal",
-      "periodo": "Jan/2015 a Dez/2015",
-      "resumo_conhecimentos_aprendidos": "Criação, planejamento, edição de mídias e conteúdos"
+      "curso": "Curso Técnico em Desenvolvimento de Sistemas com ênfase em Programação de Dispositivos Móveis",
+      "instituicao": "COLTEC - Universidade Federal de Minas Gerais",
+      "periodo": "Set/2020 a Dez/2021",
+      "resumo_conhecimentos_aprendidos": "Introdução à Programação (Linguagem C e formação geral sobre harware e software); Algoritmos e Estruturas de Dados, Programação Orientada a Objetos, Operação, Manutenção e Projetos com Banco de Dados. Linguagem Java, aplicativos e ambientes para desenvolvimento de softwares; Programação para Dispositivos Móveis (Desenvolver aplicativos para dispositivos moveis nas plataformas Android e iOS. Projetar software com aplicações reais)."
     }
   ],
   "meus_outros_aprendizados_e_interesses": [
     {
-      "interesse_evento_curso": "Curso online de Javascript",
-      "instituicao": "Udemy",
-      "resumo_conhecimentos_interesses": "Entendimento sobre a sintaxe básica do javascript"
+      "interesse_evento_curso": "Trilha Javascript e NodeJS",
+      "instituicao": "TDC Recife Online 2020",
+      "resumo_conhecimentos_interesses": "Participei como ouvinte em Keynotes e palestras sobre assuntos como Typescript, herança e composição com React e Hooks, Programação Funcional e Clean Architecture em NodeJS"
     },
     {
-      "interesse_evento_curso": "Curso ES6",
-      "instituicao": "Udemy",
-      "resumo_conhecimentos_interesses": "Entendimento sobre a sintaxe moderna do javascript"
+      "interesse_evento_curso": "Trilha Design de Código",
+      "instituicao": "TDC Recife Online 2020",
+      "resumo_conhecimentos_interesses": "Participei como ouvinte em Keynotes e palestras sobre assuntos como testes, TDD (Test Driven Design), DDD (Domain Driven Design), linguagens estáticas ou dinâmicas, design patterns e Reactive Programming."
+    },
+    {
+      "interesse_evento_curso": "Cybersecurity Essentials",
+      "instituicao": "Cisco",
+      "resumo_conhecimentos_interesses": "Credencial adquirida através do NetAcademy, possuo conhecimentos básicos em segurança cibernética, redes, DevSecOps (desenvolvimento, segurança e operações) e leis de segurança.",
+      "link": "https://www.youracclaim.com/badges/0a1a8871-a527-4529-96df-8ba0afa1e337?source=linked_in_profile"
     }
   ],
   "no_que_me_destaco": [
-    { "habilidade_ferramenta": "HTML", "pontuacao": 9 },
-    { "habilidade_ferramenta": "CSS", "pontuacao": 9 },
-    { "habilidade_ferramenta": "SASS", "pontuacao": 6 },
+    { "habilidade_ferramenta": "NODE", "pontuacao": 9 },
+    { "habilidade_ferramenta": "REST API", "pontuacao": 9 },
+    { "habilidade_ferramenta": "GIT/GITHUB", "pontuacao": 9 },
     { "habilidade_ferramenta": "JAVASCRIPT", "pontuacao": 8 },
-    { "habilidade_ferramenta": "JQUERY", "pontuacao": 6 },
-    { "habilidade_ferramenta": "NODE", "pontuacao": 1 },
-    { "habilidade_ferramenta": "GIT/GITHUB", "pontuacao": 8 },
-    { "habilidade_ferramenta": "BOOTSTRAP", "pontuacao": 9 },
-    { "habilidade_ferramenta": "REACT", "pontuacao": 8 },
+    { "habilidade_ferramenta": "C", "pontuacao": 6 },
+    { "habilidade_ferramenta": "MONGODB", "pontuacao": 6 },
+    { "habilidade_ferramenta": "UX DESIGN", "pontuacao": 5 },
     { "habilidade_ferramenta": "METODOLOGIAS ÁGEIS", "pontuacao": 5 },
-    { "habilidade_ferramenta": "RESPONSIVIDADE", "pontuacao": 9 },
-    { "habilidade_ferramenta": "UX DESIGN", "pontuacao": 6 },
-    { "habilidade_ferramenta": "TECNOLOGIA ASSISTIVAS", "pontuacao": 6 },
-    { "habilidade_ferramenta": "WORDPRESS", "pontuacao": 9 },
-    { "habilidade_ferramenta": "PHP", "pontuacao": 3 },
-    { "habilidade_ferramenta": "MySQL", "pontuacao": 3 },
-    { "habilidade_ferramenta": "HOSPEDAGEM DE SITE", "pontuacao": 8 },
-    { "habilidade_ferramenta": "FTP", "pontuacao": 5 },
-    { "habilidade_ferramenta": "CONFIGURAÇÃO DE DOMÍNIO", "pontuacao": 8 },
-    { "habilidade_ferramenta": "PHOTOSHOP", "pontuacao": 9 },
-    { "habilidade_ferramenta": "ILUSTRATOR", "pontuacao": 9 },
-    { "habilidade_ferramenta": "INDESIGN", "pontuacao": 9 }
+    { "habilidade_ferramenta": "AUTENTICAÇÃO JWT", "pontuacao": 4},
+    { "habilidade_ferramenta": "HTML", "pontuacao": 3},
+    { "habilidade_ferramenta": "CSS", "pontuacao": 3}
   ]
 }
