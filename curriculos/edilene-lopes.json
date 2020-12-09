@@ -1,80 +1,110 @@
 {
-  "nome_completo": "Seu Nome Completo",
-  "o_que_eu_quero": "Descrição resumida sobre o que você deseja para sua carreira",
-  "cidade_estado:": "São Paulo/SP",
-  "link_linkedin": "https://www.linkedin.com/in/seulinkedin/",
-  "link_github": "https://github.com/seugithub",
-  "email": "seuemail@gmail.com",
+  "nome_completo": "Edilene Lopes do Rosario",
+  "o_que_eu_quero": "Busco oportunidade para ser desenvolvedora Back-end.",
+  "cidade_estado:": "Mairinque/SP",
+  "link_linkedin": "https://www.linkedin.com/in/edilene-lopes/",
+  "link_github": "https://github.com/EdileneLopes",
+  "email": "lopes_edi@yahoo.com.br",
   "um_pouco_sobre_mim": [
-    "Aqui é um parágrafo descrevendo um pouco sobre você",
-    "Aqui é outro parágrafo falando sobre sua trajetória",
-    "Nesse aqui você pode dizer o que você curte fazer",
-    "Fique a vontade, mas busque ser objetiva"
+    "Apaixonada por aprender e por apoiar jornadas de pessoas. Empenhada em contribuir com a inclusão de mulheres na tecnologia. Resiliente, eu me adapto fácil às mudanças (mudei de cidade algumas vezes por conta do emprego do meu marido). Parei um tempo na carreira profissional para maternar. Foi incrível! Aprendi a cultivar equilíbrio emocional, recomeçar não é tão assustador pra mim, acredito que não exista 'tempo certo' para fazer as coisas, sou determinada. ",
+    "Possuo experiência em diversos segmentos da indústria: metalurgia, automotiva e eletromecânica, têxtil, gestão de resíduos. Já atuei como funcionária pública. Muito engajada na área administrativa, também possuo experiência nos setores: financeiro, compras, faturamento e atendimento ao público. Todas essas experiências contribuíram para que eu desenvolvesse habilidades de comunicação efeitva, troca de feedbacks e resolução de problemas com assertividade. Liderei equipe durante certificação ISO 14.001",
+    "Gosto do back-end, dos registros das informações. ",
+    "Estudei de forma autodidata até que fui selecionada para o Bootcamp da Reprograma. Descobri que programação é para mim. Tenho certeza que quero trilhar essa jornada."
+    
+    
   ],
   "no_que_ja_trabalhei": [
     {
-      "cargo_funcao": "Design Gráfica",
-      "empresa": "Empresa XPTO",
-      "periodo": "Jan/2017 a Dez/2018",
-      "atividades_desenvolvidas": "Diagramação, posts para as redes sociais, gerenciamento do site; atendimento e venda de ingresso para eventos.",
+      "cargo_funcao": "Ass. Admnistrativo",
+      "empresa": "Lisy Soluções em Metalurgia Ltda",
+      "periodo": "Ago - Nov/2018",
+      "atividades_desenvolvidas": "Entrei para dar suporte ao time de vendas, alimentando planilhas em excel. Fui transferida para o setor de faturamento.",
       "link": null
     },
     {
-      "cargo_funcao": "Projeto Voluntário",
-      "empresa": "Reprograma - Cliente Fulano",
-      "periodo": "Jan/2017 a Dez/2018",
-      "atividades_desenvolvidas": "Diagramação, posts para as redes sociais, gerenciamento do site; atendimento e venda de ingresso para eventos.",
-      "link": "http://clientefulano.com.br"
+      "cargo_funcao": "Ass. Administrativo",
+      "empresa": "Petrocrepe Higienização e Gestão de Resíduos Ltda",
+      "periodo": "2011 a 2012",
+      "atividades_desenvolvidas": "Responsável por ajudar a criar e manter o sistema de gestão ambiental tendo em consideração a certificação ISO 14.001, manter a equipe focada e motivada.",
+      "link": null
+    },
+    {
+      "cargo_funcao": "Ass. Administrativo",
+      "empresa": "Huayra Acabamentos Texteis Ltda",
+      "periodo": "2010 a 2011",
+      "atividades_desenvolvidas": "Contas a pagar e receber, manutenção do fluxo de caixa. Relatórios e indicadores mensais. Responsável pelo setor de faturmento.",
+      "link": null
+    },
+    {
+      "cargo_funcao": "Ass. Administrativo",
+      "empresa": "Cablaggi Sanmitsu Conexões Elétricas Ltda",
+      "periodo": "2008 a 2010",
+      "atividades_desenvolvidas": "Compras de materiais improdutivos e ferramentas. Recepcionista.",
+      "link": null
     }
   ],
   "o_que_ja_estudei": [
     {
-      "curso": "Design Gráfico",
-      "instituicao": "Escola Tal",
-      "periodo": "Jan/2016 a Dez/2018",
-      "resumo_conhecimentos_aprendidos": "Criação, planejamento, edição de mídias e conteúdos"
+      "curso": "Bootcamp Back-end",
+      "instituicao": "{Reprograma}",
+      "periodo": "Ago-Dez/2020",
+      "resumo_conhecimentos_aprendidos": "Versionamento de código e Github, construção de API Rest,Mongo Db, Autenticação e autorização (JWT)"
     },
     {
-      "curso": "Curso de Web Design",
-      "instituicao": "Escola Tal",
-      "periodo": "Jan/2015 a Dez/2015",
-      "resumo_conhecimentos_aprendidos": "Criação, planejamento, edição de mídias e conteúdos"
+      "curso": "Bacharelado em Ciências Econômicas",
+      "instituicao": "Universidade Cruzeiro do Sul",
+      "periodo": "Jun/2017 a Dez/2019",
+      "resumo_conhecimentos_aprendidos": "Como se relacionam os fenômenos de produção e bens de consumo e serviços. Como as famílias e empresas utilizam bens escassos para atender necessidades ilimitadas."
+    },
+    {
+      "curso": "Curso Mongo Db",
+      "instituicao": "Dani.Academy",
+      "periodo": "Em andamento",
+      "resumo_conhecimentos_aprendidos": "O que é um banco de dados NoSQL."
+    },
+    {
+      "curso": "Become Remote",
+      "instituicao": "Digitall Innovation One",
+      "periodo": "17 horas",
+      "resumo_conhecimentos_aprendidos": "Melhores práticas para o trabalho remoto."
+    },
+    {
+      "curso": "Inglês",
+      "instituicao": "Wise Up",
+      "periodo": "2011",
+      "resumo_conhecimentos_aprendidos": "Língua Inglesa."
     }
   ],
   "meus_outros_aprendizados_e_interesses": [
+    {"Voluntariado"},
     {
-      "interesse_evento_curso": "Curso online de Javascript",
-      "instituicao": "Udemy",
-      "resumo_conhecimentos_interesses": "Entendimento sobre a sintaxe básica do javascript"
+      "interesse_evento_curso": "Professora de Word e Excel",
+      "instituicao": "Instituto Granada Mairinque",
+      "resumo_conhecimentos_interesses": "Passando conhecimentos básicos para jovens."
+    },
+    {"Comunidades de Tecnologia"},
+    {
+      "interesse_evento_curso": "",
+      "instituicao": "Cloud Girls",
+      "resumo_conhecimentos_interesses": "Membro."
     },
     {
-      "interesse_evento_curso": "Curso ES6",
-      "instituicao": "Udemy",
-      "resumo_conhecimentos_interesses": "Entendimento sobre a sintaxe moderna do javascript"
+      "interesse_evento_curso": "",
+      "instituicao": "PyLadies Brasil",
+      "resumo_conhecimentos_interesses": "Membro."
     }
+
   ],
   "no_que_me_destaco": [
-    { "habilidade_ferramenta": "HTML", "pontuacao": 9 },
-    { "habilidade_ferramenta": "CSS", "pontuacao": 9 },
-    { "habilidade_ferramenta": "SASS", "pontuacao": 6 },
-    { "habilidade_ferramenta": "JAVASCRIPT", "pontuacao": 8 },
-    { "habilidade_ferramenta": "JQUERY", "pontuacao": 6 },
-    { "habilidade_ferramenta": "NODE", "pontuacao": 1 },
-    { "habilidade_ferramenta": "GIT/GITHUB", "pontuacao": 8 },
-    { "habilidade_ferramenta": "BOOTSTRAP", "pontuacao": 9 },
-    { "habilidade_ferramenta": "REACT", "pontuacao": 8 },
-    { "habilidade_ferramenta": "METODOLOGIAS ÁGEIS", "pontuacao": 5 },
-    { "habilidade_ferramenta": "RESPONSIVIDADE", "pontuacao": 9 },
-    { "habilidade_ferramenta": "UX DESIGN", "pontuacao": 6 },
-    { "habilidade_ferramenta": "TECNOLOGIA ASSISTIVAS", "pontuacao": 6 },
-    { "habilidade_ferramenta": "WORDPRESS", "pontuacao": 9 },
-    { "habilidade_ferramenta": "PHP", "pontuacao": 3 },
-    { "habilidade_ferramenta": "MySQL", "pontuacao": 3 },
-    { "habilidade_ferramenta": "HOSPEDAGEM DE SITE", "pontuacao": 8 },
-    { "habilidade_ferramenta": "FTP", "pontuacao": 5 },
-    { "habilidade_ferramenta": "CONFIGURAÇÃO DE DOMÍNIO", "pontuacao": 8 },
-    { "habilidade_ferramenta": "PHOTOSHOP", "pontuacao": 9 },
-    { "habilidade_ferramenta": "ILUSTRATOR", "pontuacao": 9 },
-    { "habilidade_ferramenta": "INDESIGN", "pontuacao": 9 }
+    { "habilidade_ferramenta": "GITHUB", "pontuacao": 8 },
+    { "habilidade_ferramenta": "NODEJS", "pontuacao": 8 },
+    { "habilidade_ferramenta": "MONGO", "pontuacao": 6 },
+    { "habilidade_ferramenta": "API", "pontuacao": 7 },
+    { "habilidade_ferramenta": "PYTHON", "pontuacao": 5 },
+    { "habilidade_ferramenta": "LÓGICA DE PROGRAMAÇÃO", "pontuacao": 6 },
+    { "habilidade_ferramenta": "ARQUITETURA MVC", "pontuacao": 9 },
+    { "habilidade_ferramenta": "BOOTSTRAP", "pontuacao": 2 },
+    { "habilidade_ferramenta": "ES6", "pontuacao": 4 }
+    
   ]
 }
