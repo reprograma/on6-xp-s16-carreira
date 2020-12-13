@@ -1,80 +1,112 @@
 {
-  "nome_completo": "Seu Nome Completo",
-  "o_que_eu_quero": "Descrição resumida sobre o que você deseja para sua carreira",
-  "cidade_estado:": "São Paulo/SP",
-  "link_linkedin": "https://www.linkedin.com/in/seulinkedin/",
-  "link_github": "https://github.com/seugithub",
-  "email": "seuemail@gmail.com",
+  "nome_completo": "Andréia Rosa Cardoso",
+  "o_que_eu_quero": "Ser uma desenvolvedora backend, contribuindo com o crescimento da empresa e impactando positivamente a vida das pessoas",
+  "cidade_estado:": "Marília/SP",
+  "link_linkedin": "https://www.linkedin.com/in/andreia-rcardoso/",
+  "link_github": "https://github.com/andreianet",
+  "email": "andreia.netsys@gmail.com", 
   "um_pouco_sobre_mim": [
-    "Aqui é um parágrafo descrevendo um pouco sobre você",
-    "Aqui é outro parágrafo falando sobre sua trajetória",
-    "Nesse aqui você pode dizer o que você curte fazer",
-    "Fique a vontade, mas busque ser objetiva"
+    "Sou uma mulher de 37 anos, realizada familiar, porém buscando minha realização profissional.",
+    "Formada em Análise e Desenvolvimento de Sistema, consegui um grau máximo como Analista de Suporte. Com o curso técnologo, pude dar continuidade aos estudos, sendo assim, fiz uma pós em desenvolvimento web e mobile.Porém, sempre na área de suporte. Atualmente, buscando um sonho de estar numa equipe de desenvolvimento, sendo desenvolvedora, para aprender a criar, projetar, analisar e resolver diversos problemas. ",
+    "Sou apaixonada por futebol desde pequena, atualmente me aventurando no ciclismo, mas amante de xadrez e games."
+    
   ],
   "no_que_ja_trabalhei": [
     {
-      "cargo_funcao": "Design Gráfica",
-      "empresa": "Empresa XPTO",
-      "periodo": "Jan/2017 a Dez/2018",
-      "atividades_desenvolvidas": "Diagramação, posts para as redes sociais, gerenciamento do site; atendimento e venda de ingresso para eventos.",
+      "cargo_funcao": "Gerente/Analista de Suporte ",
+      "empresa": "Webtechnologic Sistemas Ltda",
+      "periodo": "Mar/2010 a Mar/2017",
+      "atividades_desenvolvidas": "Implantação e Treinamento do sistema( para clientes e representantes), Testes de Software, Análise de Banco de Dados, Suporte técnico geral",
       "link": null
     },
     {
-      "cargo_funcao": "Projeto Voluntário",
-      "empresa": "Reprograma - Cliente Fulano",
-      "periodo": "Jan/2017 a Dez/2018",
-      "atividades_desenvolvidas": "Diagramação, posts para as redes sociais, gerenciamento do site; atendimento e venda de ingresso para eventos.",
-      "link": "http://clientefulano.com.br"
+      "cargo_funcao": "Estoquista ",
+      "empresa": "Fatec Informática Ltda",
+      "periodo": "Jun/2005 a Jan/2008",
+      "atividades_desenvolvidas": "Estoquista no ramo de produtos para informática",
+      "link": null
+    },
+    {
+      "cargo_funcao": "Companheira Convidada",
+      "empresa": "Rotary Marília Coroados",
+      "periodo": "Jan/2020 - Presente",
+      "atividades_desenvolvidas": "Junto com meu marido, apoio as entidades filantrópicas e assistenciais de Marilia.",
+      "link": "https://www.rotarydemariliacoroados.org.br/home-clube"
     }
   ],
   "o_que_ja_estudei": [
     {
-      "curso": "Design Gráfico",
-      "instituicao": "Escola Tal",
-      "periodo": "Jan/2016 a Dez/2018",
-      "resumo_conhecimentos_aprendidos": "Criação, planejamento, edição de mídias e conteúdos"
+      "curso": "Backend com NodeJS",
+      "instituicao": "{reprograma}",
+      "periodo": "Ago/2020 a Dez/2020",
+      "resumo_conhecimentos_aprendidos": "O conteúdo do curso foi focado no desenvolvimento Backend, aprendendo lógica de programação, git e gitthub, Api, Node.js, JavaScript, MongoDB."
     },
     {
-      "curso": "Curso de Web Design",
-      "instituicao": "Escola Tal",
-      "periodo": "Jan/2015 a Dez/2015",
-      "resumo_conhecimentos_aprendidos": "Criação, planejamento, edição de mídias e conteúdos"
+      "curso": "Análise e Desenvolvimento de Sistemas",
+      "instituicao": "Faculdade de Tecnologia - Fatec de Garça/SP",
+      "periodo": "Jun/2010 a Jun/2013",
+      "resumo_conhecimentos_aprendidos": "Criar, projetar, analisar e desenvolver software."
+    },
+    {
+      "curso": "Pós Graduação em Desenvolvimento Web e Aplicativos Mobile",
+      "instituicao": "UNIVEM - Centro Universitário Euripides de Marília",
+      "periodo": "Jan/2016 a Jan/2017",
+      "resumo_conhecimentos_aprendidos": "Dominar as melhores técnicas de desenvolvimento, tendo flexibilidade no desenvolvimento de aplicações web e mobile."
+    },
+    {
+      "curso": "Técnico em Informática",
+      "instituicao": "Colégio Bezerra de Menezes",
+      "periodo": "Jan/2005 a Jan/2006",
+      "resumo_conhecimentos_aprendidos": "Aprender informática avançada de forma técnica, mas ênfase em programação."
     }
   ],
   "meus_outros_aprendizados_e_interesses": [
     {
-      "interesse_evento_curso": "Curso online de Javascript",
+      "interesse_evento_curso": "Dev. Android",
       "instituicao": "Udemy",
-      "resumo_conhecimentos_interesses": "Entendimento sobre a sintaxe básica do javascript"
+      "resumo_conhecimentos_interesses": "Criar na prática apps. do zero, usando a linguagem Java."
     },
     {
-      "interesse_evento_curso": "Curso ES6",
-      "instituicao": "Udemy",
-      "resumo_conhecimentos_interesses": "Entendimento sobre a sintaxe moderna do javascript"
+      "interesse_evento_curso": "Bootcamp em Ciência de Dados",
+      "instituicao": "IGTI - Instituto de Gestão e Tecnologia da Informação",
+      "resumo_conhecimentos_interesses": "Aplicar crawler, coletar dados, análisar dados obtidos, aplicar algoritmos de Machine Learning."
+    },
+    {
+      "interesse_evento_curso": "Data Sciense - Visualização de Dados",
+      "instituicao": "IGTI - Instituto de Gestão e Tecnologia da Informação",
+      "resumo_conhecimentos_interesses": "Analisar e visualizar dados com a biblioteca Pandas."
+    },
+    {
+      "interesse_evento_curso": "II Congresso de Pesquisa Científica: Inovação, Ética e Sustentabilidade",
+      "instituicao": "Faculdade de Tecnologia - Fatec de Garça/SP",
+      "resumo_conhecimentos_interesses": "Projeto: Protótipo de um Sistema de Controle Financeiro Pessoal na Plataforma Android"
     }
   ],
   "no_que_me_destaco": [
-    { "habilidade_ferramenta": "HTML", "pontuacao": 9 },
-    { "habilidade_ferramenta": "CSS", "pontuacao": 9 },
-    { "habilidade_ferramenta": "SASS", "pontuacao": 6 },
-    { "habilidade_ferramenta": "JAVASCRIPT", "pontuacao": 8 },
-    { "habilidade_ferramenta": "JQUERY", "pontuacao": 6 },
-    { "habilidade_ferramenta": "NODE", "pontuacao": 1 },
-    { "habilidade_ferramenta": "GIT/GITHUB", "pontuacao": 8 },
-    { "habilidade_ferramenta": "BOOTSTRAP", "pontuacao": 9 },
-    { "habilidade_ferramenta": "REACT", "pontuacao": 8 },
-    { "habilidade_ferramenta": "METODOLOGIAS ÁGEIS", "pontuacao": 5 },
-    { "habilidade_ferramenta": "RESPONSIVIDADE", "pontuacao": 9 },
-    { "habilidade_ferramenta": "UX DESIGN", "pontuacao": 6 },
-    { "habilidade_ferramenta": "TECNOLOGIA ASSISTIVAS", "pontuacao": 6 },
-    { "habilidade_ferramenta": "WORDPRESS", "pontuacao": 9 },
-    { "habilidade_ferramenta": "PHP", "pontuacao": 3 },
-    { "habilidade_ferramenta": "MySQL", "pontuacao": 3 },
-    { "habilidade_ferramenta": "HOSPEDAGEM DE SITE", "pontuacao": 8 },
+    { "habilidade_ferramenta": "HTML", "pontuacao": 8 },
+    { "habilidade_ferramenta": "CSS", "pontuacao": 6 },
+    { "habilidade_ferramenta": "SASS", "pontuacao": 5 },
+    { "habilidade_ferramenta": "JAVASCRIPT", "pontuacao": 8 },    
+    { "habilidade_ferramenta": "NODE", "pontuacao": 9 },
+    { "habilidade_ferramenta": "GIT/GITHUB", "pontuacao": 8 },    
+    { "habilidade_ferramenta": "REACT", "pontuacao": 5 },
+    { "habilidade_ferramenta": "METODOLOGIAS ÁGEIS", "pontuacao": 6 },
+    { "habilidade_ferramenta": "RESPONSIVIDADE", "pontuacao": 5 },    
+    { "habilidade_ferramenta": "TECNOLOGIA ASSISTIVAS", "pontuacao": 5 },
+    { "habilidade_ferramenta": "WORDPRESS", "pontuacao": 0 },
+    { "habilidade_ferramenta": "POWERBI", "pontuacao": 6 },
+    { "habilidade_ferramenta": "JAVA", "pontuacao": 6 },
+    { "habilidade_ferramenta": "PYTHON", "pontuacao": 5 },
+    { "habilidade_ferramenta": "SQL", "pontuacao": 7 },
+    { "habilidade_ferramenta": "NOSQL", "pontuacao": 6 },
+    { "habilidade_ferramenta": "MySQL", "pontuacao": 9 },
+    { "habilidade_ferramenta": "MONGODB", "pontuacao": 7 },
+    { "habilidade_ferramenta": "SQLite", "pontuacao": 6 },
+    { "habilidade_ferramenta": "SQLSERVER", "pontuacao": 6 },
+    { "habilidade_ferramenta": ".Net", "pontuacao": 5 },
+    { "habilidade_ferramenta": "HOSPEDAGEM DE SITE", "pontuacao": 5 },
     { "habilidade_ferramenta": "FTP", "pontuacao": 5 },
-    { "habilidade_ferramenta": "CONFIGURAÇÃO DE DOMÍNIO", "pontuacao": 8 },
-    { "habilidade_ferramenta": "PHOTOSHOP", "pontuacao": 9 },
-    { "habilidade_ferramenta": "ILUSTRATOR", "pontuacao": 9 },
-    { "habilidade_ferramenta": "INDESIGN", "pontuacao": 9 }
+    { "habilidade_ferramenta": "CONFIGURAÇÃO DE DOMÍNIO", "pontuacao": 5 }
+    
   ]
 }
