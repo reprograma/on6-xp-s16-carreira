@@ -1,80 +1,62 @@
 {
-  "nome_completo": "Seu Nome Completo",
-  "o_que_eu_quero": "Descrição resumida sobre o que você deseja para sua carreira",
-  "cidade_estado:": "São Paulo/SP",
-  "link_linkedin": "https://www.linkedin.com/in/seulinkedin/",
-  "link_github": "https://github.com/seugithub",
-  "email": "seuemail@gmail.com",
+  "nome_completo": "Shaiene Barbosa",
+  "o_que_eu_quero": "Atrelar minhas competências de Growth Marketing à Tecnologia e atuar com gestão de projetos de desenvolvimento para area de marketing",
+  "cidade_estado:": "Florianópolis/SC",
+  "link_linkedin": "https://www.linkedin.com/in/shaienebarbosa/",
+  "link_github": "https://github.com/shaiennes",
+  "email": "shaienecb@gmail.com",
   "um_pouco_sobre_mim": [
-    "Aqui é um parágrafo descrevendo um pouco sobre você",
-    "Aqui é outro parágrafo falando sobre sua trajetória",
-    "Nesse aqui você pode dizer o que você curte fazer",
-    "Fique a vontade, mas busque ser objetiva"
+    "Apaixonada por comportamento humano, as inúmeras possibilidades de adaptação da alimentação vegetariana e a pluralidade musical brasileira ",
+    "Empreededora a mais de 5 anos, atuando com marketing digital e Growth, mas também já fui do varejo, da corretagem imobiliária e atendimento ao cliente",
+    "Adoro aprender coisas novas e amo tecnologias que facilitam o meu dia-a-dia."
+  
   ],
   "no_que_ja_trabalhei": [
     {
-      "cargo_funcao": "Design Gráfica",
-      "empresa": "Empresa XPTO",
-      "periodo": "Jan/2017 a Dez/2018",
-      "atividades_desenvolvidas": "Diagramação, posts para as redes sociais, gerenciamento do site; atendimento e venda de ingresso para eventos.",
-      "link": null
+      "cargo_funcao": "Consultora de Growth Marketing",
+      "empresa": "Growth Office",
+      "periodo": "Nov/2016 a até o memento",
+      "atividades_desenvolvidas": "Desenho de estratégias para estruturação e otimização dos processos da area de marketing, inteligência e operação de automações de marketing, conteúdo persuasivo com foco em jornada de compra e apoio na gestão de times, seguindo a metodologia Agile Growth Marketing.",
+      "link": "https://growthoffice.com.br/"
     },
     {
       "cargo_funcao": "Projeto Voluntário",
-      "empresa": "Reprograma - Cliente Fulano",
-      "periodo": "Jan/2017 a Dez/2018",
-      "atividades_desenvolvidas": "Diagramação, posts para as redes sociais, gerenciamento do site; atendimento e venda de ingresso para eventos.",
-      "link": "http://clientefulano.com.br"
+      "empresa": "Arte de Viver Brasil",
+      "periodo": "Jan/2015 a Jul/2016",
+      "atividades_desenvolvidas": "Atividades relacionadas a produção e publicação de conteúdo nas redes sociais para divulgação de aulas experimentais, eventos externos e cursos para desenvolvimento pessoal, em Florianópolis.",
+      "link": "https://www.artofliving.org/br-pt"
     }
   ],
   "o_que_ja_estudei": [
     {
-      "curso": "Design Gráfico",
-      "instituicao": "Escola Tal",
-      "periodo": "Jan/2016 a Dez/2018",
-      "resumo_conhecimentos_aprendidos": "Criação, planejamento, edição de mídias e conteúdos"
+      "curso": "Marketing",
+      "instituicao": "Estácio de Sá",
+      "periodo": "Jan/2019 a Dez/2020",
+      "resumo_conhecimentos_aprendidos": "Planejamento estratégico de marketing e negócio, finanças e contabilidade, gestão de negócios e projetos."
     },
     {
-      "curso": "Curso de Web Design",
-      "instituicao": "Escola Tal",
-      "periodo": "Jan/2015 a Dez/2015",
-      "resumo_conhecimentos_aprendidos": "Criação, planejamento, edição de mídias e conteúdos"
+      "curso": "Growth Hacking with Digital Marketing (Version 7.3)",
+      "instituicao": "Udemy",
+      "periodo": "Out/2020 a Dez/2020",
+      "resumo_conhecimentos_aprendidos": "Data to learning stratagyes end run your growth team, Accelerate Growth by Developing Personas & Focusing on Specific User Segments, :User Experience: How to Increase Conversions by Leveraging Tech & Psychology, 3 Growth Hacking Career Paths: Product, Consulting, and CRO ... more"
     }
   ],
   "meus_outros_aprendizados_e_interesses": [
     {
       "interesse_evento_curso": "Curso online de Javascript",
-      "instituicao": "Udemy",
+      "instituicao": "Digital Inovation One",
       "resumo_conhecimentos_interesses": "Entendimento sobre a sintaxe básica do javascript"
-    },
-    {
-      "interesse_evento_curso": "Curso ES6",
-      "instituicao": "Udemy",
-      "resumo_conhecimentos_interesses": "Entendimento sobre a sintaxe moderna do javascript"
     }
+   
   ],
   "no_que_me_destaco": [
-    { "habilidade_ferramenta": "HTML", "pontuacao": 9 },
-    { "habilidade_ferramenta": "CSS", "pontuacao": 9 },
-    { "habilidade_ferramenta": "SASS", "pontuacao": 6 },
-    { "habilidade_ferramenta": "JAVASCRIPT", "pontuacao": 8 },
-    { "habilidade_ferramenta": "JQUERY", "pontuacao": 6 },
-    { "habilidade_ferramenta": "NODE", "pontuacao": 1 },
+    { "habilidade_ferramenta": "JAVASCRIPT", "pontuacao": 5 },
+    { "habilidade_ferramenta": "NODE", "pontuacao": 3 },
     { "habilidade_ferramenta": "GIT/GITHUB", "pontuacao": 8 },
-    { "habilidade_ferramenta": "BOOTSTRAP", "pontuacao": 9 },
-    { "habilidade_ferramenta": "REACT", "pontuacao": 8 },
-    { "habilidade_ferramenta": "METODOLOGIAS ÁGEIS", "pontuacao": 5 },
-    { "habilidade_ferramenta": "RESPONSIVIDADE", "pontuacao": 9 },
-    { "habilidade_ferramenta": "UX DESIGN", "pontuacao": 6 },
-    { "habilidade_ferramenta": "TECNOLOGIA ASSISTIVAS", "pontuacao": 6 },
-    { "habilidade_ferramenta": "WORDPRESS", "pontuacao": 9 },
-    { "habilidade_ferramenta": "PHP", "pontuacao": 3 },
-    { "habilidade_ferramenta": "MySQL", "pontuacao": 3 },
-    { "habilidade_ferramenta": "HOSPEDAGEM DE SITE", "pontuacao": 8 },
-    { "habilidade_ferramenta": "FTP", "pontuacao": 5 },
-    { "habilidade_ferramenta": "CONFIGURAÇÃO DE DOMÍNIO", "pontuacao": 8 },
-    { "habilidade_ferramenta": "PHOTOSHOP", "pontuacao": 9 },
-    { "habilidade_ferramenta": "ILUSTRATOR", "pontuacao": 9 },
-    { "habilidade_ferramenta": "INDESIGN", "pontuacao": 9 }
-  ]
+    { "habilidade_ferramenta": "METODOLOGIAS ÁGEIS", "pontuacao": 9 },
+    { "habilidade_ferramenta": "WORDPRESS", "pontuacao": 7 },
+    { "habilidade_ferramenta": "CONFIGURAÇÃO DE DOMÍNIO", "pontuacao": 5 },
+    { "habilidade_ferramenta": "PHOTOSHOP", "pontuacao": 7 },
+    { "habilidade_ferramenta": "ILUSTRATOR", "pontuacao": 6 }
+   ]
 }
