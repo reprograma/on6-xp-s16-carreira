@@ -1,80 +1,98 @@
 {
-  "nome_completo": "Seu Nome Completo",
-  "o_que_eu_quero": "Descrição resumida sobre o que você deseja para sua carreira",
+  "nome_completo": "Mariana Pinheiro",
+  "o_que_eu_quero": "Meu principal objetivo é atuar como Engenheira de Software, colaborando com um olhar mais diverso para a tecnologia.",
   "cidade_estado:": "São Paulo/SP",
-  "link_linkedin": "https://www.linkedin.com/in/seulinkedin/",
-  "link_github": "https://github.com/seugithub",
-  "email": "seuemail@gmail.com",
+  "link_linkedin": "https://www.linkedin.com/in/mrnpinheiro/",
+  "link_github": "https://github.com/mrnpinheiro",
+  "email": "mpinheiro@usp.br",
   "um_pouco_sobre_mim": [
-    "Aqui é um parágrafo descrevendo um pouco sobre você",
-    "Aqui é outro parágrafo falando sobre sua trajetória",
-    "Nesse aqui você pode dizer o que você curte fazer",
-    "Fique a vontade, mas busque ser objetiva"
+    "Tenho 23 anos e sou apaixonada por pessoas, números e tecnologia. Estudo Matemática e trabalho no setor Financeiro de uma startup de tecnologia.",
+    "Estou imersa em estudos voltados a TI com foco em Algoritmos, Estrutura de Dados, Orientação a Objeto e Testes.",
+    "Sou muito curiosa e gosto de respostas... Mas gosto mais ainda de perguntas. Aprender sobre como o nosso mundo funciona me deixa entusiasmada.",
+    "Vegetariana, amo a natureza, a Netflix e o céu noturno. Gosto de acampar, jogar video game e faço modalidade aéreos no circo."
   ],
   "no_que_ja_trabalhei": [
     {
-      "cargo_funcao": "Design Gráfica",
-      "empresa": "Empresa XPTO",
-      "periodo": "Jan/2017 a Dez/2018",
-      "atividades_desenvolvidas": "Diagramação, posts para as redes sociais, gerenciamento do site; atendimento e venda de ingresso para eventos.",
-      "link": null
+      "cargo_funcao": "Analista Financeiro",
+      "empresa": "Loggi",
+      "periodo": "Jan/2019 a Atualmente",
+      "atividades_desenvolvidas": "Exportar e moldar dados para cobrança, conciliação bancária e emissão de documentos fiscais. Documentação de processos, mapeamento de regras, análises gerenciais e automatização de tarefas.",
+      "link": "https://www.loggi.com/"
     },
     {
-      "cargo_funcao": "Projeto Voluntário",
-      "empresa": "Reprograma - Cliente Fulano",
-      "periodo": "Jan/2017 a Dez/2018",
-      "atividades_desenvolvidas": "Diagramação, posts para as redes sociais, gerenciamento do site; atendimento e venda de ingresso para eventos.",
-      "link": "http://clientefulano.com.br"
+      "cargo_funcao": "Estagiária de Seleção",
+      "empresa": "Ensina Brasil",
+      "periodo": "Mar/2018 a Dez/2018",
+      "atividades_desenvolvidas": "Construção de todo o Processo Seletivo (100% online) para seleção de professores, montando dashboards para facilitar a tomada de decisão, propondo automatizações e melhorias de processos.",
+      "link": "https://www.ensinabrasil.org/"
+    },
+    {
+      "cargo_funcao": "Analista de Suporte",
+      "empresa": "SumUp",
+      "periodo": "Fev/2017 a Out/2017",
+      "atividades_desenvolvidas": "Estruturação de relatórios gerenciais de indicadores para análise da performance do atendimento (NPS) e indentificando possíveis oportunidade nos dados.",
+      "link": "https://www.sumup.com.br/"
     }
   ],
   "o_que_ja_estudei": [
     {
-      "curso": "Design Gráfico",
-      "instituicao": "Escola Tal",
-      "periodo": "Jan/2016 a Dez/2018",
-      "resumo_conhecimentos_aprendidos": "Criação, planejamento, edição de mídias e conteúdos"
+      "curso": "Matemática",
+      "instituicao": "Universidade de São Paulo",
+      "periodo": "Fev/2017 a Atualmente",
+      "resumo_conhecimentos_aprendidos": "Curso de graduação em andamento 8° semestre - IME-USP."
     },
     {
-      "curso": "Curso de Web Design",
-      "instituicao": "Escola Tal",
-      "periodo": "Jan/2015 a Dez/2015",
-      "resumo_conhecimentos_aprendidos": "Criação, planejamento, edição de mídias e conteúdos"
+      "curso": "Bootcamp Back-End",
+      "instituicao": "Reprograma",
+      "periodo": "Ago/2020 a Dez/2020",
+      "resumo_conhecimentos_aprendidos": "JavaScript, API REST com NodeJS, MongoDB e JWT."
+    },
+    {
+      "curso": "Curso DevOps",
+      "instituicao": "Digital House - Academia Neon",
+      "periodo": "Jan/2020 a Abr/2020",
+      "resumo_conhecimentos_aprendidos": "Ansible, Docker, Jenkins e AWS. Foco em automatizações."
+    },
+    {
+      "curso": "Curso Eu Programo",
+      "instituicao": "PrograMaria",
+      "periodo": "Jul/2016 a Out/2016",
+      "resumo_conhecimentos_aprendidos": "HTML, CSS e JavaScript."
     }
   ],
   "meus_outros_aprendizados_e_interesses": [
     {
-      "interesse_evento_curso": "Curso online de Javascript",
-      "instituicao": "Udemy",
-      "resumo_conhecimentos_interesses": "Entendimento sobre a sintaxe básica do javascript"
+      "interesse_evento_curso": "CS50",
+      "instituicao": "Harvard",
+      "resumo_conhecimentos_interesses": "Introdução à Ciência da Computação."
     },
     {
-      "interesse_evento_curso": "Curso ES6",
-      "instituicao": "Udemy",
-      "resumo_conhecimentos_interesses": "Entendimento sobre a sintaxe moderna do javascript"
+      "interesse_evento_curso": "Python",
+      "instituicao": "Alura",
+      "resumo_conhecimentos_interesses": "Python 3: Avançando na linguagem, Orientação a Objetos, Collections e Manipulação de Strings."
+    },
+    {
+      "interesse_evento_curso": "Data Science",
+      "instituicao": "Alura",
+      "resumo_conhecimentos_interesses": "Análises em Pandas (Jupyter Notebook)."
     }
   ],
   "no_que_me_destaco": [
-    { "habilidade_ferramenta": "HTML", "pontuacao": 9 },
-    { "habilidade_ferramenta": "CSS", "pontuacao": 9 },
-    { "habilidade_ferramenta": "SASS", "pontuacao": 6 },
-    { "habilidade_ferramenta": "JAVASCRIPT", "pontuacao": 8 },
-    { "habilidade_ferramenta": "JQUERY", "pontuacao": 6 },
-    { "habilidade_ferramenta": "NODE", "pontuacao": 1 },
-    { "habilidade_ferramenta": "GIT/GITHUB", "pontuacao": 8 },
-    { "habilidade_ferramenta": "BOOTSTRAP", "pontuacao": 9 },
-    { "habilidade_ferramenta": "REACT", "pontuacao": 8 },
-    { "habilidade_ferramenta": "METODOLOGIAS ÁGEIS", "pontuacao": 5 },
-    { "habilidade_ferramenta": "RESPONSIVIDADE", "pontuacao": 9 },
-    { "habilidade_ferramenta": "UX DESIGN", "pontuacao": 6 },
-    { "habilidade_ferramenta": "TECNOLOGIA ASSISTIVAS", "pontuacao": 6 },
-    { "habilidade_ferramenta": "WORDPRESS", "pontuacao": 9 },
-    { "habilidade_ferramenta": "PHP", "pontuacao": 3 },
-    { "habilidade_ferramenta": "MySQL", "pontuacao": 3 },
-    { "habilidade_ferramenta": "HOSPEDAGEM DE SITE", "pontuacao": 8 },
-    { "habilidade_ferramenta": "FTP", "pontuacao": 5 },
-    { "habilidade_ferramenta": "CONFIGURAÇÃO DE DOMÍNIO", "pontuacao": 8 },
-    { "habilidade_ferramenta": "PHOTOSHOP", "pontuacao": 9 },
-    { "habilidade_ferramenta": "ILUSTRATOR", "pontuacao": 9 },
-    { "habilidade_ferramenta": "INDESIGN", "pontuacao": 9 }
+    { "habilidade_ferramenta": "Google Apps", "pontuacao": 10 },
+    { "habilidade_ferramenta": "Jira", "pontuacao": 10 },
+    { "habilidade_ferramenta": "Git/Github", "pontuacao": 9 },
+    { "habilidade_ferramenta": "Python", "pontuacao": 9 },
+    { "habilidade_ferramenta": "Postman", "pontuacao": 9 },
+    { "habilidade_ferramenta": "JavaScript", "pontuacao": 8 },
+    { "habilidade_ferramenta": "NodeJS", "pontuacao": 8 },
+    { "habilidade_ferramenta": "MongoDB", "pontuacao": 8 },
+    { "habilidade_ferramenta": "Arquitetura MVC", "pontuacao": 7 },
+    { "habilidade_ferramenta": "Metodologias Ágeis", "pontuacao": 7 },
+    { "habilidade_ferramenta": "FTP", "pontuacao": 7 },
+    { "habilidade_ferramenta": "Docker", "pontuacao": 6 },
+    { "habilidade_ferramenta": "PostgreSQL", "pontuacao": 6 },
+    { "habilidade_ferramenta": "HTML", "pontuacao": 5 },
+    { "habilidade_ferramenta": "CSS", "pontuacao": 5 },
+    { "habilidade_ferramenta": "AWS", "pontuacao": 5 }
   ]
 }
