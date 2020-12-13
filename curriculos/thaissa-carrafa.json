@@ -1,80 +1,92 @@
 {
-  "nome_completo": "Seu Nome Completo",
-  "o_que_eu_quero": "Descrição resumida sobre o que você deseja para sua carreira",
-  "cidade_estado:": "São Paulo/SP",
-  "link_linkedin": "https://www.linkedin.com/in/seulinkedin/",
-  "link_github": "https://github.com/seugithub",
-  "email": "seuemail@gmail.com",
+  "nome_completo": "Thaíssa Carrafa do Nascimento",
+  "o_que_eu_quero": "Estou aberta à oportunidades na carreira de tecnologia, pois desejo me tornar uma desenvolvedora Back-end.",
+  "cidade_estado:": "Vila Velha/ES",
+  "link_linkedin": "https://www.linkedin.com/in/thaissacarrafa/",
+  "link_github": "https://github.com/thaissacarrafa",
+  "email": "thaissacarrafa@gmail.com",
   "um_pouco_sobre_mim": [
-    "Aqui é um parágrafo descrevendo um pouco sobre você",
-    "Aqui é outro parágrafo falando sobre sua trajetória",
-    "Nesse aqui você pode dizer o que você curte fazer",
-    "Fique a vontade, mas busque ser objetiva"
+    "Sou capixaba, 27 anos, advogada e estudante de programação 📚 , mãe da Ester 🍼 e do doguinho Tony Stark 🐶, apaixonada por paisagens 🍃, comida e por bons momentos com minha família 💕. Sou dedicada, curiosa e me dedico ao máximo a toda atividade que exerço. Atualmente trabalho em uma startup onde tive meu primeiro contato direto com o mundo da tecnologia e assim surgiu meu interesse em aprender a programar. Aluna da turma On6 do {reprograma} 💜 Back- End,  onde extrai o máximo de conhecimento neste primeiro degrau de muitos que pretendo percorrer para me tornar uma Desenvolvedora."
+    
+  
   ],
   "no_que_ja_trabalhei": [
     {
-      "cargo_funcao": "Design Gráfica",
-      "empresa": "Empresa XPTO",
-      "periodo": "Jan/2017 a Dez/2018",
-      "atividades_desenvolvidas": "Diagramação, posts para as redes sociais, gerenciamento do site; atendimento e venda de ingresso para eventos.",
-      "link": null
+      "cargo_funcao": "Analista de Engajamento e Campanhas PJ - Customer Success",
+      "empresa": "Picpay",
+      "periodo": "Nov/2020 - o momento",
+      "atividades_desenvolvidas": "Criação e implementação de campanhas B2B em conjunto com os setores de growth, dados, desenvolvimento de sistemas e executivos de vendas e demais squads do Customer Success.",
+      "link": "https://www.picpay.com/site"
     },
     {
-      "cargo_funcao": "Projeto Voluntário",
-      "empresa": "Reprograma - Cliente Fulano",
-      "periodo": "Jan/2017 a Dez/2018",
-      "atividades_desenvolvidas": "Diagramação, posts para as redes sociais, gerenciamento do site; atendimento e venda de ingresso para eventos.",
-      "link": "http://clientefulano.com.br"
+      "cargo_funcao": "Analista de Prevenção à Fraude",
+      "empresa": "Picpay",
+      "periodo": "Abr/2019 a Nov/2020",
+      "atividades_desenvolvidas": "Análise de cadastros e documentos, bem como contato telefônico com o cliente a fim de detectar e prevenir casos de fraudes tipificadas no mercado financeiro, observando inclusive práticas de PLD e crimes cibernéticos para localizar comportamento financeiro em desacordo com a legislação vigente.",
+      "link": "https://www.picpay.com/site"
+    },
+    {
+      "cargo_funcao": "Escrevente",
+      "empresa": "Cartório de 1° Ofício de Cariacica",
+      "periodo": "Fev/2018 a Abr/2019",
+      "atividades_desenvolvidas": "Informações, orientações e aberturas de protocolos relacionados às serventias do cartório ( Registro Geral de Imóveis, Titulos e Documentos, Pessoa Jurídica e Protesto) . Organização do setor e arquivo. Emissão de relatórios diários de atendimentos e serviços realizados.",
+      "link": "http://www.cart1oficio.com.br/"
+    },
+    {
+      "cargo_funcao": "Analista de Atendimento ao Cliente",
+      "empresa": "Procon Estadual do ES",
+      "periodo": "Abr/2013 a Dez/2017",
+      "atividades_desenvolvidas": "Atendimento ao cliente (telefone, e-mail e presencial) a fim de realizar registro de reclamações e informações. A função envolvia o intermédio de resolução de demandas via telefone e mediante registros em sistema bem como análise e elaboração de pareceres. Mediação de conflitos entre consumidor e fornecedor. Processamento de dados. Emissão de Parecer em Processos Administrativos, na função de Assessoria Técnica PROCON/ES, indicando a necessidade de aplicação de Sanção aos Fornecedores. Serviço Cartorário (manipulação/ controle de processos, arquivamento e afins).",
+      
+      "link": "https://procon.es.gov.br/"
     }
   ],
   "o_que_ja_estudei": [
     {
-      "curso": "Design Gráfico",
-      "instituicao": "Escola Tal",
-      "periodo": "Jan/2016 a Dez/2018",
-      "resumo_conhecimentos_aprendidos": "Criação, planejamento, edição de mídias e conteúdos"
+      "curso": "Bootcamp Back-end NodeJS",
+      "instituicao": "Reprograma",
+      "periodo": "Agos/2020 a Dez/2020",
+      "resumo_conhecimentos_aprendidos": "Lógica de Programação, JavaScript, Nodejs , API Rest e  Mongo DB."
     },
     {
-      "curso": "Curso de Web Design",
-      "instituicao": "Escola Tal",
-      "periodo": "Jan/2015 a Dez/2015",
-      "resumo_conhecimentos_aprendidos": "Criação, planejamento, edição de mídias e conteúdos"
+      "curso": "Introdução ao GitHub e comandos para trabalhar em equipe e Git e Controle de Versões",
+      "instituicao": "Digital Innovation One",
+      "periodo": "Agos/2020 - 06 horas",
+      "resumo_conhecimentos_aprendidos": "História do Git, principais comandos e formas de simplificar o trabalho com a plataforma."
     }
   ],
   "meus_outros_aprendizados_e_interesses": [
     {
-      "interesse_evento_curso": "Curso online de Javascript",
-      "instituicao": "Udemy",
-      "resumo_conhecimentos_interesses": "Entendimento sobre a sintaxe básica do javascript"
+      "interesse_evento_curso": "Inteligência Emocional",
+      "instituicao": "Conquer",
+      "resumo_conhecimentos_interesses": "O curso ensina a lidar com emoções tanto na vida pessoal como profissional, ensinando-nos a sermos mais fortes em meio em momentos de incertezas."
     },
     {
-      "interesse_evento_curso": "Curso ES6",
-      "instituicao": "Udemy",
-      "resumo_conhecimentos_interesses": "Entendimento sobre a sintaxe moderna do javascript"
+      "interesse_evento_curso": "Crimes Cibernéticos: Os Principais iscos e Técnicas Básicas de Prevenção",
+      "instituicao": "Policia Civil de Minas Gerais",
+      "resumo_conhecimentos_interesses": "O curso visa instruir a população acerca dos principais crimes cibernéticos praticados hoje, destacando importantes medidas preventivas e repressivas a serem adotadas."
+    },
+      {
+      "interesse_evento_curso": "Fundamentos do Scrum",
+      "instituicao": "LinkedIn",
+      "resumo_conhecimentos_interesses": "Noções básicas de Scrum do qual estou aprofundando maiores conhecimentos com outros cursos e com a prática em reuniões com desenvolvedores e analistas de dados em minha atual função."
     }
-  ],
+     ],
   "no_que_me_destaco": [
-    { "habilidade_ferramenta": "HTML", "pontuacao": 9 },
-    { "habilidade_ferramenta": "CSS", "pontuacao": 9 },
-    { "habilidade_ferramenta": "SASS", "pontuacao": 6 },
-    { "habilidade_ferramenta": "JAVASCRIPT", "pontuacao": 8 },
-    { "habilidade_ferramenta": "JQUERY", "pontuacao": 6 },
-    { "habilidade_ferramenta": "NODE", "pontuacao": 1 },
+    { "habilidade_ferramenta": "HTML", "pontuacao": 3 },
+    { "habilidade_ferramenta": "CSS", "pontuacao": 3 },
+    { "habilidade_ferramenta": "JAVASCRIPT", "pontuacao": 7 },
+    { "habilidade_ferramenta": "NODE", "pontuacao": 7 },
     { "habilidade_ferramenta": "GIT/GITHUB", "pontuacao": 8 },
-    { "habilidade_ferramenta": "BOOTSTRAP", "pontuacao": 9 },
-    { "habilidade_ferramenta": "REACT", "pontuacao": 8 },
-    { "habilidade_ferramenta": "METODOLOGIAS ÁGEIS", "pontuacao": 5 },
-    { "habilidade_ferramenta": "RESPONSIVIDADE", "pontuacao": 9 },
-    { "habilidade_ferramenta": "UX DESIGN", "pontuacao": 6 },
-    { "habilidade_ferramenta": "TECNOLOGIA ASSISTIVAS", "pontuacao": 6 },
-    { "habilidade_ferramenta": "WORDPRESS", "pontuacao": 9 },
-    { "habilidade_ferramenta": "PHP", "pontuacao": 3 },
-    { "habilidade_ferramenta": "MySQL", "pontuacao": 3 },
-    { "habilidade_ferramenta": "HOSPEDAGEM DE SITE", "pontuacao": 8 },
-    { "habilidade_ferramenta": "FTP", "pontuacao": 5 },
-    { "habilidade_ferramenta": "CONFIGURAÇÃO DE DOMÍNIO", "pontuacao": 8 },
-    { "habilidade_ferramenta": "PHOTOSHOP", "pontuacao": 9 },
-    { "habilidade_ferramenta": "ILUSTRATOR", "pontuacao": 9 },
-    { "habilidade_ferramenta": "INDESIGN", "pontuacao": 9 }
+    { "habilidade_ferramenta": "MONGODB", "pontuacao": 4 },
+    { "habilidade_ferramenta": "METODOLOGIAS ÁGEIS", "pontuacao": 8 },
+    { "habilidade_ferramenta": "MARKETING DIGITAL", "pontuacao": 8 },
+    { "habilidade_ferramenta": "SERVIÇOS FINANCEIROS", "pontuacao": 9 },
+    { "habilidade_ferramenta": "POSTMAN", "pontuacao": 7 },
+    { "habilidade_ferramenta": "API REST", "pontuacao": 6 },
+    { "habilidade_ferramenta": "POWER POINT", "pontuacao": 8 },
+    { "habilidade_ferramenta": "EXCEL", "pontuacao": 7 }
+
+
   ]
 }
