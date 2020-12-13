@@ -1,80 +1,97 @@
 {
-  "nome_completo": "Seu Nome Completo",
-  "o_que_eu_quero": "Descrição resumida sobre o que você deseja para sua carreira",
+  "nome_completo": "Tainara Moreno da Dilva",
+  "o_que_eu_quero": "Desenvolvimento Bank-end, somando a experiência na qualidade de software com testes unitários, teste end-to-end e desenvolvimento de automação dos testes.",
   "cidade_estado:": "São Paulo/SP",
-  "link_linkedin": "https://www.linkedin.com/in/seulinkedin/",
-  "link_github": "https://github.com/seugithub",
-  "email": "seuemail@gmail.com",
+  "link_linkedin": "https://www.linkedin.com/in/tainara-moreno/",
+  "link_github": "https://github.com/TainaraMoreno",
+  "email": "tainaramoreno89@gmail.com",
   "um_pouco_sobre_mim": [
-    "Aqui é um parágrafo descrevendo um pouco sobre você",
-    "Aqui é outro parágrafo falando sobre sua trajetória",
-    "Nesse aqui você pode dizer o que você curte fazer",
-    "Fique a vontade, mas busque ser objetiva"
+    "Sempre fui desafiadora, sem medo do novo. Sempre em busca do que é necessário para alcançar os objetivos, mesmo com toda insegurança das mudanças.
+    Atuei no mercado da Metalúrgica como Desenhista Mecânica, planejamento e controle de produção, ampliei meus conhecimentos para o CNC, trabalhando com programação de corte a laser e qualidade de peças.
+    Atualmente na área de Tecnológica como Analista de Qualidade de Software, focando do desenvolvimento de sistemas."
   ],
   "no_que_ja_trabalhei": [
     {
-      "cargo_funcao": "Design Gráfica",
-      "empresa": "Empresa XPTO",
-      "periodo": "Jan/2017 a Dez/2018",
-      "atividades_desenvolvidas": "Diagramação, posts para as redes sociais, gerenciamento do site; atendimento e venda de ingresso para eventos.",
+      "cargo_funcao": "Analista de qualidade de software",
+      "empresa": "Groove Tech - Cliente C6Bank",
+      "periodo": "Mai/2019 a Atual",
+      "atividades_desenvolvidas": "Atuando dentro do cliente C6BANK com os testes regressivos, mapeando de cenários, reportando bugs e controle de não-conformidades.",
+      "link": "https://www.groove.tech/"
+    },
+    {
+      "cargo_funcao": "Desenhista Mecânica/Projetista",
+      "empresa": "Pinheiro Máquinas",
+      "periodo": "Ago/2018 a Mai/2019",
+      "atividades_desenvolvidas": "Atualização dos projetos de desejos dos profutos já existentes e reposnsavel pela criação e desiner de novos projetos. ",
+      "link": "https://pinheiromaquinas.com.br/produto/maquina-de-algodao-doce-profissional"
+    },
+    {
+      "cargo_funcao": "Planejamento e Controle de Produção",
+      "empresa": "Aralaser",
+      "periodo": "Out/2016 a Set/2017",
+      "atividades_desenvolvidas": "Responsável pelo setor de PCP. Implantação do apontamento de atividades de cada funcionários, para controle de tempo e otimização dos processos. Trabalhando também com a programação de Corte a Laser, fazendo escalar e controlando o trafego da maquina.",
       "link": null
     },
     {
-      "cargo_funcao": "Projeto Voluntário",
-      "empresa": "Reprograma - Cliente Fulano",
-      "periodo": "Jan/2017 a Dez/2018",
-      "atividades_desenvolvidas": "Diagramação, posts para as redes sociais, gerenciamento do site; atendimento e venda de ingresso para eventos.",
-      "link": "http://clientefulano.com.br"
+      "cargo_funcao": "Planejamento e Controle da Produção",
+      "empresa": "Dal Mak Equipamentos para Embalagens",
+      "periodo": "Ago/2012 a Out/2016",
+      "atividades_desenvolvidas": "Atuando na área de desenho onde era responsável pelos projetos, depois de um ano fui convidada para participar da implantação do PCP (Planejamento e Controle da Produção.",
+      "link": "https://dalmak.com.br/"
     }
   ],
   "o_que_ja_estudei": [
     {
-      "curso": "Design Gráfico",
-      "instituicao": "Escola Tal",
-      "periodo": "Jan/2016 a Dez/2018",
-      "resumo_conhecimentos_aprendidos": "Criação, planejamento, edição de mídias e conteúdos"
+      "curso": "Análise e Desenvolvimento de Sistemas",
+      "instituicao": "Fatec Zona Sul",
+      "periodo": "Jan/2019 a Dez/2021",
+      "resumo_conhecimentos_aprendidos": "Criação, o desenvolvimento, a análise, a projeção e a implementação de sistemas de informação."
     },
     {
-      "curso": "Curso de Web Design",
-      "instituicao": "Escola Tal",
-      "periodo": "Jan/2015 a Dez/2015",
-      "resumo_conhecimentos_aprendidos": "Criação, planejamento, edição de mídias e conteúdos"
+      "curso": "Tecnologia em Produção Industrial",
+      "instituicao": "Fatec Taquaritinga",
+      "periodo": "Jan/20O9 a Dez/2012",
+      "resumo_conhecimentos_aprendidos": "Planejamento e controle da produção industrial, logística de entrada de matéria-prima e distribuição dos produtos acabados, gestão ambiental, gestão de estoque e criação de produtos, além de administração, direito empresarial "
     }
   ],
   "meus_outros_aprendizados_e_interesses": [
     {
-      "interesse_evento_curso": "Curso online de Javascript",
-      "instituicao": "Udemy",
-      "resumo_conhecimentos_interesses": "Entendimento sobre a sintaxe básica do javascript"
+      "interesse_evento_curso": "Desenvolvedora Back-end",
+      "instituicao": "Reprograma",
+      "resumo_conhecimentos_interesses": "Desenvolvimento Back-end - principais tecnologias JavaScript, Git, Github, MongoDB, Node.js"
     },
     {
-      "interesse_evento_curso": "Curso ES6",
+      "interesse_evento_curso": " Robot Framework para Web",
+      "instituicao": "QaNinja",
+      "resumo_conhecimentos_interesses": "Automatizar testes de sistemas WEB"
+    }, 
+    {
+      "interesse_evento_curso": "  Automação de Testes com Robot Framework ",
       "instituicao": "Udemy",
-      "resumo_conhecimentos_interesses": "Entendimento sobre a sintaxe moderna do javascript"
-    }
+      "resumo_conhecimentos_interesses": "Automatizar testes de sistemas WEB e API"
+    } 
+
+
   ],
   "no_que_me_destaco": [
-    { "habilidade_ferramenta": "HTML", "pontuacao": 9 },
-    { "habilidade_ferramenta": "CSS", "pontuacao": 9 },
-    { "habilidade_ferramenta": "SASS", "pontuacao": 6 },
-    { "habilidade_ferramenta": "JAVASCRIPT", "pontuacao": 8 },
-    { "habilidade_ferramenta": "JQUERY", "pontuacao": 6 },
-    { "habilidade_ferramenta": "NODE", "pontuacao": 1 },
-    { "habilidade_ferramenta": "GIT/GITHUB", "pontuacao": 8 },
-    { "habilidade_ferramenta": "BOOTSTRAP", "pontuacao": 9 },
-    { "habilidade_ferramenta": "REACT", "pontuacao": 8 },
-    { "habilidade_ferramenta": "METODOLOGIAS ÁGEIS", "pontuacao": 5 },
+    { "habilidade_ferramenta": "JAVASCRIPT", "pontuacao": 7 },
+    { "habilidade_ferramenta": "NODE", "pontuacao": 7 },
+    { "habilidade_ferramenta": "GIT/GITHUB", "pontuacao": 9 },
+    { "habilidade_ferramenta": "ROBOT FRAMEWORK", "pontuacao": 7 },
+    { "habilidade_ferramenta": "RUBY", "pontuacao": 7 },
+    { "habilidade_ferramenta": "CAPYBARA", "pontuacao": 6 },
+    { "habilidade_ferramenta": "CUCUMPER", "pontuacao": 6 },
+    { "habilidade_ferramenta": "POSTMAN", "pontuacao": 7 },
+    { "habilidade_ferramenta": "JIRA", "pontuacao": 7 },
+    { "habilidade_ferramenta": "CONFLUENCE", "pontuacao": 7 },
+    { "habilidade_ferramenta": "PYTHON", "pontuacao": 5 },    
+    { "habilidade_ferramenta": "REACT", "pontuacao": 5},
+    { "habilidade_ferramenta": "METODOLOGIAS ÁGEIS", "pontuacao": 8},
     { "habilidade_ferramenta": "RESPONSIVIDADE", "pontuacao": 9 },
-    { "habilidade_ferramenta": "UX DESIGN", "pontuacao": 6 },
     { "habilidade_ferramenta": "TECNOLOGIA ASSISTIVAS", "pontuacao": 6 },
     { "habilidade_ferramenta": "WORDPRESS", "pontuacao": 9 },
-    { "habilidade_ferramenta": "PHP", "pontuacao": 3 },
     { "habilidade_ferramenta": "MySQL", "pontuacao": 3 },
-    { "habilidade_ferramenta": "HOSPEDAGEM DE SITE", "pontuacao": 8 },
-    { "habilidade_ferramenta": "FTP", "pontuacao": 5 },
-    { "habilidade_ferramenta": "CONFIGURAÇÃO DE DOMÍNIO", "pontuacao": 8 },
-    { "habilidade_ferramenta": "PHOTOSHOP", "pontuacao": 9 },
-    { "habilidade_ferramenta": "ILUSTRATOR", "pontuacao": 9 },
-    { "habilidade_ferramenta": "INDESIGN", "pontuacao": 9 }
+    { "habilidade_ferramenta": "PHOTOSHOP", "pontuacao": 5},
+
   ]
 }
