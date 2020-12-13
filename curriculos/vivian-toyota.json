@@ -1,80 +1,77 @@
 {
-  "nome_completo": "Seu Nome Completo",
-  "o_que_eu_quero": "Descrição resumida sobre o que você deseja para sua carreira",
+  "nome_completo": "Vivian Kimie Toyota",
+  "o_que_eu_quero": " Me tornar uma Desenvolvedora" ,
   "cidade_estado:": "São Paulo/SP",
-  "link_linkedin": "https://www.linkedin.com/in/seulinkedin/",
-  "link_github": "https://github.com/seugithub",
-  "email": "seuemail@gmail.com",
+  "link_linkedin": "https://www.linkedin.com/in/vivian-toyota/",
+  "link_github": "https://github.com/viviantoyota",
+  "email": "vikimitoyota@gmail.com",
   "um_pouco_sobre_mim": [
-    "Aqui é um parágrafo descrevendo um pouco sobre você",
-    "Aqui é outro parágrafo falando sobre sua trajetória",
-    "Nesse aqui você pode dizer o que você curte fazer",
-    "Fique a vontade, mas busque ser objetiva"
+    "Ja me disseram que sou muito boa em me adaptar a qualquer tipo de situação, desde criança teve alguns momentos que minha resiliência foi desafiada, mas acabei me saindo muito bem.",
+    "Aos 7 anos me mudei pro Japão, onde morei por 4 anos, e dentro desse período tive que mudar de escola algumas vezes",
+    "Gosto muito além de estudar tecnologia, estudar sobre Astronomia e música Eletrônica, para ser uma DJ nos tempos livres",
+    
   ],
   "no_que_ja_trabalhei": [
     {
-      "cargo_funcao": "Design Gráfica",
-      "empresa": "Empresa XPTO",
-      "periodo": "Jan/2017 a Dez/2018",
-      "atividades_desenvolvidas": "Diagramação, posts para as redes sociais, gerenciamento do site; atendimento e venda de ingresso para eventos.",
+      "cargo_funcao": "Jovem Aprendiz",
+      "empresa": "Empresa Riachuelo S.A",
+      "periodo": "Jun/2015 a Mar/2016",
+      "atividades_desenvolvidas": "Auxiliava na parte de Design gráfico, usando o software Illustrator e Photoshop pra ajudar na parte de criação de estampas",
       "link": null
     },
     {
-      "cargo_funcao": "Projeto Voluntário",
-      "empresa": "Reprograma - Cliente Fulano",
-      "periodo": "Jan/2017 a Dez/2018",
-      "atividades_desenvolvidas": "Diagramação, posts para as redes sociais, gerenciamento do site; atendimento e venda de ingresso para eventos.",
-      "link": "http://clientefulano.com.br"
+      "cargo_funcao": "Assessora",
+      "empresa": "Ziro Negócios Digitais",
+      "periodo": "Out/2019 a Jul/2020",
+      "atividades_desenvolvidas": "Auxiliava lojistas de atacado nas compras nos polos do Bom retiro, Itaim.",
+      "link": "https://ziro.com.br/"
     }
   ],
   "o_que_ja_estudei": [
     {
-      "curso": "Design Gráfico",
-      "instituicao": "Escola Tal",
-      "periodo": "Jan/2016 a Dez/2018",
-      "resumo_conhecimentos_aprendidos": "Criação, planejamento, edição de mídias e conteúdos"
+      "curso": "Design de Moda",
+      "instituicao": "Faculdade das Américas",
+      "periodo": "Jan/2016 a Dez/2017",
+      "resumo_conhecimentos_aprendidos": "Criação, planejamento de roupas"
     },
     {
-      "curso": "Curso de Web Design",
-      "instituicao": "Escola Tal",
-      "periodo": "Jan/2015 a Dez/2015",
-      "resumo_conhecimentos_aprendidos": "Criação, planejamento, edição de mídias e conteúdos"
+      "curso": "Curso de Comissário de Voo",
+      "instituicao": "Escola Eagles",
+      "periodo": "08/2019 a Dez/2019",
+      "resumo_conhecimentos_aprendidos": "Conhecimentos gerais sobre a aviação, e serviço de bordo"
     }
   ],
   "meus_outros_aprendizados_e_interesses": [
     {
-      "interesse_evento_curso": "Curso online de Javascript",
+      "interesse_evento_curso": "Curso online de JQuery",
       "instituicao": "Udemy",
-      "resumo_conhecimentos_interesses": "Entendimento sobre a sintaxe básica do javascript"
+      "resumo_conhecimentos_interesses": "Entendimento básico da ferramenta JQuery"
     },
     {
       "interesse_evento_curso": "Curso ES6",
       "instituicao": "Udemy",
       "resumo_conhecimentos_interesses": "Entendimento sobre a sintaxe moderna do javascript"
+    },
+    {
+      "interesse_evento_curso": "Curso MySQL",
+      "instituicao": "Udemy",
+      "resumo_conhecimentos_interesses": "Entendimento sobre a ferramenta MySQL"
+    },
+    {
+      "interesse_evento_curso": "Curso Git/GitHub",
+      "instituicao": "Udemy",
+      "resumo_conhecimentos_interesses": "Entendimento sobre Git e GitHub"
     }
   ],
   "no_que_me_destaco": [
-    { "habilidade_ferramenta": "HTML", "pontuacao": 9 },
-    { "habilidade_ferramenta": "CSS", "pontuacao": 9 },
-    { "habilidade_ferramenta": "SASS", "pontuacao": 6 },
+    { "habilidade_ferramenta": "CSS", "pontuacao": 4 },
     { "habilidade_ferramenta": "JAVASCRIPT", "pontuacao": 8 },
-    { "habilidade_ferramenta": "JQUERY", "pontuacao": 6 },
-    { "habilidade_ferramenta": "NODE", "pontuacao": 1 },
-    { "habilidade_ferramenta": "GIT/GITHUB", "pontuacao": 8 },
-    { "habilidade_ferramenta": "BOOTSTRAP", "pontuacao": 9 },
-    { "habilidade_ferramenta": "REACT", "pontuacao": 8 },
-    { "habilidade_ferramenta": "METODOLOGIAS ÁGEIS", "pontuacao": 5 },
-    { "habilidade_ferramenta": "RESPONSIVIDADE", "pontuacao": 9 },
-    { "habilidade_ferramenta": "UX DESIGN", "pontuacao": 6 },
-    { "habilidade_ferramenta": "TECNOLOGIA ASSISTIVAS", "pontuacao": 6 },
-    { "habilidade_ferramenta": "WORDPRESS", "pontuacao": 9 },
-    { "habilidade_ferramenta": "PHP", "pontuacao": 3 },
-    { "habilidade_ferramenta": "MySQL", "pontuacao": 3 },
-    { "habilidade_ferramenta": "HOSPEDAGEM DE SITE", "pontuacao": 8 },
-    { "habilidade_ferramenta": "FTP", "pontuacao": 5 },
-    { "habilidade_ferramenta": "CONFIGURAÇÃO DE DOMÍNIO", "pontuacao": 8 },
-    { "habilidade_ferramenta": "PHOTOSHOP", "pontuacao": 9 },
-    { "habilidade_ferramenta": "ILUSTRATOR", "pontuacao": 9 },
-    { "habilidade_ferramenta": "INDESIGN", "pontuacao": 9 }
+    { "habilidade_ferramenta": "GIT/GITHUB", "pontuacao": 7 },
+    { "habilidade_ferramenta": "PHOTOSHOP", "pontuacao": 8 },
+    { "habilidade_ferramenta": "ILUSTRATOR", "pontuacao": 8 },
+    { "habilidade_ferramenta": "INDESIGN", "pontuacao": 7 },
+    { "habilidade_ferramenta": "CORELDRAW", "pontuacao": 7 },
+    { "habilidade_ferramenta": "SAP", "pontuacao": 5 },
+    { "habilidade_ferramenta": "RHINOCEROS 3D", "pontuacao": 7 }
   ]
 }
