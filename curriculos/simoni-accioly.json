@@ -1,80 +1,96 @@
 {
-  "nome_completo": "Seu Nome Completo",
-  "o_que_eu_quero": "Descrição resumida sobre o que você deseja para sua carreira",
-  "cidade_estado:": "São Paulo/SP",
-  "link_linkedin": "https://www.linkedin.com/in/seulinkedin/",
-  "link_github": "https://github.com/seugithub",
-  "email": "seuemail@gmail.com",
+  "nome_completo": "Simoni Accioly Vieira",
+  "o_que_eu_quero": "Desenvolvedora Back-End",
+  "cidade_estado:": "Rio de Janeiro/RJ",
+  "link_linkedin": "https://www.linkedin.com/in/seulinkedin/simoniaccioly",
+  "link_github": "https://github.com/SimoniAccioly",
+  "email": "simonimsb@gmail.com",
   "um_pouco_sobre_mim": [
-    "Aqui é um parágrafo descrevendo um pouco sobre você",
-    "Aqui é outro parágrafo falando sobre sua trajetória",
-    "Nesse aqui você pode dizer o que você curte fazer",
-    "Fique a vontade, mas busque ser objetiva"
+    "Sou estudante de tecnologia, atualmente faço Back-End, mas já fiz uma bootcamp de Front-End.",
+    "Sou formada em Administração, tenho experiência com administrativo e vendas, porém estou em transição de carreira.",
+    "Eu curto participar de eventos de TI para aprender novas tecnologias e participar da comunidade de mulheres na tecnologia, seja divulgando cursos, eventos, vagas e compartilhando o que aprendi"
   ],
   "no_que_ja_trabalhei": [
     {
-      "cargo_funcao": "Design Gráfica",
-      "empresa": "Empresa XPTO",
-      "periodo": "Jan/2017 a Dez/2018",
-      "atividades_desenvolvidas": "Diagramação, posts para as redes sociais, gerenciamento do site; atendimento e venda de ingresso para eventos.",
+      "cargo_funcao": "Representante de vendas",
+      "empresa": "EBGE BRASIL MARKETING DIGITAL",
+      "periodo": "AGO/2017 a OUT/2017",
+      "atividades_desenvolvidas": "Identificação e prospecção de novos clientes (proprietários de empresas de micro, médio e grande porte), visita porta a porta para apresentação do produto, avaliação do potencial cliente e fechamento de contratos. Responsável por Marketing B2C e geração de novos leads.",
       "link": null
     },
     {
-      "cargo_funcao": "Projeto Voluntário",
-      "empresa": "Reprograma - Cliente Fulano",
-      "periodo": "Jan/2017 a Dez/2018",
-      "atividades_desenvolvidas": "Diagramação, posts para as redes sociais, gerenciamento do site; atendimento e venda de ingresso para eventos.",
-      "link": "http://clientefulano.com.br"
+      "cargo_funcao": "Corretora",
+      "empresa": "SAWALA CONSULTORIA IMOBILIÁRIA",
+      "periodo": "JUL/2013 a FEV/2015",
+      "atividades_desenvolvidas": "Elaboração de mídia on-line, divulgação de marketing digital, Manutenção de carteira de clientes, atendimento e consultoria a clientes em busca de imóveis e prospecção de novos clientes. Responsável pelo setor de atendimento on-line.",
+      "link": null
+    },
+    {
+      "cargo_funcao": "Estagiária Administrativa",
+      "empresa": "NOVARTIS BIOCIÊNCIAS S.A",
+      "periodo": "MAR/2011 a DEZ/2012",
+      "atividades_desenvolvidas": "Gerenciamento do escritório e suporte aos Gerentes e Representantes em Geral, auxílio nos processos de RH, DP e viagens, controle de pagamentos aos fornecedores médicos e do escritório, montagens de planilhas de controle de orçamento (budget, débitos, despesas internas, etc.)  Responsável pelo setor da Cardiorrespiratória Brasil.",
+      "link": null
     }
   ],
   "o_que_ja_estudei": [
     {
-      "curso": "Design Gráfico",
-      "instituicao": "Escola Tal",
-      "periodo": "Jan/2016 a Dez/2018",
-      "resumo_conhecimentos_aprendidos": "Criação, planejamento, edição de mídias e conteúdos"
+      "curso": "Desenvolvimento Back-End",
+      "instituicao": "Reprograma",
+      "periodo": "Ago/2020 a Dez/2020",
+      "resumo_conhecimentos_aprendidos": "Git/GitHub, Lógica de programação, JavaScript, EC6, API, estruturaMVC, MongoDB e JWT"
     },
     {
-      "curso": "Curso de Web Design",
-      "instituicao": "Escola Tal",
-      "periodo": "Jan/2015 a Dez/2015",
-      "resumo_conhecimentos_aprendidos": "Criação, planejamento, edição de mídias e conteúdos"
+      "curso": "Desenvolvimento Front-End",
+      "instituicao": "Gama Academy",
+      "periodo": "Jun/2020 a Jul/2020",
+      "resumo_conhecimentos_aprendidos": "Lógica de Programação, Git/GitHub, HTML, CSS, Bootstrap, Estrutura de dados, JavaScript e React"
+    },
+    {
+      "curso": "Administração",
+      "instituicao": "Centro Universitário Moacyr Sreder Bastos",
+      "periodo": "Jan/2008 a Dez/2012",
+      "resumo_conhecimentos_aprendidos": "Administração Geral"
     }
+    
   ],
   "meus_outros_aprendizados_e_interesses": [
     {
-      "interesse_evento_curso": "Curso online de Javascript",
-      "instituicao": "Udemy",
-      "resumo_conhecimentos_interesses": "Entendimento sobre a sintaxe básica do javascript"
+      "interesse_evento_curso": "Semana FullStack",
+      "instituicao": "LuizTools",
+      "resumo_conhecimentos_interesses": "Front-End, Back-End, MySql e Deploy na AWS"
     },
     {
-      "interesse_evento_curso": "Curso ES6",
+      "interesse_evento_curso": "MongoDB",
+      "instituicao": "Semantix",
+      "resumo_conhecimentos_interesses": "Docker Compose, CRUD, MongoExpress, MongoDB Compass e MongoDB Atlas"
+    },
+    {
+      "interesse_evento_curso": "Oficina Hello Word",
+      "instituicao": "Simara Conceição e Karen Vanesca",
+      "resumo_conhecimentos_interesses": "HTML, CSS, JavaScript, GitHub e Deploy no Netlyfy"
+    },
+    {
+      "interesse_evento_curso": "Desenvolvimento Web Completo",
       "instituicao": "Udemy",
-      "resumo_conhecimentos_interesses": "Entendimento sobre a sintaxe moderna do javascript"
+      "resumo_conhecimentos_interesses": "Front-End, Back-End e Banco de dados"
     }
   ],
   "no_que_me_destaco": [
-    { "habilidade_ferramenta": "HTML", "pontuacao": 9 },
-    { "habilidade_ferramenta": "CSS", "pontuacao": 9 },
-    { "habilidade_ferramenta": "SASS", "pontuacao": 6 },
-    { "habilidade_ferramenta": "JAVASCRIPT", "pontuacao": 8 },
-    { "habilidade_ferramenta": "JQUERY", "pontuacao": 6 },
-    { "habilidade_ferramenta": "NODE", "pontuacao": 1 },
-    { "habilidade_ferramenta": "GIT/GITHUB", "pontuacao": 8 },
+    { "habilidade_ferramenta": "HTML", "pontuacao": 8 },
+    { "habilidade_ferramenta": "CSS", "pontuacao": 8 },
+    { "habilidade_ferramenta": "JAVASCRIPT", "pontuacao": 9 },
+    { "habilidade_ferramenta": "NODE", "pontuacao": 9 },
+    { "habilidade_ferramenta": "GIT/GITHUB", "pontuacao": 9 },
     { "habilidade_ferramenta": "BOOTSTRAP", "pontuacao": 9 },
-    { "habilidade_ferramenta": "REACT", "pontuacao": 8 },
-    { "habilidade_ferramenta": "METODOLOGIAS ÁGEIS", "pontuacao": 5 },
-    { "habilidade_ferramenta": "RESPONSIVIDADE", "pontuacao": 9 },
-    { "habilidade_ferramenta": "UX DESIGN", "pontuacao": 6 },
-    { "habilidade_ferramenta": "TECNOLOGIA ASSISTIVAS", "pontuacao": 6 },
-    { "habilidade_ferramenta": "WORDPRESS", "pontuacao": 9 },
-    { "habilidade_ferramenta": "PHP", "pontuacao": 3 },
+    { "habilidade_ferramenta": "REACT", "pontuacao": 5 },
+    { "habilidade_ferramenta": "METODOLOGIAS ÁGEIS", "pontuacao": 7 },
+    { "habilidade_ferramenta": "MONGODB", "pontuacao": 9 },
+    { "habilidade_ferramenta": "RESPONSIVIDADE", "pontuacao": 8 },
     { "habilidade_ferramenta": "MySQL", "pontuacao": 3 },
     { "habilidade_ferramenta": "HOSPEDAGEM DE SITE", "pontuacao": 8 },
-    { "habilidade_ferramenta": "FTP", "pontuacao": 5 },
     { "habilidade_ferramenta": "CONFIGURAÇÃO DE DOMÍNIO", "pontuacao": 8 },
-    { "habilidade_ferramenta": "PHOTOSHOP", "pontuacao": 9 },
-    { "habilidade_ferramenta": "ILUSTRATOR", "pontuacao": 9 },
-    { "habilidade_ferramenta": "INDESIGN", "pontuacao": 9 }
+    { "habilidade_ferramenta": "FIGMA", "pontuacao": 7 },
+    { "habilidade_ferramenta": "CANVA", "pontuacao": 8 }
   ]
 }
